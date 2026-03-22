@@ -1,7 +1,7 @@
 from discord_webhook import DiscordWebhook, DiscordEmbed
 from csv_helpers import save_used_cards
 from constants import IMAGES_FOLDER
-import random, os, re
+import random, os, re, requests
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -44,12 +44,10 @@ def send_card(card):
         color=extract_color_from_gradient(gradient_str)
     )
 
-    image_path = os.path.join(IMAGES_FOLDER, f"{card['CardNumber']}.png")
+    image_url = f"{IMAGES_FOLDER}/{card['CardNumber']}.png"
 
-    if os.path.exists(image_path):
-        with open(image_path, "rb") as img:
-            webhook.add_file(file=img.read(), filename=f"{card['CardNumber']}.png")
-        embed.set_image(url=f"attachment://{card['CardNumber']}.png")
+    if github_image_exists(image_url):
+        embed.set_image(url=image_url)
     else:
         print(f"No image found for CardNumber {card['CardNumber']}")
 
@@ -57,7 +55,7 @@ def send_card(card):
     webhook.execute()
     
 def extract_color_from_gradient(gradient_str):
-    print(gradient_str)
+
     if not gradient_str:
         return 0x595959
 
@@ -69,3 +67,6 @@ def extract_color_from_gradient(gradient_str):
 
     return (r << 16) + (g << 8) + b
 
+def github_image_exists(url):
+    response = requests.head(url)
+    return response.status_code == 200

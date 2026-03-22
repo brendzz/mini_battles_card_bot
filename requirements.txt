@@ -3,3 +3,4 @@ schedule
 discord-webhook
 dotenv
 pandas
+requests
