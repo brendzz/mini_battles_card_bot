@@ -1,0 +1,5 @@
+PyYAML
+schedule
+discord-webhook
+dotenv
+pandas

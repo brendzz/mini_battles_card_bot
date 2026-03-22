@@ -1,0 +1,1066 @@
+Copies,Attack,Defence,Faction,Name,Traits,Action,Tags,Designer,CardNumber
+10,0,2,Mercenaries,Private,,,Starting,Brendan Head,1-1
+2,0,1,Mercenaries,Infantry,<em>- Hold The Line! -</em><br><strong>On Recruit:</strong> Attacks this turn. Gains +1/+1 counters equal to number of other friendly units in this Lane.,,,Brendan Head,1-2
+1,3,1,Mercenaries,Archer,{attacksLast:Attacks Last.}<br><br>Attacks any Lane except its own.,,,Brendan Head,1-3
+2,1,5,Mercenaries,Horseman,{attacksFirst:Attacks First.}<br><br><strong>On Recruit:</strong> Attacks this turn.,,,Brendan Head,1-4
+1,1,2,Mercenaries,Knight,"<em>- Avenge Me, Squire! -</em><br><strong>On Death:</strong> Place a Private with a +1/+1 counter on it in any Lane.",,,Brendan Head,1-5
+2,4,0,Mercenaries,Battering Ram,{action:Action}<br> Attacks this turn.,Action,,Brendan Head,1-6
+2,0,1,Mercenaries,Gladiator,<em>- I Can Do This All Day! -</em><br><strong>End of Turn:</strong> Gains a +1/+1 counter.,,,Brendan Head,1-7
+1,1,2,Mercenaries,Commander,<em>- All According To Plan -</em><br><strong>On Recruit:</strong> Attacks this turn. You decide how damage is dealt to enemy units this turn in all Lanes.,,,Brendan Head,1-8
+2,1,2,Mercenaries,Mob,<em>- Rally the Troops! -</em><br><strong>On Recruit:</strong> Place 1 Private in both other Lanes.,,,Brendan Head,1-9
+2,1,3,Mercenaries,Scout,<strong>On Recruit:</strong> May move this to a different Lane.<br><br><strong>End of Turn:</strong> May move this to a different Lane.,,,Brendan Head,1-10
+1,1,2,Mercenaries,Medic,<strong>On Recruit:</strong> Heal 2 damage.<br><br>This can be from units (in any Lanes) or your HP in any combination.,,,Brendan Head,1-11
+6,0,2,Goblins,Gremlin,,,Starting,Brendan Head,2-1
+2,2,1,Goblins,Sniper,{attacksFirst:Attacks First.}<br><br>Attacks any Lane except its own.,,,Brendan Head,2-2
+2,2,2,Goblins,Arsonist,"{attacksLast:Attacks Last.}<br> When attacking, also deals 1 damage to a different Lane.",,,Brendan Head,2-3
+2,2,4,Goblins,Skirmisher,<strong>On Recruit:</strong> This takes 2 damage.<br><br><strong>End of Turn:</strong> Heals 1 damage on itself.,,,Brendan Head,2-4
+1,1,1,Goblins,The Rat,"You decide how damage is dealt to enemy units in this Lane.<br><br><strong>End of Turn:</strong> If there are no enemy units in this Lane, this dies. Otherwise, you may move this to any Lane.",,,Brendan Head,2-5
+1,4,5,Goblins,King Gizzard,You must damage this before other units in this Lane.<br><br><strong>End of Turn:</strong> This takes 1 damage.,,,Brendan Head,2-6
+2,1,3,Goblins,Hobgoblin,<strong>On Recruit:</strong> Attacks this turn.<br><br>This unit always attacks every turn.,,,Brendan Head,2-7
+2,0,1,Goblins,Potion Master,<strong>End of Turn:</strong> Another unit in this Lane gains a +1/+1 counter.,,,Brendan Head,2-8
+2,3,0,Goblins,Bomb,<em>- Kaboom! -</em><br>{action:Action}<br> All units in this Lane (both friendly and enemy) attack this turn.,Action,,Brendan Head,2-9
+1,0,0,Goblins,Gob,{action:Action}<br> Place a Gremlin with a +1/+1 counter on it in both other Lanes.,Action,,Brendan Head,2-10
+1,1,2,Goblins,Orc Shaman,<strong>On Recruit:</strong> Put a +1/+1 counter on any unit (can be this) in any Lane.,,,Brendan Head,2-11
+10,0,2,Undead,Zombie,,,Starting,Brendan Head,3-1
+2,0,1,Undead,Necromancer,<em>- Raise the Dead! -</em><br><strong>On Recruit:</strong> Place the top card from your discard pile into this Lane (Place 1 Zombie instead if your discard pile is empty).,,,Brendan Head,3-2
+1,1,2,Undead,Lord of the Undead,<strong>On Recruit:</strong> Place 1 Zombie in another Lane.<br><br><strong>On Death:</strong> Place 1 Zombie in another Lane.,,,Brendan Head,3-3
+1,3,3,Undead,Death Hound,{attacksFirst:Attacks First.}<br> <strong>After Attacking:</strong> This takes 1 damage.,,,Brendan Head,3-4
+1,2,1,Undead,Runner,{attacksFirst:Attacks First.}<br> <strong>On Recruit:</strong> Attacks this turn.,,,Brendan Head,3-5
+2,0,2,Undead,Shambler,<strong>On Recruit:</strong> Gains two +1/+1 counters.,,,Brendan Head,3-6
+2,2,3,Undead,Grave Digger,<strong>On Recruit:</strong> Look at the top card of your deck. You may discard it.,,,Brendan Head,3-7
+2,1,2,Undead,Spore Spreader,{attacksLast:Attacks Last.}<br> Attacks all Lanes.,,,Brendan Head,3-8
+1,0,1,Undead,Zombie Mite,<strong>On Death:</strong> Place top card of opponent's discard pile into this Lane (Place 1 Zombie instead if opponent's discard pile is empty).,,,Brendan Head,3-9
+1,0,1,Undead,Living Corpse,<strong>On Death:</strong> Choose up to 2 other friendly units in any Lanes. Put a +1/+1 counter on each.,,,Brendan Head,3-10
+2,0,0,Undead,Summon Horde,{action:Action}<br> Deal 1 targeted damage to a unit in each Lane (cannot target units that were played or recruited this turn).,Action,,Brendan Head,3-11
+1,0,2,Undead,Vampire,<em>- I Want Your Blood! -</em><br><strong>On Recruit:</strong> Gain 2 HP and opponent loses 2 HP.,,,Brendan Head,3-12
+4,0,2,Wizards,Apprentice,,,Starting,Brendan Head,4-1
+1,2,1,Wizards,The Elder,<strong>On Recruit:</strong> Place an Apprentice in any Lane.,,,Brendan Head,4-2
+1,2,2,Wizards,Magus,<strong>End of Turn:</strong> May move an enemy unit in any Lane into a different Lane.,,,Brendan Head,4-3
+1,2,2,Wizards,Acolyte,<strong>End of Turn:</strong> May move any other friendly unit in any Lane into a different Lane.,,,Brendan Head,4-4
+1,1,1,Wizards,Witch,"{attacksLast:Attacks Last.}<br> Attacks any Lane.<br><strong>On Recruit:</strong> Attacks this turn.<br><strong>End of Turn:</strong> If this was played this turn, it gains a +1/+1 counter.",,,,4-5
+1,2,1,Wizards,Spellslinger,Attacks any Lane.,,,Brendan Head,4-6
+2,3,1,Wizards,Sorcerer,{attacksLast:Attacks Last.}<br>,,,,4-7
+2,1,3,Wizards,Warlock,<strong>On Recruit:</strong> Gains a +1/+1 counter.,,,Brendan Head,4-8
+2,0,2,Wizards,Alchemist,"<strong>End of Turn:</strong> If this was played this turn, choose up to 2 friendly units that are not in this Lane. Put a +1/+1 counter on each.",,,Brendan Head,4-9
+1,1,2,Wizards,Planeshifter,<strong>On Recruit:</strong> Opponent loses 2 HP.,,,Brendan Head,4-10
+1,2,1,Wizards,Vortex Lord,This only ever attacks normally when you play another card into this Lane.,,,Brendan Head,4-11
+1,2,2,Wizards,Frost Mage,<em>- Freeze! -</em><br><strong>On Recruit:</strong> This Lane takes no damage this turn.,,,Brendan Head,4-12
+2,0,0,Wizards,Fireball,{action:Action}<br> Deal 2 targeted damage to an enemy unit in this Lane.<br>Deal 1 damage to each other enemy unit in this Lane.,Action,,Brendan Head,4-13
+6,0,2,Knights,Peasant,,,Starting,Oscar Katz,5-1
+1,0,1,Knights,"Sir Dramen, the Teacher","When a friendly unit is placed in this Lane, place a +1/+1 counter on it.",,,Oscar Katz,5-2
+1,0,4,Knights,Squire of Gawain,<strong>On Recruit:</strong> This Lane takes no damage this turn.,,,Oscar Katz,5-3
+1,1,3,Knights,"Sir Hubert, the Cowardly",{attacksLast:Attacks Last.}<br> Gains +3 Attack Power when attacking an empty Lane. ,,,Oscar Katz,5-4
+1,1,1,Knights,"Sir Tane, the Diplomat",<strong>On Recruit:</strong> This turn no <strong>regular</strong> attacks occur for either player.,,,Oscar Katz,5-5
+1,1,1,Knights,"Sir Tarmon, the Martyr",<strong>On Death:</strong> Place 2 Peasants in this Lane.,,,Oscar Katz,5-6
+1,1,2,Knights,"Sir Vernon, the Treacherous","{attacksLast:Attacks Last.}<br> When this attacks, instead of dealing damage, you may destroy any enemy unit in this Lane.",,,Oscar Katz,5-7
+1,1,1,Knights,Squire of Fontaine,<strong>On Recruit:</strong> Return an enemy unit in this Lane to its owner's hand.,,,Oscar Katz,5-8
+1,1,2,Knights,Squire of Smee,<strong>On Recruit:</strong> Place a +1/+1 counter on any other friendly unit in any Lane.,,,Oscar Katz,5-9
+1,1,1,Knights,Squire of Tane,<strong>On Recruit:</strong> Deal up to 2 damage spread how you choose among enemy units in this Lane.,,,Oscar Katz,5-10
+1,1,2,Knights,Squire of Vernon,"{attacksFirst:Attacks First.}<br> When this unit attacks, one other friendly unit in any Lane attacks immediately. It may not attack again this turn.",,,Oscar Katz,5-11
+1,2,2,Knights,"Sir Smee, the Skilled","When you place any number of +1/+1 counters on this unit, place 1 more.",,,Oscar Katz,5-12
+1,2,1,Knights,Squire of Dramen,<strong>On Recruit:</strong> Place a Peasant in this Lane.,,,Oscar Katz,5-13
+1,2,1,Knights,Squire of Hubert,"After this attacks, move an enemy unit in the Lane it attacked to a different Lane.",,,Oscar Katz,5-14
+1,2,2,Knights,Squire of Robilus,"<strong>On Recruit:</strong> You may sacrifice a Peasant in any Lane. If you do, place a +1/+1 counter on any unit in any Lane.",,,Oscar Katz,5-15
+1,2,2,Knights,Squire of Tarmon,"<strong>End of Turn:</strong> If a friendly unit died in this Lane, place a +1/+1 counter on any unit in any Lane.",,,Oscar Katz,5-16
+1,3,3,Knights,"Sir Robilus, the Pure",Cannot be recruited into a Lane that contains a Peasant.,,,Oscar Katz,5-17
+1,4,3,Knights,"Sir Fontaine, the Remorseful","After an enemy unit dies in this unit's Lane, destroy this unit.",,,Oscar Katz,5-18
+1,4,1,Knights,"Sir Gawain, the Brave",{attacksLast:Attacks Last.}<br>,,,Oscar Katz,5-19
+6,0,2,Pirates,Deckhand,,,Starting,Oscar Katz,6-1
+1,0,0,Pirates,Man o'War,"{attacksFirst:Attacks First.}<br> <strong>On Recruit:</strong> Gains three +1/+1 counters.<br><strong>End of Turn:</strong> If this attacked this turn, remove a +1/+1 counter from it then you must move this to a different Lane.",,Ship,Oscar Katz,6-2
+2,0,0,Pirates,Galleon,"<strong>On Recruit:</strong> Gains two +1/+1 counters.<br><strong>End of Turn:</strong> If this attacked this turn, remove a +1/+1 counter from it and put a Deckhand in a different Lane.",,Ship,Oscar Katz,6-3
+2,0,0,Pirates,Caravel,"<strong>On Recruit:</strong> Gains two +1/+1 counters.<br><strong>End of Turn:</strong> If this attacked this turn, remove a +1/+1 counter from it. Then place a +1/+1 counter on another unit in any Lane.",,,Oscar Katz,6-4
+1,?,0,Pirates,Fire Cannons!,{action:Action}<br> This Lane attacks this turn. This card has Attack Power equal to the number of enemy units in this Lane.,Action,Ship,Oscar Katz,6-5
+1,1,2,Pirates,Captain Huque,"<strong>On Recruit:</strong> You may remove three +1/+1 counters from friendly units. If you do, deal 1 damage to every enemy unit in all Lanes.",,,Oscar Katz,6-6
+2,0,1,Pirates,Grog Hauler,<strong>On Recruit:</strong> Place two +1/+1 counters on a friendly unit in this Lane.,,,Oscar Katz,6-7
+1,0,3,Pirates,Locked Treasure Chest,"<em>- Unlock Chest -</em><br>Instead of playing a card on your turn, you may discard this unit to distribute three +1/+1 counters among your units.<br>Act as if this was the Lane you played a card into this turn for the combat phase and do not draw a card this turn.",,,Oscar Katz,6-8
+1,1,2,Pirates,Able Crewman,"When you play a unit into this Lane, this gains a +1/+1 counter (does not trigger on itself).",,,Oscar Katz,6-9
+1,0,0,Pirates,Hook Line,{action:Action}<br> Choose an enemy unit in this Lane and move it to your side of the Lane.,Action,,Oscar Katz,6-10
+2,1,2,Pirates,Plunderer,"<strong>On Recruit:</strong> Remove a +1/+1 counter from an enemy unit in this Lane if possible, then this gains a +1/+1 counter.",,,Oscar Katz,6-11
+1,1,1,Pirates,Quartermaster,<strong>On Recruit:</strong> Gains a +1/+1 counter.<br><strong>End of Turn:</strong> May move a +1/+1 counter from any friendly unit to any other friendly unit.,,,Oscar Katz,6-12
+1,0,0,Pirates,Double Barrel,"{attacksLast:Attacks Last.}<br> Attacks all Lanes except this Lane.<br><strong>On Recruit:</strong> Gains two +1/+1 counters.<br><strong>End of Turn:</strong> If this attacked this turn, remove a +1/+1 counter from it ",,,Oscar Katz,6-13
+6,0,2,Assassins,Apprentice,,,Starting,Brendan Head,7-1
+2,0,1,Assassins,Dagger Stab,<strong>On Recruit:</strong> Deal 1 damage in this Lane.<br><br><strong>End of Turn:</strong> Deal 1 damage in this Lane.,,,Brendan Head,7-2
+2,0,1,Assassins,Ninja,Attacks First while this has +1/+1 counters on it<br><br><strong>On Recruit:</strong> Gains two +1/+1 counters.,,,Brendan Head,7-3
+1,1,1,Assassins,Saboteur,<strong>On Recruit:</strong> Place top card from enemy discard pile into this Lane (Place 1 enemy basic starting unit if enemy discard pile is empty).,,,Brendan Head,7-4
+1,1,2,Assassins,Samurai,<strong>On Recruit:</strong> Lose 2 HP and put 1 Apprentice in the other 2 Lanes.,,,Brendan Head,7-5
+2,1,2,Assassins,Swordmaster,{attacksLast:Attacks Last.}<br> Attacks all Lanes.,,,Brendan Head,7-6
+2,2,1,Assassins,Assassin,"Attacks First, and then Attacks again normally after.",,,Brendan Head,7-7
+1,2,2,Assassins,Flashbang,<strong>On Recruit:</strong> May move friendly units in this Lane to other Lanes.,,,Brendan Head,7-8
+2,2,2,Assassins,Shadow Stealther,"<strong>On Recruit:</strong> This unit takes no damage this turn (when assigning damage, treat it as though it did not exist).",,,Brendan Head,7-9
+2,2,2,Assassins,Soother,<strong>End of Turn:</strong> Heal 1 damage on itself.,,,Brendan Head,7-10
+2,2,2,Assassins,Spy,{attacksFirst:Attacks First.}<br><br>Attacks the Lane to the right of itself from owner's perspective.,,,Brendan Head,7-11
+1,3,2,Assassins,Sensei,<strong>On Recruit:</strong> May move any 1 enemy unit to a different Lane ,,,Brendan Head,7-12
+6,0,2,Engineers,Energy Barricade,,,Starting,Brendan Head,8-1
+1,1,1,Engineers,Fuel Injector,Attacks First while this has +1/+1 counters on it<br><br><strong>On Recruit:</strong> Gains a +1/+1 counter.,,,Brendan Head,8-2
+1,2,2,Engineers,Flash Grenade,<strong>On Recruit:</strong> May move friendly units in this Lane to other Lanes.,,,Brendan Head,8-3
+1,0,1,Engineers,Mini Sentry,<strong>On Recruit:</strong> Deal 1 Attack damage in this Lane.<br><br><strong>End of Turn:</strong> Deal 1 Attack damage in this Lane.,,,Brendan Head,8-4
+1,2,2,Engineers,Warp Drive,<strong>On Recruit:</strong> May move any 1 enemy unit to a different Lane.,,,Brendan Head,8-5
+2,0,1,Engineers,Ammo Cache,<strong>On Recruit:</strong> Take two +1/+1 counters. Place each on a different friendly unit.,,,Brendan Head,8-6
+2,0,1,Engineers,Auto-Turret,"<strong>On Recruit:</strong> Attacks this turn.<br><br><strong>Start of Combat:</strong> If this is attacking this turn, it gains a +1/+1 counter.",,,Brendan Head,8-7
+1,1,2,Engineers,Teleporter,"Attacks First, then may move to another Lane and Attack again normally.",,,Brendan Head,8-8
+1,1,2,Engineers,Full-Auto Drone,"<strong>On Recruit:</strong> Gains a +1/+1 counter.<br><br><strong>Start of Combat:</strong> If this is attacking, you may remove a +1/+1 counter from it. If you do, this turn it Attacks First, then Attacks again normally, then Attacks again Last.",,,Brendan Head,8-9
+2,1,3,Engineers,Super Mech,{attacksLast:Attacks Last.}<br> Attacks any 2 different Lanes.,,,Brendan Head,8-10
+1,1,2,Engineers,Battery,"<strong>End of Turn:</strong> Choose either<br>- Place an Energy Barricade in a different Lane.<br>- A friendly unit not in this Lane gains a +1/+1 counter, then place a damage token on any friendly unit not in this Lane.",,,Brendan Head,8-11
+1,0,0,Engineers,Distributor Relay,<strong>On Recruit:</strong> Gains three +1/+1 counters.<br><strong>End of Turn:</strong> May move a +1/+1 counter from this to a friendly unit in a different Lane.,,,Brendan Head,8-12
+1,2,1,Engineers,Phasing Ray,"Once per turn, negate 1 point of incoming enemy Attack damage in this Lane.",,,Brendan Head,8-13
+1,1,0,Engineers,Targeting Computer,"{action:Action}<br> This Lane attacks this turn, no other friendly Lanes attack this turn. Units in this Lane can attack any Lane this turn.",Action,,Brendan Head,8-14
+1,0,2,Beast Masters,Baby Mammal,,,"Mammal, Starting",Brendan Head,9-1
+4,0,2,Beast Masters,Baby Dinosaur,,,Dinosaur,Brendan Head,9-2
+1,0,2,Beast Masters,Baby Fish,,,Aquatic,Brendan Head,9-3
+1,0,2,Beast Masters,Killer Crab,"When this attacks, choose an enemy unit in the same Lane. That unit does not Attack this turn. <br><strong>End of Turn:</strong> If you have two or more Aquatic units, one of them gains a +1/+1 counter (this effect only triggers once for all Aquatic units).",,Aquatic,Brendan Head,9-4
+2,0,2,Beast Masters,Piranha Swarm,"{attacksFirst:Attacks First.}<br>  <br><strong>End of Turn:</strong> If you have two or more Aquatic units, one of them gains a +1/+1 counter (this effect only triggers once for all Aquatic units).",,Aquatic,Brendan Head,9-5
+2,0,1,Beast Masters,Velociraptor,"{attacksFirst:Attacks First.}<br> <strong>On Recruit:</strong> Gains two +1/+1 counters. After attacking, may sacrifice a +1/+1 counter to attack again normally.",,Dinosaur,Brendan Head,9-6
+1,0,1,Beast Masters,Woolly Mammoth,"<strong>On Recruit:</strong> Gains two +1/+1 counters (If you have another Mammal in a different Lane, gain three +1/+1 counters instead).",,Mammal,Brendan Head,9-7
+2,1,3,Beast Masters,Diplodocus,"<strong>On Recruit:</strong> If you have another Dinosaur in the same Lane, place a Baby Dinosaur unit with +1/+1 counter on it in this Lane.",,Dinosaur,Brendan Head,9-8
+1,1,2,Beast Masters,Saber Tooth Tiger,"<strong>End of Turn:</strong> May move a +1/+1 counter from another unit in a different Lane onto this. If the unit you moved it from was a Mammal, place another +1/+1 counter on this.",,Mammal,Brendan Head,9-9
+1,2,3,Beast Masters,Alien Shapeshifter,"This unit has every animal Type (Dinosaur, Mammal and Aquatic)",,All,Brendan Head,9-10
+2,2,2,Beast Masters,Big Bear,"<strong>On Recruit:</strong> Place +1/+1 counter on another unit in a different Lane. If the unit you placed it on was a Mammal, place two +1/+1 counters instead.",,Mammal,Brendan Head,9-11
+1,2,2,Beast Masters,Megalodon,"<strong>On Recruit:</strong> May discard another Aquatic unit in any Lane to put two +1/+1 counters on this. <br><strong>End of Turn:</strong> If you have two or more Aquatic units, one of them gains a +1/+1 counter (this effect only triggers once for all Aquatic units).",,Aquatic,Brendan Head,9-12
+1,2,2,Beast Masters,Mysterious Egg,"{action:Action}<br> Choose an animal type (Dinosaur, Mammal or Aquatic). This becomes a unit of that type and causes this Lane to attack. <br> <strong>End of Turn:</strong> After all other effects, this is discarded.",Action,?,Brendan Head,9-13
+1,3,2,Beast Masters,Kong,"{attacksLast:Attacks Last.}<br> <strong>On Recruit:</strong> If you have another Mammal in a different Lane, this gains a +1/1 counter.",,Mammal,Brendan Head,9-14
+1,3,2,Beast Masters,Kraken,"<strong>On Recruit:</strong> Removes a +1/+1 counter from an Enemy unit in any Lane. <br><strong>End of Turn:</strong> If you have two or more Aquatic units, one of them gains a +1/+1 counter (this effect only triggers once for all Aquatic units).",,Aquatic,Brendan Head,9-15
+1,3,3,Beast Masters,Pterodactyl,"<strong>End of Turn:</strong> Puts a +1/+1 counter on any other unit, then takes 1 damage.",,Dinosaur,Brendan Head,9-16
+1,4,1,Beast Masters,T-Rex,"{attacksLast:Attacks Last.}<br> <strong>On Recruit:</strong> If you have another Dinosaur in the same Lane, place a Baby Dinosaur unit with +1/+1 counter on it in this Lane.",,Dinosaur,Brendan Head,9-17
+6,0,2,Bards,Audience Member,,,Starting,Brendan Head,10-1
+1,0,4,Bards,Trumpet,All units in this Lane gain +1 to their Attack Power when attacking.,,War Chant,Brendan Head,10-2
+1,1,3,Bards,Giant Radio,,,Soothing Lullaby,Brendan Head,10-3
+1,1,3,Bards,Jukebox,<strong>On Recruit:</strong> You may change the current Song to any other Song.,,,Brendan Head,10-4
+1,1,2,Bards,Kickstart,{attacksFirst:Attacks First.}<br> All units in this Lane Attack First.,,Rousing Jig,Brendan Head,10-5
+1,1,2,Bards,Long Horn,Attacks all Lanes.,,War Chant,Brendan Head,10-6
+2,1,2,Bards,Ocarina,<strong>On Recruit:</strong> Heal all damage in this Lane and 1 damage in a different Lane.,,Soothing Lullaby,Brendan Head,10-7
+2,2,2,Bards,Accordion,"{attacksLast:Attacks Last.}<br> If this has a +1/+1 counter on it, this Attacks First instead.",,Rousing Jig,Brendan Head,10-8
+1,2,2,Bards,Bassist,<strong>On Recruit:</strong> All units with +1/+1 counters that are in different Lanes to this gain an additional +1/+1 counter.,,Rousing Jig,Brendan Head,10-9
+2,2,2,Bards,Loudspeaker,<strong>On Recruit:</strong> Immediately trigger the effect of the current Song (Choose a Song to be the current Song if there currently is none).,,,Brendan Head,10-10
+1,2,2,Bards,Streaming,<strong>On Recruit:</strong> Heal 1 HP. <br><strong>End of Turn:</strong> Heal 1 HP.,,Soothing Lullaby,Brendan Head,10-11
+2,2,2,Bards,War Drum,{attacksFirst:Attacks First.}<br>,,War Chant,Brendan Head,10-12
+1,3,1,Bards,Bagpipes,,,War Chant,Brendan Head,10-13
+1,3,1,Bards,Wooden Flute,Attacks all Lanes but its own. Then deals 1 friendly damage to this Lane.,,Soothing Lullaby,Brendan Head,10-14
+1,4,1,Bards,Guitarist,{attacksLast:Attacks Last.}<br> <strong>On Recruit:</strong> Gain 2 Audience Members. Put them in any Lanes in any combination.,,Rousing Jig,Brendan Head,10-15
+6,0,2,Circadials,Circadial Worshipper,,,Starting,Brendan Head,11-1
+1,0,0,Circadials,Divine Intervention,"{action:Action}<br> Draw 1 unit card, then play another card this Turn into any Lane. Act as if you had only played the other card during combat. ",,,Brendan Head,11-2
+1,1,3,Circadials,Celestial Deity,{action:Action}<br> <strong>If it is Day:</strong> Gain 1 HP and distribute two +1/+1 counters among any units.<br><strong>If it is Night:</strong> Opponent loses 1 HP and you may destroy an enemy unit in any Lane.,,,Brendan Head,11-3
+1,1,0,Circadials,Eclipse,{action:Action}<br> This Lane attacks this turn. Choose whether each unit in this Lane thinks it is Day or Night.,Action,,Brendan Head,11-4
+1,1,1,Circadials,Grand Vision,<strong>On Recruit:</strong> Attacks this turn. Place a +1/+1 counter on itself and all units in same Lane.,,,Brendan Head,11-5
+2,1,3,Circadials,Moon Blade,Attacks First at Night. Attacks Last during the Day.,,,Brendan Head,11-6
+2,1,3,Circadials,Solar Healing Rays,"<strong>End of Turn:</strong> If it is Day, heal 1 HP.",,,Brendan Head,11-7
+2,2,3,Circadials,Flaming Torch,Attacks all Lanes except this one during the Day. Attacks this Lane at Night.,,,Brendan Head,11-8
+2,2,2,Circadials,Helios Herald,Attacks Twice during the Day.,,,Brendan Head,11-9
+2,2,4,Circadials,Plant Minion,"<strong>End of Turn:</strong> If is Night, this takes 1 damage. ",,,Brendan Head,11-10
+2,2,1,Circadials,Werewolf Warrior,"<strong>On Recruit:</strong> If it is Night, gains two +1/+1 counters.",,,Brendan Head,11-11
+2,3,3,Circadials,Lunar Shield,Only blocks damage if it is Night. Only attacks if it is Day.,,,Brendan Head,11-12
+6,0,2,CryoVikings,Raider,,,Starting,Oscar Katz,12-1
+3,0,4,CryoVikings,Berserker,This has +1 Attack Power for each damage token on it.,,,Oscar Katz,12-2
+1,0,1,CryoVikings,Jarl Tolva,"<strong>On Recruit:</strong> For each Lane, place a +1/+1 counter on a Raider in that lane (or put a Raider in that Lane if there are none).",,,Oscar Katz,12-3
+2,0,4,CryoVikings,Shieldmaiden,"If a damage token would be placed on any friendly unit in any Lane, you may place it on this instead.",,,Oscar Katz,12-4
+3,1,2,CryoVikings,Attack Wolf,{attacksFirst:Attacks First.}<br> <strong>On Recruit:</strong> Attacks this turn,,,Oscar Katz,12-5
+1,1,1,CryoVikings,Ragnar Brumalssen,<strong>On Recruit:</strong> Enemy units in this Lane do not attack this turn.,,,Oscar Katz,12-6
+2,1,3,CryoVikings,Raiding Ship,<strong>End of Turn:</strong> You may move any friendly unit (including this one) from this Lane into a different Lane.,,,Oscar Katz,12-7
+2,1,1,CryoVikings,Sage of Bitter Cold,<strong>On Recruit:</strong> Deal 1 damage to each enemy unit in this Lane,,,Oscar Katz,12-8
+2,1,1,CryoVikings,Sage of Bracing Cold,<strong>On Recruit:</strong> Deal 1 damage to each other friendly unit in this Lane. Place a +1/+1 counter on any that survived.,,,Oscar Katz,12-9
+1,1,3,CryoVikings,Spirit of the Honoured Dead,"<strong>On Recruit:</strong> You may destroy a friendly unit in any Lane. If you do, distribute +1/+1 counters among friendly units equal to 1 plus the number of damage tokens it had.",,,Oscar Katz,12-10
+1,1,3,CryoVikings,Spirit of the Vengeful Dead,"<strong>On Recruit:</strong> You may destroy a friendly unit in any Lane. If you do, distribute damage tokens among enemy units equal to 1 plus the number of damage tokens it had.",,,Oscar Katz,12-11
+6,0,2,Pyromancers,Ember Spark,,,Starting,Oscar Katz,13-1
+1,0,0,Pyromancers,Ash Cloud,{action:Action}<br> Lose 2 HP. Enemy attacks do not occur this turn in any Lane.,Action,,Oscar Katz,13-2
+2,0,1,Pyromancers,Phoenix Egg,"<strong>On Recruit:</strong> Place an Ember Spark in a different Lane. <strong>On Death:</strong> Reveal the top card of your deck, play it in this Lane.",,,Oscar Katz,13-3
+1,0,1,Pyromancers,Unstable Flamesprite,"After this card has been revealed, when a card is played in this Lane by anyone, destroy this card and all cards played into this Lane this turn.",,,Oscar Katz,13-4
+2,1,2,Pyromancers,Fire Storm,{attacksLast:Attacks Last.}<br> This has +1 Attack Power for each friendly unit in this Lane.,,,Oscar Katz,13-5
+2,1,3,Pyromancers,Hot-shot Pyrosniper,<strong>On Recruit:</strong> Deal 1 damage to an enemy unit of your choice in this Lane (or opponent HP if there are no units),,,Oscar Katz,13-6
+1,1,2,Pyromancers,Immolation Engine,"<strong>End of Turn:</strong> Place a +1/+1 counter on this unit.<br><br>If this unit ever has 5 or more +1/+1 counters, you immediately win the Battle.",,,Oscar Katz,13-7
+2,1,1,Pyromancers,Realmfire Initiate,Attacks all Lanes.,,,Oscar Katz,13-8
+2,2,3,Pyromancers,Conflagrenadier,,,,Oscar Katz,13-9
+2,2,2,Pyromancers,Spitfire Drake,Attacks First,,,Oscar Katz,13-10
+2,2,2,Pyromancers,Student of Spitefire,"<strong>On Death:</strong> Deal 2 damage to this Lane, you decide which unit(s) the damage should be dealt to.",,,Oscar Katz,13-11
+1,4,4,Pyromancers,"Rama'thul, Flame That Devours Time","<strong>On Recruit:</strong> Attacks this Turn.<br><br>While this unit is in play, you no longer draw cards at Start of Turn.",,,Oscar Katz,13-12
+6,0,2,Elementalists,Earth Wall,,,Starting,,14-1
+1,1,2,Elementalists,Ice Minion,<strong><strong>On Recruit:</strong></strong> Gains a +1/+1 counter if you are attuned to Water this turn.<br><br><strong><strong>Start of Turn:</strong></strong> Gains a +1/+1 counter if you attune to Water this turn.,,,Brendan Head,14-2
+1,1,2,Elementalists,Flame Minion,<strong><strong>On Recruit:</strong></strong> Gains a +1/+1 counter if you are attuned to Fire this turn.<br><br><strong><strong>Start of Turn:</strong></strong> Gains a +1/+1 counter if you attune to Fire this turn.,,,Brendan Head,14-3
+1,1,2,Elementalists,Rock Minion,<strong><strong>On Recruit:</strong></strong> Gains a +1/+1 counter if you are attuned to Earth this turn.<br><br><strong><strong>Start of Turn:</strong></strong> Gains a +1/+1 counter if you attune to Earth this turn.,,,Brendan Head,14-4
+1,2,1,Elementalists,Meteor Staff,{attacksLast:{attacksLast:Attacks Last.}<br>}<br><br><strong><strong>On Recruit:</strong></strong> Deal 1 Attack damage to all Lanes.,,,Brendan Head,14-5
+2,1,3,Elementalists,Stone Shield,"<strong><strong>End of Turn:</strong></strong> Place a +1/+1 counter on an Earth Wall in any Lane (if you have none, place an Earth Wall in any Lane).",,,Brendan Head,14-6
+2,1,2,Elementalists,Focusing Ring,<strong><strong>On Recruit:</strong></strong> Attacks this turn.<br>Repeat the effect of your attuned element from this turn.,,,Brendan Head,14-7
+1,1,2,Elementalists,Attuning Crystal,<strong><strong>End of Turn:</strong></strong> You may attune to a different element. Resolve its effect immediately.,,,Brendan Head,14-8
+2,1,2,Elementalists,Cold Spike,{attacksFirst:{attacksFirst:Attacks First.}<br>}<br><br>This has 2 additional Attack Power if you are attuned to Water or Earth.,,,Brendan Head,14-9
+2,2,0,Elementalists,Energy Ball,{action:Action}<br> Attacks this turn.<br><br>Also does 1 damage to a different Lane when it attacks.,Action,,Brendan Head,14-10
+1,1,3,Elementalists,Elemental Fusion,"When attuning, you may choose to attune to the same element as you did the previous turn.",,,Brendan Head,14-11
+1,1,2,Elementalists,Water Fountain,"When you heal damage counters from a unit in this Lane, this gains a +1/+1 counter.",,,Brendan Head,14-12
+1,0,2,Elementalists,Fire Aspect,"When you deal Attack damage in this Lane, increase the damage by 1.",,,Brendan Head,14-13
+6,0,2,Gargantua,Spawn of Gargantua,,,Starting,Brendan Head,15-1
+2,0,0,Gargantua,Claws,{attacksFirst:Attacks First.}<br> <strong>On Recruit:</strong> Gains two +1/+1 counters.,,Arms,Brendan Head,15-2
+2,0,1,Gargantua,Tentacles,<strong>Start of Combat:</strong> May pull one friendly unit into its Lane.<br><br><strong>On Recruit:</strong> Gain two +1/+1 counters.,,Arms,Brendan Head,15-3
+2,0,1,Gargantua,Thick Armoured Legs,<strong>On Recruit:</strong> Gains three +1/+1 counters.,,Legs,Brendan Head,15-4
+2,0,0,Gargantua,Webbed Toes,{attacksLast:Attacks Last.}<br> Attacks all Lanes.<br><strong>On Recruit:</strong> Gains two +1/+1 counters.,,Legs,Brendan Head,15-5
+2,0,0,Gargantua,Wings,{attacksFirst:Attacks First.}<br> <strong>On Recruit:</strong> Gains two +1/+1 counters.,,Back,Brendan Head,15-6
+1,1,0,Gargantua,Immortal Mind,{action:Action}<br> All other units in this Lane gain +1/+1 counters and this Lane attacks this turn. ,Action,,Brendan Head,15-7
+2,1,1,Gargantua,Poison Beak,"<strong>On Recruit:</strong> Gains a +1/+1 counter.<br><strong>End of Turn:</strong> If this attacked this turn, all enemy units with damage tokens in this Lane take an additional damage.",,Head,Brendan Head,15-8
+2,1,2,Gargantua,Rodent Head,Attacks any Lane except its own.<br><strong>On Recruit:</strong> Gains a +1/+1 counter.,,Head,Brendan Head,15-9
+1,1,2,Gargantua,Spawn Spawn,<strong>On Recruit:</strong> Place a Spawn of Gargantua unit with a +1/+1 counter in a different Lane.,,,Brendan Head,15-10
+2,2,1,Gargantua,Back Pelt,{attacksLast:Attacks Last.}<br> <strong>On Recruit:</strong> Gains a +1/+1 counter.,,Back,Brendan Head,15-11
+6,0,1,Ghosts,Ghost Sprite,,,Starting,Brendan Head,16-1
+2,0,2,Ghosts,Banshee,"{attacksLast:Attacks Last.}<br> While this has a +1/+1 counter on it, it attacks all Lanes.<br><strong>End of Turn:</strong> Put a +1/+1 counter on this.",,,Brendan Head,16-2
+2,0,0,Ghosts,Poltergeist,"<strong>On Recruit:</strong> Gains three +1/+1 counters.<br><strong>End of Turn:</strong> You may move any other friendly unit to a different Lane. If you do, it gains a +1/+1 counter.",,,Brendan Head,16-3
+2,0,1,Ghosts,Trickster Phantom,"<strong>On Recruit:</strong> Opponent draws a card, then place a random card from their hand into this Lane on your side.",,,Brendan Head,16-4
+2,1,1,Ghosts,Haunting Spectre,<strong>On Recruit:</strong> Chose an enemy unit that would attack this turn. It will not attack this turn.,,,Brendan Head,16-5
+1,1,4,Ghosts,Spirit Barrier,,,,Brendan Head,16-6
+2,1,2,Ghosts,Spiteful Djinn,<strong>On Recruit:</strong> Attacks this turn. This unit always attacks every turn.,,,Brendan Head,16-7
+2,2,2,Ghosts,Genie,<strong>End of Turn:</strong> Place a Ghost Sprite unit in a different Lane,,,Brendan Head,16-8
+2,2,2,Ghosts,Hellfire Minion,{attacksFirst:Attacks First.}<br>,,,Brendan Head,16-9
+2,2,3,Ghosts,Revenant,"<strong>End of Turn:</strong> For every unit that died in this Lane (including this), place a +1/+1 counter on any other unit in any Lane.",,,Brendan Head,16-10
+1,4,4,Ghosts,"Pluto, God of the Underworld",,,,Brendan Head,16-11
+6,0,2,Olympians,Loyal Follower,,,Starting,Brendan Head,17-1
+1,6,0,Olympians,"Athena, Godess of Warfare",{action:Action}<br> Attacks this turn. This Lane takes no damage this turn.,Action,God,Brendan Head,17-2
+1,3,0,Olympians,"Zeus, God of Thunder",{action:Action}<br> Attacks this turn. Attacks every Lane. This Lane takes no damage this turn.,Action,God,Brendan Head,17-3
+1,3,0,Olympians,"Poseidon, God of the Seas",{action:Action}<br> Attacks this turn. {attacksFirst:{attacksFirst:Attacks First.}<br>}<br> Place a Loyal Follower in any Lane and Gain 4 HP. This Lane takes no damage this turn.,Action,God,Brendan Head,17-4
+2,1,2,Olympians,Priest of Olympus,<strong><strong>End of Turn:</strong></strong> Place a Loyal Follower in any Lane.,,,Brendan Head,17-5
+1,1,3,Olympians,Medusa,<strong><strong>On Recruit:</strong></strong> Attacks this turn. Opponent must discard one of their non-starting units of their choice from any Lane and place one of their Basic Starting Units in that Lane instead.,,,Brendan Head,17-6
+1,1,4,Olympians,Hydra,"For every 2 damage this takes, place a Loyal Follower in a different Lane.",,,Brendan Head,17-7
+2,2,2,Olympians,Prophecy,Attacks any Lane other than its own.,,,Brendan Head,17-8
+2,3,2,Olympians,Confused Valhallan,<strong><strong>On Death:</strong></strong> Place a Loyal Follower in this Lane.,,,Brendan Head,17-9
+2,0,0,Olympians,Summon of the Gods,{action:Action}<br> Deal 1 Attack damage in this Lane and place a Loyal Follower in this Lane.,Action,,Brendan Head,17-10
+2,3,1,Olympians,Holy Smite,<strong><strong>On Recruit:</strong></strong> Attacks this turn.,,,Brendan Head,17-11
+1,1,4,Olympians,Shield of Syracuse,"{attacksLast:{attacksLast:Attacks Last.}<br>}<br> When this unit would take damage, you may instead damage any other friendly unit in any Lane.",,,Brendan Head,17-12
+2,2,3,Olympians,Pegasus,"<strong><strong>End of Turn:</strong></strong> May move this to a different Lane. If you do, you must also move another friendly unit with it if possible.",,,Brendan Head,17-13
+6,0,2,Plant Druids,Sapling,,,Starting,Brendan Head,18-1
+2,0,0,Plant Druids,Infinite Beanstalk,"<strong>On Recruit:</strong> Gains two +1/+1 counters.<br><strong>End of Turn:</strong> If this took damage this turn, it gains two +1/+1 counters. ",,,Brendan Head,18-2
+2,0,0,Plant Druids,Seed Spreader,<strong>On Recruit:</strong> Gains three +1/+1 counters.<br><strong>End of Turn:</strong> May sacrifice a +1/+1 counter to place a Sapling in a different Lane.,,,Brendan Head,18-3
+1,0,5,Plant Druids,The Great Tree of Armollo,"<strong>End of Turn:</strong> Place a Sapling into this Lane. Then all Saplings in this Lane take 1 damage. If there are now 4 or more Saplings in this Lane, you immediately win the Battle.",,,Brendan Head,18-4
+1,1,3,Plant Druids,Light Lilly,<strong>On Death:</strong> Gain 2 HP,,,Brendan Head,18-5
+2,1,3,Plant Druids,Mega Tree,This has +1 Attack Power for every Sapling in this Lane.,,,Brendan Head,18-6
+2,1,3,Plant Druids,Plant,<strong>On Recruit:</strong> Place a Sapling in a different Lane.,,,Brendan Head,18-7
+2,1,1,Plant Druids,Thorns,{attacksFirst:Attacks First.}<br> This has +1 Attack Power for every enemy unit in this Lane beyond the first. ,,,Brendan Head,18-8
+2,2,2,Plant Druids,Floating Seeds,<strong>Start of Combat:</strong> May move this to a different Lane.,,,Brendan Head,18-9
+2,2,2,Plant Druids,Regrowth,<strong>On Death:</strong> Put this card back into your hand.,,,Brendan Head,18-10
+2,3,1,Plant Druids,From the Ashes,<strong>On Death:</strong> Place a Sapling in any Lane.,,,Brendan Head,18-11
+6,0,2,Dwarves,Mini Dwarf,,,Starting,Brendan Head,19-1
+1,0,1,Dwarves,Bribery Dwarf,<strong>On Recruit:</strong> Choose an enemy unit in this Lane (cannot be a unit that was recruited this turn). Switch it to your side of the Lane. It is now a friendly unit.,,,Brendan Head,19-2
+1,0,0,Dwarves,Dwarf Dragon,"{action:Action}<br> Deal 2 damage to every Lane. Opponent can choose to negate any of this damage. For every point of damage they choose to negate, gain a +1/+1 counter in your Hoard.",Action,,Brendan Head,19-3
+2,1,3,Dwarves,Big Dwarf,"<strong>On Recruit:</strong> Place a Mini Dwarf in any Lane. <br><strong>End of Turn:</strong> May sacrifice a Mini Dwarf in any Lane to gain two +1/+1 counters. Put as many as you want on this, the rest go into your Hoard. ",,,Brendan Head,19-4
+1,1,3,Dwarves,"Chief Grumlo, King of the Dwarves",<strong>On Recruit:</strong> Put a +1/1 counter on any unit (can be this one).<br><strong>End of Turn:</strong> Add a +1/+1 counter to your Hoard.,,,Brendan Head,19-5
+2,1,3,Dwarves,Hoarder Dwarf,<strong>On Recruit:</strong> Add two +1/+1 counters to your Hoard.,,,Brendan Head,19-6
+2,1,0,Dwarves,Sacrificial Dwarf,"<strong>On Recruit:</strong> Gains two +1/+1 counters  When you remove +1/+1 counters from this unit, put them in your Hoard.",,,Brendan Head,19-7
+2,2,3,Dwarves,Dwarf Cleric,<strong>On Recruit:</strong> Add a +1/+1 counter to your Hoard. Heal either 1 HP or 1 damage token on any unit.,,,Brendan Head,19-8
+2,2,3,Dwarves,Dwarf Gunner,"{attacksLast:Attacks Last.}<br> When this attacks it does 1 damage to a different Lane. If the number of counters in your Hoard is odd, the Left lane. If even, the right Lane.<br><strong>On Recruit:</strong> Deal 1 damage in this Lane.",,,Brendan Head,19-9
+2,2,2,Dwarves,Dwarf Strongman,<strong>End of Turn:</strong> Remove 1 damage token on this and place a +1/+1 counter in your Hoard. <br> <strong>On Death:</strong> Add a +1/+1 counter to your Hoard,,,Brendan Head,19-10
+3,3,1,Dwarves,Raging Dwarf,{attacksFirst:Attacks First.}<br>,,,Brendan Head,19-11
+6,0,2,Hackers,Firewall,,,Starting,Brendan Head,20-1
+1,0,0,Hackers,Botnet,{action:Action}<br> Deal damage in every Lane equal to the number of friendly units in that Lane.,Action,,Brendan Head,20-2
+1,0,1,Hackers,Brute Force Attack,<strong>On Recruit:</strong> Choose a unit in this Lane (can be friendly or enemy). That unit immediately dies.,,,Brendan Head,20-3
+2,0,3,Hackers,Virus,<strong>On Death:</strong> Opponent loses 1 HP.,,,Brendan Head,20-4
+2,1,2,Hackers,Damage Hack,<strong>On Recruit:</strong> Deal 1 damage to any enemy unit in this Lane. You may then move up to 2 damage tokens on enemy units in this Lane to any other enemy units in any Lane (treat moving a damage token onto a unit as though that unit took 1 damage).,,,Brendan Head,20-5
+2,1,1,Hackers,Network Surfing,"{attacksLast:Attacks Last.}<br> <strong>End of Turn:</strong> May move this to a different Lane. If you do, it gains a +1/+1 counter.",,,Brendan Head,20-6
+1,1,3,Hackers,Redirect,<strong>End of Turn:</strong> Move a +1/+1 counter from any enemy unit to any friendly unit.,,,Brendan Head,20-7
+1,1,1,Hackers,Reversing Algorithm,"<strong>On Recruit:</strong> For both players, only the Lane they played a card into attacks this turn.",,,Brendan Head,20-8
+1,1,3,Hackers,Spoofing Repeater,"<strong>On Recruit:</strong> This may have the ""On Recruit"" effect of any enemy unit. ",,,Brendan Head,20-9
+1,1,2,Hackers,System Bootup,{attacksFirst:Attacks First.}<br> Attacks any Lane.<br><strong>On Recruit:</strong> Attacks this turn.,,,Brendan Head,20-10
+1,1,2,Hackers,Terminal,{attacksLast:Attacks Last.}<br> <strong>On Recruit:</strong> Gains two +1/+1 counters.,,,Brendan Head,20-11
+1,2,1,Hackers,Denial of Service,{attacksFirst:Attacks First.}<br> <strong>On Recruit:</strong> Opponent does not draw a card at the start of the next turn.,,,Brendan Head,20-12
+2,2,2,Hackers,Loop Repeater,"<strong>On Recruit:</strong> This may have the ""On Recruit"" effect of any other friendly unit. ",,,Brendan Head,20-13
+1,2,2,Hackers,Spyware,<strong>On Recruit:</strong> Look at the top 3 cards of your deck. Rearrange them into any order.,,,Brendan Head,20-14
+1,4,3,Hackers,Neo,<strong>On Recruit:</strong> Lose 2 HP.<br><strong>End of Turn:</strong> Lose 1 HP.,,,Brendan Head,20-15
+6,0,2,Caper Crew,Crew Member,,,Starting,Brendan Head,21-1
+1,0,0,Caper Crew,The Armourer,{attacksLast:Attacks Last.}<br> <strong>On Recruit:</strong> Gains a +1/+1 counter.<br><strong>End of Turn:</strong> Place a +1/+1 counter on this. ,,,Brendan Head,21-2
+1,0,5,Caper Crew,The Godfather,<strong>On Recruit:</strong> Heal 1 damage token on any unit in any Lane ,,,Brendan Head,21-3
+1,0,1,Caper Crew,The Inside Man,"<strong>On Recruit:</strong> Swap this to the enemy side of this Lane, it is now an enemy unit.<br><br>Whenever this Lane attacks, this does 3 damage to its owner in that Lane as a normal Attack.",,,Brendan Head,21-4
+1,0,1,Caper Crew,The Locksmith,<strong>On Recruit:</strong> Gains up to three +1/+1 counters. You may choose to not gain any number of them to deal 1 damage to any Lane for each counter you choose not to gain.,,,Brendan Head,21-5
+1,0,2,Caper Crew,The Master of Disguise,<strong>End of Turn:</strong> You may replace this with the top card from your deck. Move all +1/+1 counters on this to the new card and then put two more +1/+1 counters on it.,,,Brendan Head,21-6
+1,1,3,Caper Crew,The Con Man,<strong>On Recruit:</strong> Choose a Lane. No enemy units in that Lane attack this turn. ,,,Brendan Head,21-7
+1,1,1,Caper Crew,The Mafioso,<strong>End of Turn:</strong> May sacrifice any friendly unit in this Lane to place two +1/+1 counters on this. ,,,Brendan Head,21-8
+1,1,2,Caper Crew,The Money Launderer,"<strong>On Recruit:</strong> Gains a +1/+1 counter.<br><strong>End of Turn:</strong> May remove a +1/+1 counter from any friendly unit. If you do, place two +1/+1 counters on a different friendly unit. ",,,Brendan Head,21-9
+1,1,2,Caper Crew,The Recon,<strong>On Recruit:</strong> Look at your opponent's hand.,,,Brendan Head,21-10
+1,1,1,Caper Crew,The Thief,<strong>On Recruit:</strong> Move up to two +1/+1 counters from any enemy units to any friendly units,,,Brendan Head,21-11
+1,2,2,Caper Crew,The Demolitions Expert,<strong>On Death:</strong> Deal 1 damage to all Lanes,,,Brendan Head,21-12
+1,2,1,Caper Crew,The Mastermind,Attacks any Lane,,,Brendan Head,21-13
+1,2,2,Caper Crew,The Techie,"While this unit is in play, whenever a Crew Member dies your opponent takes 1 damage in the Lane it died in.<br><br><strong>On Recruit:</strong> Place a Crew Member in any Lane. ",,,Brendan Head,21-14
+1,3,3,Caper Crew,The Bruiser,{attacksLast:Attacks Last.}<br> ,,,Brendan Head,21-15
+1,3,1,Caper Crew,The Driver,<strong>On Recruit:</strong> May move one friendly unit (can be this one) from any Lane to any other Lane.,,,Brendan Head,21-16
+1,3,1,Caper Crew,The Pickpocket,{attacksFirst:Attacks First.}<br>,,,Brendan Head,21-17
+1,3,1,Caper Crew,The Rookie,Only Attacks if there are other friendly units in this Lane.<br><strong>On Recruit:</strong> Attacks this turn if there are other friendly units in this Lane.,,,Brendan Head,21-18
+1,5,1,Caper Crew,"The ""One Last Job""","<strong>End of Turn:</strong> If this Attacked this turn, it dies.",,,Brendan Head,21-19
+6,0,2,Aliens,Alien Grunt,,,Starting,Brendan Head,22-1
+1,0,0,Aliens,Overshield,{action:Action}<br> Deal 1 damage in this Lane. Negate the first point of incoming damage in every Lane this turn.<br><strong>End of Turn:</strong> Add a +1/+1 counter to your Energy Supply,Action,,Brendan Head,22-2
+1,0,5,Aliens,Planet Destroyer,<strong>End of Turn:</strong> May spend five +1/+1 counters from your Energy Supply to deal 3 damage to all Lanes and place two +1/+1 counters on this.,,,Brendan Head,22-3
+1,0,0,Aliens,Alien Swarm,{action:Action}<br> Gain three Alien Grunt units. Put them in any Lanes. Add two +1/+1 counters to your Energy Supply. ,Action,,Brendan Head,22-4
+1,1,4,Aliens,Mothership,<strong>End of Turn:</strong> Add a +1/+1 counter to your Energy Supply.,,,Brendan Head,22-5
+1,1,1,Aliens,Power Siphon,<strong>On Recruit:</strong> Gains a +1/+1 counter. Then place may any number of +1/+1 counters from your Energy Supply on this.,,,Brendan Head,22-6
+1,1,0,Aliens,Probe,{action:Action}<br> Gain an extra +1/+1 counter to your Supply this turn when enemy units die.,Action,,Brendan Head,22-7
+2,1,3,Aliens,Supercharger,"While this unit is in play, enemy units in this Lane provide 2 Energy when killed instead of 1.",,,Brendan Head,22-8
+2,2,2,Aliens,Alien Trooper,<strong>On Recruit:</strong> Deal 1 damage to this Lane.,,,Brendan Head,22-9
+2,2,2,Aliens,Death Beam,Attacks any Lane.,,,Brendan Head,22-10
+2,2,2,Aliens,Martian Man,<strong>On Recruit:</strong> Add a +1/+1 counter to your Energy Supply.,,,Brendan Head,22-11
+2,2,1,Aliens,UFO,{attacksFirst:Attacks First.}<br> <strong>End of Turn:</strong> May move this to any Lane.,,,Brendan Head,22-12
+2,3,2,Aliens,Space Cannon,{attacksLast:Attacks Last.}<br>,,,Brendan Head,22-13
+6,0,1,Chess,Pawn,,,Starting,Brendan Head,23-1
+1,0,0,Chess,Blitz,"{action:Action}<br> Deal 1 damage in this Lane. Gain 4 Pawn units, put them in any Lanes in any combination.",,,Brendan Head,23-2
+1,0,3,Chess,Gold General,"You may add damage tokens to this instead of removing +1/+1 counters when it takes damage.<br><strong>On Recruit:</strong> Gains a +1/+1 counter.<br><strong>End of Turn:</strong> If this did not Attack this turn, it gains a +1/+1 counter.",,,Brendan Head,23-3
+1,0,0,Chess,Promotion,{action:Action}<br> Place a Pawn with three +1/+1 counters on it in this Lane.,Action,,Brendan Head,23-4
+2,1,3,Chess,Elephant,{attacksFirst:Attacks First.}<br> Attacks any Lane except its own.,,,Brendan Head,23-5
+1,1,2,Chess,En Passant,"<strong>On Recruit:</strong> Place a Pawn in this Lane. You may move any number of Pawns from this Lane to different Lanes. If you do, they gain one +1/+1 counter each.",,,Brendan Head,23-6
+1,1,4,Chess,"King, Chess Piece",<strong>On Death:</strong> Destroy all enemy units in this Lane.,,,Brendan Head,23-7
+1,1,3,Chess,Silver General,"<strong>End of Turn:</strong> If this has a +1/+1 counter on it, remove it and put two Pawns with +1/+1 counters on them in this Lane.<br>Otherwise if this doesn't have a +1/+1 counter on it, it gains one. ",,,Brendan Head,23-8
+1,2,1,Chess,Atomic,<strong>On Recruit:</strong> This Lane attacks this Turn. Opponent must damage their regular units before their basic starting units in all Lanes this turn.,,,Brendan Head,23-9
+2,2,2,Chess,Bishop,Attacks any Lane except its own.,,,Brendan Head,23-10
+1,2,0,Chess,Castle,{action:Action}<br> Attacks this turn. Move any number of units (friendly or enemy) from this Lane to different Lanes.,Action,,Brendan Head,23-11
+1,2,2,Chess,Grandmaster,<strong>End of Turn:</strong> Place a Pawn in this Lane. Heal 1 damage on any unit in this Lane.,,,Brendan Head,23-12
+2,3,1,Chess,"Knight, Chess Piece",<strong>On Recruit:</strong> May move this to a different Lane.<br><strong>End of Turn:</strong> May move this to a different Lane.,,,Brendan Head,23-13
+2,3,2,Chess,Rook,{attacksLast:Attacks Last.}<br>,,,Brendan Head,23-14
+1,4,2,Chess,"Queen, Chess Piece",Attacks any Lane. You must damage the Queen before any other units in this Lane.,,,Brendan Head,23-15
+6,0,2,Time Travellers,Time Shield,,,Starting,Brendan Head,24-1
+2,0,1,Time Travellers,Relativity Device,{attacksFirst:Attacks First.}<br> <strong>On Recruit:</strong> Gains two +1/+1 counters.,,,Brendan Head,24-2
+2,1,3,Time Travellers,Chronological Leakage,<strong>End of Turn:</strong> This Lane gains a time counter if it does not have one,,,Brendan Head,24-3
+2,1,2,Time Travellers,DeLorean,Attacks all Lanes that had time counters on them at the Start of this Turn,,,Brendan Head,24-4
+2,1,1,Time Travellers,Timeline Slip,<strong>On Recruit:</strong> Choose a unit in each Lane which has time counters on it to gain a +1/+1 counter.,,,Brendan Head,24-5
+2,1,3,Time Travellers,Wormhole,"<strong>Start of Turn:</strong> If this Lane has a time counter, enemy takes 1 damage in this Lane.",,,Brendan Head,24-6
+2,2,2,Time Travellers,Parallel Universe Breach,<strong>On Recruit:</strong> Choose a different Lane. It gains a time counter,,,Brendan Head,24-7
+1,2,0,Time Travellers,Singularity,{action:Action}<br> Move all time counters to this Lane. This Lane attacks as many times as it has time counters.,Action,,Brendan Head,24-8
+2,2,2,Time Travellers,Time Machine,<strong>On Recruit:</strong> This Lane gains a time counter.,,,Brendan Head,24-9
+2,2,2,Time Travellers,World Line Shift,<strong>End of Turn:</strong> May move up to 1 time counter to a different Lane.,,,Brendan Head,24-10
+1,4,1,Time Travellers,Quantum Event,<strong>End of Turn:</strong> Lose a time counter from any Lane.,,,Brendan Head,24-11
+6,0,1,Bees,Worker Bee,,,Starting,Brendan Head,25-1
+1,0,0,Bees,Harvest,<strong>On Recruit:</strong> Gains three +1/+1 counters.<br><br><strong>End of Turn:</strong> May remove a +1/+1 counter to deal 1 damage to any unit in this Lane.,,,Brendan Head,25-2
+1,0,0,Bees,Sting,{action:Action}<br> Deal 1 damage to every enemy unit in all Lanes.,Action,,Brendan Head,25-3
+1,0,2,Bees,Wax,<strong>On Recruit:</strong> Choose an enemy Lane that would attack this turn. No enemy units in that Lane attack this turn.,,,Brendan Head,25-4
+1,1,0,Bees,Bumble,{action:Action}<br> Put a +1/+1 counter on any friendly unit in this Lane. This Lane attacks this turn.,Action,,Brendan Head,25-5
+1,1,2,Bees,Colony,{attacksFirst:Attacks First.}<br> <strong>On Recruit:</strong> Choose a different unit in this Lane. That unit attacks this turn.,,,Brendan Head,25-6
+1,1,1,Bees,Crystallization,<strong>On Recruit:</strong> Choose up to two enemy units in any Lanes. They take 1 damage each.,,,Brendan Head,25-7
+1,1,2,Bees,Drone,<strong>On Recruit:</strong> Choose a Lane. All Bees in that Lane Attack First this turn.,,,Brendan Head,25-8
+1,1,4,Bees,Hive,"<strong>On Recruit:</strong> Place a Worker Bee in this Lane.<br><br><strong>End of Turn:</strong> If this took damage this turn, place a Worker Bee in this Lane.<br><strong>On Death:</strong> Place a Worker Bee in this Lane.",,,Brendan Head,25-9
+1,1,2,Bees,Nectar,<strong>End of Turn:</strong> Put a +1/+1 counter on any Worker Bee.,,,Brendan Head,25-10
+1,1,1,Bees,Pollinate,<strong>On Recruit:</strong> Take two +1/+1 counters. Put them on any friendly units in this Lane.,,,Brendan Head,25-11
+1,1,1,Bees,Smoker,Attacks First into both other Lanes. Attacks normally in this Lane.,,,Brendan Head,25-12
+1,2,2,Bees,Buzz,<strong>End of Turn:</strong> May move a Worker Bee from any Lane to a different Lane,,,Brendan Head,25-13
+1,2,1,Bees,Flower,<strong>On Recruit:</strong> Place 2 Worker Bees in this Lane.,,,Brendan Head,25-14
+1,2,2,Bees,Honey,"<strong>End of Turn:</strong> You may choose an enemy unit in this Lane. If you do, neither this nor the enemy unit will attack next turn.",,,Brendan Head,25-15
+1,2,1,Bees,Bee Swarm,<strong>On Recruit:</strong> All Worker Bees in all Lanes attack this turn and gain +1 Attack Power for this turn.,,,Brendan Head,25-16
+1,2,2,Bees,"Wasp, Bee Warrior",<strong>On Recruit:</strong> All Worker Bees in this Lane gain a +1/+1 counter.,,,Brendan Head,25-17
+1,3,1,Bees,Bee Larvae,<strong>On Death:</strong> Place a Worker Bee in any Lane.,,,Brendan Head,25-18
+1,3,2,Bees,Queen Bee,,,,Brendan Head,25-19
+6,0,2,Space Marines,Conscript,,,Starting,Brendan Head,26-1
+2,0,1,Space Marines,Space Apostle,<strong>On Recruit:</strong> Gains three +1/+1 counters and another unit in this Lane gains a +1/+1 counter.,,,Brendan Head,26-2
+1,0,12,Space Marines,Transport Ship,"<strong><strong>Start of Game:</strong></strong> This starts in one Lane with 9 damage tokens on it.<br><strong>End of Turn:</strong> Remove 2 damage tokens from this. If this now has no damage tokens on it, you immediately win the Battle.",,,Brendan Head,26-3
+2,1,0,Space Marines,Dreadnought Mech,"<strong>On Recruit:</strong> Gains two +1/+1 counters.<br><strong>Start of Combat:</strong> If this is attacking this turn, remove a +1/+1 counter.<br><strong>End of Turn:</strong> Gains a +1/+1 counter.",,,Brendan Head,26-4
+1,1,4,Space Marines,God Emperor,<strong>On Recruit:</strong> Heal 1 damage on the Transport Ship,,,Brendan Head,26-5
+2,1,2,Space Marines,Iron Legion,"<strong>End of Turn:</strong> You may deal 1 damage to any other friendly unit. If you do, put a +1/+1 counter on this.",,,Brendan Head,26-6
+1,1,6,Space Marines,Protection,,,,Brendan Head,26-7
+2,2,2,Space Marines,Bladesworn,{attacksFirst:Attacks First.}<br>,,,Brendan Head,26-8
+1,2,1,Space Marines,Tactical Commando,<strong>On Recruit:</strong> Attacks this turn.,,,Brendan Head,26-9
+1,2,0,Space Marines,Prescience,{action:Action}<br> This Attacks this turn. Move up to 2 enemy units into different Lanes.,Action,,Brendan Head,26-10
+2,2,1,Space Marines,Scope,Attacks any Lane except this Lane. ,,,Brendan Head,26-11
+2,2,1,Space Marines,Suppresive Fire,<strong>On Recruit:</strong> This Lane attacks this turn. Enemy units in this Lane do not attack this turn.,,,Brendan Head,26-12
+2,3,2,Space Marines,Ultramarine,,,,Brendan Head,26-13
+6,0,3,Zilla,Scales,,,Starting,Brendan Head,27-1
+2,1,3,Zilla,Bellyflop,<strong>On Recruit:</strong> Deal 1 damage to both other Lanes.,,,Brendan Head,27-2
+1,1,4,Zilla,Deep Sleep,<strong>End of Turn:</strong> Heal 1 HP,,,Brendan Head,27-3
+2,1,2,Zilla,Roar,<strong>On Recruit:</strong> All units in this Lane (including this one) gain +1/+1 counters.,,,Brendan Head,27-4
+2,1,3,Zilla,Stamina Boost,<strong>On Recruit:</strong> Heal 2 HP.,,,Brendan Head,27-5
+2,1,3,Zilla,Tail Swipe,Attacks all Lanes.,,,Brendan Head,27-6
+2,1,6,Zilla,Thick Skin,,,,Brendan Head,27-7
+2,2,2,Zilla,Plasma Breath,{attacksFirst:Attacks First.}<br> ,,,Brendan Head,27-8
+2,3,1,Zilla,Bite,<strong>On Death:</strong> Heal 1 HP.,,,Brendan Head,27-9
+2,3,2,Zilla,Claw Attack,,,,Brendan Head,27-10
+2,3,1,Zilla,Mega Vision,Attacks any Lane.,,,Brendan Head,27-11
+1,4,1,Zilla,Atomic Blast,,,,Brendan Head,27-12
+6,0,2,Magmamons,Igneous Rock,,,Starting,Brendan Head,28-1
+2,0,5,Magmamons,Heat Resistance,"Whenever you would take damage in any Lane, you may take any amount of the damage on this unit instead.<br><strong>End of Turn:</strong> Remove 1 damage token on this to place a +1/+1 token on any unit in this Lane.",,,Brendan Head,28-2
+1,0,8,Magmamons,Mega Volcano,"<strong>End of Turn:</strong> Both players take 1 damage per Lava counter in the Lane the counters are in. Then move all Lava counters to the Lane to the right. If they are now in this Lane, add another Lava Counter.<br>If this unit dies, remove all Lava counters.",,,Brendan Head,28-3
+2,1,5,Magmamons,Healing Rocks,<strong>End of Turn:</strong> Heals 1 damage on itself.,,,Brendan Head,28-4
+2,1,2,Magmamons,Lava Spread,Attacks First into the Lane you played a card into.<br>Attacks normally into every other Lane.,,,Brendan Head,28-5
+2,2,3,Magmamons,Lava Shield,<strong>On Recruit:</strong> This Lane takes no damage from Lava this turn.,,,Brendan Head,28-6
+2,2,2,Magmamons,Thermal Rise,<strong>On Recruit:</strong> Gain +1/+1 tokens equal to the number of Lava counters. Put them on units in the Lane with the Lava counters in any combination.,,,Brendan Head,28-7
+2,2,3,Magmamons,Untargeted Meteors,Attacks both Lanes you didn't play a card into this turn.,,,Brendan Head,28-8
+2,3,1,Magmamons,Magma Meteor,Attacks the same Lane as the Lava tokens are currently in.,,,Brendan Head,28-9
+2,3,1,Magmamons,Targeted Meteor,Attacks the Lane you played a card into this turn.,,,Brendan Head,28-10
+1,4,1,Magmamons,Flame Sword,,,,Brendan Head,28-11
+6,0,2,Mathematicians,Integer,,,Starting,Brendan Head,29-1
+1,0,0,Mathematicians,Divide by Zero,{action:Action}<br> Every unit in this Lane dies (both friendly and enemy). ,Action,,Brendan Head,29-2
+1,0,1,Mathematicians,Fibonnaci,<strong>On Recruit:</strong> You may sacrifice exactly two other friendly units from any Lanes to move all their +1/+1 counters onto this and +1/+1 counters equal to their Attack Power onto this.,,,Brendan Head,29-3
+1,0,4,Mathematicians,Margin,This unit has Attack Power equal to the difference between the number of damage tokens on it and its Defence.<br><strong>On Recruit:</strong> This unit takes 3 damage.<br><strong>End of Turn:</strong> This unit heals 1 damage token on it.,,,Brendan Head,29-4
+1,1,1,Mathematicians,Constant,<strong>On Recruit:</strong> Attacks this turn.<br><strong>End of Turn:</strong> Attacks again.<br><strong>On Death:</strong> Attacks again before dying.,,,Brendan Head,29-5
+1,1,3,Mathematicians,Double or Nothing,<strong>On Recruit:</strong> All units with +1/+1 counters on them in this Lane double their +1/+1 counters.,,,Brendan Head,29-6
+1,1,0,Mathematicians,Factor of Two,{action:Action}<br> All friendly units attack twice this turn.,Action,,Brendan Head,29-7
+1,1,1,Mathematicians,Integrate,This unit has +1 Attack Power for each enemy unit in this Lane.,,,Brendan Head,29-8
+1,1,3,Mathematicians,Mean Averaging,"<strong>On Recruit:</strong> Check the difference between your HP and your opponent's HP. If your HP is less, opponent loses half the difference rounded down. If your HP is more, you gain half the difference rounded up.",,,Brendan Head,29-9
+1,1,2,Mathematicians,Subtraction,"<strong>On Recruit:</strong> Every enemy unit in this Lane dies. For each enemy unit that dies, lose 1 HP.",,,Brendan Head,29-10
+1,2,1,Mathematicians,Boolean,"<strong>End of Turn:</strong> If this did not attack this turn, it Attacks now.",,,Brendan Head,29-11
+1,2,2,Mathematicians,Brackets,{attacksFirst:Attacks First.}<br>,,,Brendan Head,29-12
+1,2,2,Mathematicians,Counting,"<strong>On Recruit:</strong> Place up to two +1/+1 counters on any enemy units. For each +1/+1 counter you place on an enemy, place two on a friendly unit.",,,Brendan Head,29-13
+1,2,1,Mathematicians,Decimal,"While this is alive, all units in this Lane have 50% higher Attack Power. Round the total Attack Power of this Lane down in each Phase.",,,Brendan Head,29-14
+1,2,2,Mathematicians,Ratio,"While this is alive, all units in this Lane have their Attack and Defence values swapped.",,,Brendan Head,29-15
+1,2,1,Mathematicians,Remainder,"<strong>End of Turn:</strong> If this unit was recruited this turn, put another card in this Lane then draw 1 card.",,,Brendan Head,29-16
+1,2,1,Mathematicians,Sum Total,<strong>On Recruit:</strong> Gains a +1/+1 counter for each friendly unit in this Lane.,,,Brendan Head,29-17
+1,3,1,Mathematicians,Differentiate,"While this is alive, enemy units in this Lane have -1 Attack Power",,,Brendan Head,29-18
+1,3,3,Mathematicians,Triangle,{attacksLast:Attacks Last.}<br>,,,Brendan Head,29-19
+1,?,0,Mathematicians,Hypotenuse,{action:Action}<br> Let a = 2 + sum(Attack Power of friendly units in this Lane) and b = 2 + sum(Defence values of friendly units in this Lane). Solve for c using Pythagoras's theorem a^2 + b^2 = c^2. Take the ceiling of that value. That's how much Attack Power this unit has.,Action,,Brendan Head,29-20
+6,0,2,Secret Agents,Agent,,,Starting,Brendan Head,30-1
+1,0,0,Secret Agents,Deadly Stunt,{action:Action}<br> All enemy units in this Lane take 1 damage. All friendly units in this Lane gain a +1/+1 counter.,Action,,Brendan Head,30-2
+2,0,0,Secret Agents,JB,<strong>On Recruit:</strong> Gains a +1/1 counter.<br><strong>End of Turn:</strong> Gains a +1/+1 counter.,,,Brendan Head,30-3
+2,0,0,Secret Agents,Q,<strong>On Recruit:</strong> Gains a +1/+1 counter. Take two more +1/+1 counters and put them on other friendly units in any Lanes in any combination. Only friendly units with +1/+1 counters in all Lanes (including this one) attack this turn. ,,,Brendan Head,30-4
+2,0,1,Secret Agents,Sportscar with a Gun,<strong>On Recruit:</strong> Gains three +1/+1 counters.,,,Brendan Head,30-5
+1,1,7,Secret Agents,Double-O,"You must damage this before other units in this Lane. When you damage this, it gains two damage counters instead of 1 per damage taken.<br><strong>End of Turn:</strong> Remove a damage token to put a +1/+1 counter on another unit in this Lane.",,,Brendan Head,30-6
+1,1,4,Secret Agents,M,<strong>On Recruit:</strong> Draw 2 cards. Put 1 in this Lane and discard the other.,,,Brendan Head,30-7
+1,1,2,Secret Agents,Resurrection,<strong>End of Turn:</strong> Gain 1 HP,,,Brendan Head,30-8
+1,1,3,Secret Agents,Spy Satellite,<strong>On Recruit:</strong> Look at your opponent's hand and the top 2 cards of their deck. Rearrange them into any order. ,,,Brendan Head,30-9
+2,1,1,Secret Agents,Watch Laser,{attacksFirst:Attacks First.}<br> Attacks All Lanes.,,,Brendan Head,30-10
+1,2,3,Secret Agents,Opening Title,,,,Brendan Head,30-11
+2,2,2,Secret Agents,Silenced Pistol,<strong>On Recruit:</strong> Gains a +1+1 counter.,,,Brendan Head,30-12
+1,4,1,Secret Agents,Mega Death Laser,{attacksLast:Attacks Last.}<br> ,,,Brendan Head,30-13
+1,5,0,Secret Agents,Golden Gun,<strong>On Recruit:</strong> Attacks this turn. No other friendly Lanes attack this turn.,,,Brendan Head,30-14
+6,0,1,Tactical Commandos,Recruit,,,Starting,Brendan Head,31-1
+1,0,1,Tactical Commandos,Paratrooper,<strong>On Recruit:</strong> This Lane attacks this turn. ,,,Brendan Head,31-2
+1,1,0,Tactical Commandos,Attack Order,{action:Action}<br> This Lane attacks this turn,Action,,Brendan Head,31-3
+1,1,4,Tactical Commandos,Big Tank,"<strong>Start of Combat:</strong> If this is attacking, it takes 1 damage. ",,,Brendan Head,31-4
+2,1,1,Tactical Commandos,Combat Medic,<strong>End of Turn:</strong> Heal 1 damage on any unit or 1 HP.,,,Brendan Head,31-5
+2,1,1,Tactical Commandos,Dreadnought,This unit always attacks every turn,,,Brendan Head,31-6
+2,1,2,Tactical Commandos,Gadget,,,,Brendan Head,31-7
+2,1,2,Tactical Commandos,Sharpshooter,Attacks any Lane except this one. ,,,Brendan Head,31-8
+1,2,1,Tactical Commandos,Saboteur Maneavuerer,Can be played into the same Lane as your first unit if you play it second,,,Brendan Head,31-9
+2,2,1,Tactical Commandos,Tactician,<strong>On Recruit:</strong> The friendly attacking Lane attacks twice this turn.,,,Brendan Head,31-10
+2,3,1,Tactical Commandos,Artillery Cannon,{attacksLast:Attacks Last.}<br> ,,,Brendan Head,31-11
+2,3,1,Tactical Commandos,Commando,<strong>End of Turn:</strong> Must discard 1 friendly unit in any Lane. ,,,Brendan Head,31-12
+3,0,1,Monks of the Orb,Lightning Orb,<strong>On Death:</strong> Deal 2 damage in this Lane.,,"Orb, Starting",Brendan Head,32-1
+3,0,1,Monks of the Orb,Soul Orb,<strong>On Death:</strong> Deal 1 targeted damage to a unit in this Lane.,,"Orb, Starting",Brendan Head,32-2
+3,0,1,Monks of the Orb,Water Orb,<strong>On Death:</strong> Gain 1 HP.,,"Orb, Starting",Brendan Head,32-3
+2,0,4,Monks of the Orb,Drain Orb,<strong>End of Turn:</strong> You may lose 1 HP to destroy an Orb in any Lane.,,,Brendan Head,32-4
+2,0,0,Monks of the Orb,Orbsphere,<strong>On Recruit:</strong> Gains +1/+1 counter equal to your total number of Orbs.<br><strong>End of Turn:</strong> Loses a +1/+1 counter.,,,Brendan Head,32-5
+1,0,0,Monks of the Orb,Ultimate Orbstruction,{action:Action}<br> Destroy all Orbs in all Lanes. Then place 1 Orb in any Lane.,Action,,Brendan Head,32-6
+2,1,1,Monks of the Orb,Orb Full of Orbs,<strong>On Recruit:</strong> Gain 3 Orbs in this Lane.,,,Brendan Head,32-7
+2,1,2,Monks of the Orb,Orbs Within Orbs,Attacks all Lanes that contain Orbs.,,,Brendan Head,32-8
+2,1,2,Monks of the Orb,SwOrbd,"For every Orb in this Lane, this gains +1 Attack Power.",,,Brendan Head,32-9
+2,2,2,Monks of the Orb,Channel Orbs,<strong>On Recruit:</strong> Gain an Orb in any Lane.<br><strong>End of Turn:</strong> Gain an Orb in any Lane.,,,Brendan Head,32-10
+1,2,0,Monks of the Orb,DOrbuble,{action:Action}<br> Attacks this Turn. Double the effect of all Orbs this turn,Action,,Brendan Head,32-11
+2,2,2,Monks of the Orb,Orbs With Guns,"{attacksFirst:Attacks First.}<br> Attacks any Lane, but the Lane it attacks in <strong>must</strong> contain an Orb.",,,Brendan Head,32-12
+2,3,1,Monks of the Orb,Last Orb to Orbville,{attacksLast:Attacks Last.}<br> <strong>On Recruit:</strong> Destory an Orb in this Lane.,,,Brendan Head,32-13
+6,0,2,Timeriders,Paradoxical Self,,,Starting,Sam Evans,33-1
+1,0,0,Timeriders,Fast-Forward,{action:Action}<br> This Lane attacks this turn. All units in this Lane also Attack First and Attack Last this turn.,Action,,Sam Evans,33-2
+2,0,2,Timeriders,Fated Encounter,<strong>On Death:</strong> Recruit a unit from your discard pile into this Lane.,,,Sam Evans,33-3
+2,0,2,Timeriders,Fatesplitter,"<strong>On Recruit:</strong> For every friendly unit, place a Paradoxical Self in a different Lane.",,,Sam Evans,33-4
+2,0,2,Timeriders,Overclock,<strong>End of Turn:</strong> Add two +1/+1 counters to a unit in this Lane.,,,Sam Evans,33-5
+1,0,0,Timeriders,Rewind,{action:Action}<br> All friendly units killed last turn are returned to the Lanes in which they were killed.,Action,,Sam Evans,33-6
+1,1,1,Timeriders,One More Time,"<strong>On Recruit:</strong> Trigger the ""On Recruit"" effects of all friendly units.",,,Sam Evans,33-7
+2,1,2,Timeriders,Sands of Time,<strong>End of Turn:</strong> All enemy units with damage counters on them take 1 damage.,,,Sam Evans,33-8
+2,1,2,Timeriders,Timeline Seer,<strong>On Recruit:</strong> Search your deck and move one card to the top. Then shuffle the rest of your deck.,,,Sam Evans,33-9
+2,2,2,Timeriders,Alternate Self,,,,Sam Evans,33-10
+1,3,3,Timeriders,"Timerider, the Original","{attacksFirst:Attacks First.}<br> <strong>End of Turn:</strong> If this in your discard pile, you may discard a Paradoxical Self to play this in that Lane.",,,Sam Evans,33-11
+6,0,2,Investors,Share,,,Starting,Sam Evans,34-1
+2,0,0,Investors,Bull Market,"{action:Action}<br> For every +1/+1 counter on a unit, add another +1/+1 counter",Action,,Sam Evans,34-2
+2,0,2,Investors,Limited Liability,You may discard this nullify all incoming damage in this Lane.,,,Sam Evans,34-3
+2,0,4,Investors,Merger,<strong>End of Turn:</strong> Move all +1/+1 counters from a friendly unit onto this,,,Sam Evans,34-4
+2,0,2,Investors,Mint Machine,<strong>End of Turn:</strong> Add a +1/+1 counter onto all other friendly units. Then this takes 1 damage.,,,Sam Evans,34-5
+2,1,3,Investors,Angel Investor,"Whenever you recruit a unit, add a +1/+1 counter to it",,,Sam Evans,34-6
+2,2,2,Investors,Commodifier,<strong>End of Turn:</strong> You may remove a +1/+1 from one unit to recruit a Share in its Lane,,,Sam Evans,34-7
+2,2,1,Investors,Entrepreneur,<strong>On Recruit:</strong> Place a Share in this Lane,,,Sam Evans,34-8
+2,2,2,Investors,Investor,<strong>End of Turn:</strong> Add a +1/+1 counter onto any Share,,,Sam Evans,34-9
+6,0,2,Transporters,Stationary Object,,,Starting,Brendan Head,35-1
+1,0,1,Transporters,Boat,"<strong>End of Turn:</strong> Place a +1/+1 counter on this. If there are now three +1/+1 counters on this, remove all of them and deal 3 targeted damage to enemy units or HP in any Lanes.",,,Brendan Head,35-2
+1,0,5,Transporters,Bus,<strong>On Recruit:</strong> Place a Stationary Object with a damage token on it in both other Lanes.,,,Brendan Head,35-3
+1,0,0,Transporters,Crash,"{action:Action}<br> Opponent loses 2 HP. Destroy all units (friendly and enemy) in all Lanes, except the unit your opponent played this turn.",Action,,Brendan Head,35-4
+1,0,1,Transporters,Helicopter,"<strong>On Recruit:</strong> Gains three +1/+1 counters. After this attacks, move a +1/+1 counter from this to a different unit in any Lane.",,,Brendan Head,35-5
+1,0,0,Transporters,Monorail,{action:Action}<br> Choose a unit in this Lane. That unit attacks this turn directly into enemy HP (bypassing units),Action,,Brendan Head,35-6
+1,1,4,Transporters,Car,<strong>End of Turn:</strong> May remove a damage counter from this unit to add a +1/+1 counter to it.,,,Brendan Head,35-7
+1,1,3,Transporters,Motorbike,<strong>End of Turn:</strong> All enemy units in this Lane with a damage counter on them take 1 damage.,,,Brendan Head,35-8
+1,1,1,Transporters,Station,"<strong>On Recruit:</strong> All other friendly units in this Lane gain a +1/+1 counter. While this is alive, all other friendly units in this Lane gain 1 Attack Power.",,,Brendan Head,35-9
+1,1,1,Transporters,Traffic Light,This gains 1 Attack Power for every enemy unit in this Lane.,,,Brendan Head,35-10
+1,1,2,Transporters,Walking Here,<strong>On Recruit:</strong> May move any friendly unit into a different Lane.,,,Brendan Head,35-11
+1,1,2,Transporters,Walking There,<strong>On Recruit:</strong> May move any enemy unit into a different Lane.,,,Brendan Head,35-12
+1,2,2,Transporters,Horse,"<strong>On Recruit:</strong> Attacks this turn and {attacksFirst:Attacks First.}<br> On all subsequent turns, {attacksLast:Attacks Last.}<br>",,,Brendan Head,35-13
+1,2,2,Transporters,Scooter,Attacks any Lane except this Lane. Then move this to the Lane it attacked.,,,Brendan Head,35-14
+1,2,4,Transporters,Submarine,"<strong>Start of Turn:</strong> May flip this card.<br><strong>End of Turn:</strong> May flip this card.<br>When this unit is flipped to face down, remove all counters on it and it cannot attack.",,,Brendan Head,35-15
+1,3,2,Transporters,Train,"{attacksLast:Attacks Last.}<br> Attacks any Lane, then takes 1 damage.",,,Brendan Head,35-16
+1,4,2,Transporters,Plane,This unit only attacks if there are no friendly units in this Lane.,,,Brendan Head,35-17
+6,0,2,The Slicing Deckmasters,Stack,,,Starting,Brendan Head,36-1
+1,0,2,The Slicing Deckmasters,Bleed,<strong>On Recruit:</strong> Deal 3 targeted damage spread how you choose among enemy units in this Lane.,,,Brendan Head,36-2
+1,0,4,The Slicing Deckmasters,Healing Shield,<strong>End of Turn:</strong> Gain 1 HP.,,,Brendan Head,36-3
+1,0,0,The Slicing Deckmasters,Super Shiv,{action:Action}<br> Gain 1 Shiv into your hand and three +1/+1 counters. You may distribute the counters among friendly units (including Shivs played this turn) in any combination. ,Action,,Brendan Head,36-4
+1,1,3,The Slicing Deckmasters,Forge,<strong>End of Turn:</strong> Gain 1 Shiv into your hand.,,,Brendan Head,36-5
+1,1,2,The Slicing Deckmasters,Gambler's Grotto,<strong>On Recruit:</strong> Play all other cards in your hand. No friendly units attacks this turn. Enemy units attack twice. ,,,Brendan Head,36-6
+1,1,2,The Slicing Deckmasters,Sharpen,<strong>On Recruit:</strong> Gain 2 Shivs into your hand.,,,Brendan Head,36-7
+6,1,0,The Slicing Deckmasters,Shiv,"<strong>On Recruit:</strong> Attacks this turn. After playing a card, you may play any number of Shivs on the same turn into any Lanes.",,"Shiv, Starting",Brendan Head,36-8
+1,1,1,The Slicing Deckmasters,Stab Yourself,<strong>On Recruit:</strong> Lose 2 HP. Gain 4 Shivs into your hand.,,,Brendan Head,36-9
+1,2,1,The Slicing Deckmasters,Big Sword,{attacksFirst:Attacks First.}<br>,,,Brendan Head,36-10
+1,2,1,The Slicing Deckmasters,Charged Up,{attacksLast:Attacks Last.}<br> <strong>On Recruit:</strong> Gains three +1/+1 counters.<br><br><strong>End of Turn:</strong> Lose a +1/+1 counter.,,,Brendan Head,36-11
+1,2,2,The Slicing Deckmasters,Cross Lane,{attacksLast:Attacks Last.}<br> Attacks all Lanes except its own.,,,Brendan Head,36-12
+1,2,2,The Slicing Deckmasters,Darren's Deck,<strong>On Recruit:</strong> Draw 1 card. You may discard this unit to play the newly drawn card instead this turn into this Lane.,,,Brendan Head,36-13
+1,2,0,The Slicing Deckmasters,Psuedo,{action:Action}<br> This Lane attacks this turn. All units in this Lane attack HP directly this turn.,Action,,Brendan Head,36-14
+1,2,1,The Slicing Deckmasters,Recursion,"<strong>On Recruit:</strong> Gain 1 Shiv into your hand.<br><br><strong>End of Turn:</strong> If you played 2 or more Shivs this turn, gain 1 Shiv into your hand. ",,,Brendan Head,36-15
+1,2,2,The Slicing Deckmasters,Scry Screw,"<strong>On Recruit:</strong> Secretly look at the top 3 cards of your deck, you may discard any number of them. You may not rearrange the order.",,,Brendan Head,36-16
+1,2,2,The Slicing Deckmasters,Shuffle,"<strong>On Recruit:</strong> Shuffle your discard pile, then draw the top card.",,,Brendan Head,36-17
+1,2,2,The Slicing Deckmasters,Swap Swapper,<strong>On Recruit:</strong> You may swap your discard pile and your deck.<br><br><strong>On Death:</strong> You may swap your discard pile and your deck.,,,Brendan Head,36-18
+3,0,2,Cursed Healers,Vampiric Medic,,,Starting,Brendan Head,37-1
+2,1,3,Cursed Healers,Collective Loss,<strong>On Recruit:</strong> Both players lose 1 HP.,,,Brendan Head,37-2
+2,1,4,Cursed Healers,Divine Punishment,"{attacksFirst:Attacks First.}<br> If this would attack units, it attacks HP instead. If this would attack HP, it does nothing.",,,Brendan Head,37-3
+2,1,4,Cursed Healers,Ritualise,<strong>On Recruit:</strong> Opponent gains 3 HP.<br><br><strong>End of Turn:</strong> Opponent loses 1 HP.,,,Brendan Head,37-4
+2,1,2,Cursed Healers,Sharing is Caring,<strong>On Recruit:</strong> Opponents gains a +1/+1 counter on a unit of their choice in any Lane. You gain a +1/+1 counter on any unit in any Lane.,,,Brendan Head,37-5
+2,2,2,Cursed Healers,Delayed Life Transfer,<strong>On Recruit:</strong> Lose 1 HP.<br><br><strong>On Death:</strong> Opponent loses 1 HP.,,,Brendan Head,37-6
+2,2,2,Cursed Healers,Paralyse,<strong>On Recruit:</strong> Attacks this turn. Stops this enemy Lane from attacking this turn.,,,Brendan Head,37-7
+2,2,3,Cursed Healers,Plus,<strong>End of Turn:</strong> Gain 1 HP.,,,Brendan Head,37-8
+2,3,2,Cursed Healers,Summoner,<strong>End of Turn:</strong> Opponent puts a basic starting unit in this Lane.,,,Brendan Head,37-9
+6,0,2,Imperial Navy,Stormtrooper,,,Starting,Brendan Head,38-1
+2,0,2,Imperial Navy,Tie Interceptor,<strong>On Recruit:</strong> Must move into a different Lane.<br><br><strong>End of Turn:</strong> Gain a +1/+1 token then must move this to a different Lane.,,,Brendan Head,38-2
+2,1,2,Imperial Navy,Probe Droid,Must damage this before other units in this Lane. This Lane always attacks while this is alive.,,,Brendan Head,38-3
+2,1,2,Imperial Navy,Tie Bomber,"Attacks all Lanes. If this is damaged, it attacks only this Lane instead.<br><strong>On Recruit:</strong> Place a Stormtrooper in this Lane.",,,Brendan Head,38-4
+1,2,3,Imperial Navy,AT-AT,"<strong>On Recruit:</strong> Place 1 Stormtrooper in this Lane. <strong>End of Turn:</strong> Place 1 Stormtrooper in this Lane. If this has any damage tokens on it, lose 1 HP.",,,Brendan Head,38-5
+2,2,2,Imperial Navy,Tie Fighter,<strong>On Recruit:</strong> Attacks this turn.,,,Brendan Head,38-6
+2,2,2,Imperial Navy,Turrets,"If there are other units in this Lane, it can only attack into a different Lane than this. Otherwise, attacks in this Lane.",,,Brendan Head,38-7
+2,3,1,Imperial Navy,Hyperspace Fleet,<strong>On Recruit:</strong> Place this into a 4th Lane that only you can use for this turn. All your Lanes attack this turn.<br><strong>End of Turn:</strong> The 4th Lane stops existing. Place this into any Lane.,,,Brendan Head,38-8
+2,4,1,Imperial Navy,Star Destroyer,{attacksLast:Attacks Last.}<br>,,,Brendan Head,38-9
+2,4,2,Imperial Navy,Force Choke,"<strong>On Recruit:</strong> Opponent gains 2 HP. When this attacks, opponent can choose to take any damage from it in their HP instead of on their units.",,,Brendan Head,38-10
+1,10,10,Imperial Navy,Death Star,"This cannot attack normally. When this dies, it attacks before being placed on the discard pile.<br><strong>On Recruit:</strong> Place 1 damage token on this. <strong>End of Turn:</strong> Place 2 damage tokens on this.",,,Brendan Head,38-11
+6,0,2,Death Cultists,Alive Corpse,,,Starting,Brendan Head,39-1
+1,1,2,Death Cultists,Circles of Death,"<strong>On Death:</strong> This does not die. Remove all damage tokens from this and rotate this 90 degrees right. If this is now facing left, put it in your discard pile.",,,Brendan Head,39-2
+1,1,2,Death Cultists,Death Dice,"<strong>On Recruit:</strong> Look at the top 3 cards of your deck. Discard any number, then rearrange the rest into any order.<br><br><strong>On Death:</strong> Look at the top 3 cards of your deck. Discard any number, then rearrange the rest into any order.",,,Brendan Head,39-3
+1,1,2,Death Cultists,Ouruboros,"<strong>On Recruit:</strong> Play another card this turn, but it must be into the Lane your opponent played into.<br><br><strong>On Death:</strong> Lose 2 HP and this returns to your hand.",,,Brendan Head,39-4
+1,1,2,Death Cultists,Purgatory,"<strong>On Recruit:</strong> Any friendly that would die this turn heal 1 damage, but their On Death effects still trigger.",,,Brendan Head,39-5
+1,1,0,Death Cultists,Rallying Skeleton Cry,"{action:Action}<br> This Lane attacks this turn. Trigger the ""On Death"" ability of all friendly units in play.",,,Brendan Head,39-6
+1,1,1,Death Cultists,Rejuvenating Bone Juice,<strong>On Death:</strong> Gain 1 HP for each card in your discard pile.,,,Brendan Head,39-7
+1,1,6,Death Cultists,Shield of Flesh,<strong>End of Turn:</strong> Takes 1 damage.,,,Brendan Head,39-8
+1,1,3,Death Cultists,Vampiric Mite,<strong>On Death:</strong> Opponent loses 1 HP.,,,Brendan Head,39-9
+1,2,1,Death Cultists,Bone Archer,{attacksLast:Attacks Last.}<br> Attacks both other Lanes.,,,Brendan Head,39-10
+1,2,2,Death Cultists,Bone Wall,<strong>On Recruit:</strong> Moves to the Lane your opponent played a card into and Attacks this turn. ,,,Brendan Head,39-11
+1,2,1,Death Cultists,Death Scythe,"<strong>On Recruit:</strong> Attacks First and Attacks this turn.<br><br><strong>On Death:</strong> Do not discard. Next turn, it Attacks First, then is discarded.",,,Brendan Head,39-12
+1,2,2,Death Cultists,Demonic Avengers,<strong>On Death:</strong> Play the top card of your draw pile to this Lane.,,,Brendan Head,39-13
+1,2,1,Death Cultists,Hell Slash,{attacksLast:Attacks Last.}<br> <strong>On Death:</strong> Attacks both other Lanes.,,,Brendan Head,39-14
+1,2,1,Death Cultists,Resurrection Stone,<strong>On Death:</strong> Put a card from your discard pile into your hand (can be this one),,,Brendan Head,39-15
+1,2,0,Death Cultists,Self-Death,"<strong>On Recruit:</strong> Attacks this turn, then dies.<br><br><strong>On Death:</strong> Lose 1 HP<br>If this is in your discard pile, next turn it plays into the same Lane your opponent played.",,,Brendan Head,39-16
+1,5,5,Death Cultists,Cthulu,Can only be played by sacrificing 2 friendly units in play.,,,Brendan Head,39-17
+6,0,0,Free Men of the Desert,Desert Warrior,<strong>On Recruit:</strong> Gains a +1/+1 counter.,,Starting,Brendan Head,40-1
+1,0,0,Free Men of the Desert,Backstab,<strong>On Recruit:</strong> Gains two +1/+1 counters. Place a +1/+1 counter on an enemy unit in this Lane.<br><br><strong>End of Turn:</strong> All enemy units with +1/+1 counters on them remove 1.,,,Brendan Head,40-2
+1,0,2,Free Men of the Desert,Bleeding Kinfe,<strong>On Recruit:</strong> Gains a +1/+1 counter and opponent loses 1 HP.<br><br><strong>End of Turn:</strong> Opponent loses 1 HP.,,,Brendan Head,40-3
+1,0,1,Free Men of the Desert,Family Atomics,<strong>On Death:</strong> Deal 2 targeted damage in any Lane.,,,Brendan Head,40-4
+1,0,4,Free Men of the Desert,Power of Will,"If a damage token would be placed on a unit that would kill it, you may place it on this instead.<br><br><strong>End of Turn:</strong> Heals 1 damage on itself.",,,Brendan Head,40-5
+1,0,3,Free Men of the Desert,Sand Ambush,This card has Attack Power equal to number of friendly units attacking this turn.,,,Brendan Head,40-6
+1,0,1,Free Men of the Desert,Temporary Agression,<strong>On Recruit:</strong> Gains three +1/+1 counters and Attacks this turn.<br><br><strong>End of Turn:</strong> Remove a +1/+1 counter. ,,,Brendan Head,40-7
+1,1,1,Free Men of the Desert,Imperial Dreadnought,<strong>On Recruit:</strong> Gains two +1/+1 counters.<br><br><strong>On Death:</strong> Remove 1 damage token from this and do not kill this unit.,,,Brendan Head,40-8
+1,1,3,Free Men of the Desert,Foldspace,"<strong>On Recruit:</strong> May move a different friendly unit from any Lane to any other Lane. If you do, it gains two +1/+1 counters.",,,Brendan Head,40-9
+1,1,0,Free Men of the Desert,Giant Worms,{action:Action}<br> Attacks this turn. All friendly units (including this) gain +1 Attack Power this turn.,Action,,Brendan Head,40-10
+1,1,6,Free Men of the Desert,Recycling Water,<strong>End of Turn:</strong> May kill this.<br><br><strong>On Death:</strong> Gain 4 HP. ,,,Brendan Head,40-11
+1,1,1,Free Men of the Desert,Shifting Allegiances,"<strong>On Recruit:</strong> Discard a card, then place the top card of your opponents' deck into your hand.",,,Brendan Head,40-12
+1,1,3,Free Men of the Desert,Spice Addiction,<strong>On Recruit:</strong> Attacks this turn.<br><br><strong>End of Turn:</strong> Gain 1 HP.,,,Brendan Head,40-13
+1,1,3,Free Men of the Desert,Water Purifier,<strong>End of Turn:</strong> Choose a Lane. All friendly units in that Lane heal 1 damage.,,,Brendan Head,40-14
+1,2,1,Free Men of the Desert,Guild Navigator,<strong>End of Turn:</strong> May move a unit (friendly or enemy) to any Lane.,,,Brendan Head,40-15
+1,3,1,Free Men of the Desert,Ornithopter,Attacks opponent HP directly.,,,Brendan Head,40-16
+1,3,1,Free Men of the Desert,Prophets of Battle,May choose to reduce this unit's Attack Power by 2 to Attack all Lanes instead of just this Lane.,,,Brendan Head,40-17
+3,0,0,Volcano Kings,Five,<strong>On Recruit:</strong> Dies.,,,Brendan Head,41-1
+3,0,0,Volcano Kings,Four,<strong>On Recruit:</strong> Dies.,,,Brendan Head,41-2
+3,0,0,Volcano Kings,One,<strong>On Recruit:</strong> Dies.,,,Brendan Head,41-3
+3,0,0,Volcano Kings,Six,"<strong>On Recruit:</strong> Win the Battle.<br>If your opponent also played a Six, keep playing. ",,,Brendan Head,41-4
+3,0,0,Volcano Kings,Three,<strong>On Recruit:</strong> Dies.,,,Brendan Head,41-5
+3,0,0,Volcano Kings,Two,<strong>On Recruit:</strong> Dies.,,,Brendan Head,41-6
+2,0,1,Cycliods,Alpha Bot,<strong>On Recruit:</strong> Gains a +1/+1 counter.,,Starting,Brendan Head,42-1
+1,0,1,Cycliods,Beta Bot,,,Starting,Brendan Head,42-2
+1,0,0,Cycliods,Buff Bot,<strong>On Recruit:</strong> Gain three +1/+1 counters.,,,Brendan Head,42-3
+1,0,1,Cycliods,Cannon Bot,<strong>On Recruit:</strong> Gain two +1/+1 counters.<br><br><strong>After Attacking:</strong> Remove a +1/+1 counter,,,Brendan Head,42-4
+1,0,1,Cycliods,Friendly Bot,This gains Attack Power equal to number of +1/+1 counters on friendly units in this Lane.,,,Brendan Head,42-5
+1,0,1,Cycliods,Healing Bot,<strong>On Recruit:</strong> Gain 1 HP for each +1/+1 counter in this Lane.,,,Brendan Head,42-6
+1,0,2,Cycliods,Laser Bot,This has +2 Attack Power if it has a +1/+1 counter on it.,,,Brendan Head,42-7
+1,0,2,Cycliods,Sniper Bot,"<strong>Start of Turn:</strong> If this has a +1/+1 counter on it, deal 1 damage to this Lane.",,,Brendan Head,42-8
+1,0,0,Cycliods,Speed Bot,{attacksFirst:Attacks First.}<br> <strong>On Recruit:</strong> Gains two +1/+1 counters and attacks this turn.,,,Brendan Head,42-9
+1,0,0,Cycliods,Support Bot,{action:Action}<br> Put two +1/+1 counters on friendly units in this Lane. This Lane attacks this turn.,Action,,Brendan Head,42-10
+1,1,1,Cycliods,Conditional Bot,Attacks only while it has a +1/+1 counter on it.,,,Brendan Head,42-11
+1,1,1,Cycliods,Counter Bot,<strong>Start of Turn:</strong> Gains a +1/+1 counter,,,Brendan Head,42-12
+1,1,1,Cycliods,Doctor Bot,"<strong>Start of Turn:</strong> If this has a +1/+1 counter on it, gain 1 HP.",,,Brendan Head,42-13
+1,1,2,Cycliods,Doubler Bot,"<strong>Start of Turn:</strong> Gains a +1/+1 counter.<br><br><strong>End of Turn:</strong> Before doing your passive, this loses a +1/+1 counter.",,,Brendan Head,42-14
+1,1,3,Cycliods,Malfunctioning Bot,<strong>End of Turn:</strong> Takes 1 damage,,,Brendan Head,42-15
+1,1,1,Cycliods,Reshuffler Bot,<strong>On Recruit:</strong> May move up to two +1/+1 counters from other friendly units to this.,,,Brendan Head,42-16
+1,3,2,Cycliods,Flipper Bot,<strong>On Recruit:</strong> Attacks this turn. This does not attack if it has any +1/+1 counters on it.,,,Brendan Head,42-17
+1,3,1,Cycliods,Thief Bot,{attacksLast:Attacks Last.}<br> <strong>On Recruit:</strong> Remove a +1/+1 counter from any friendly unit.,,,Brendan Head,42-18
+6,0,2,The Blood Leachers,Blood Barricade,,,Starting,Brendan Head,43-1
+2,0,3,The Blood Leachers,Boiling Blood,"Attacks based on the number of tokens in your supply. (1-5 0 Attack Power, 6-10 1 Attack Power, 11-15 3 Attack Power)",,,Brendan Head,43-2
+1,1,5,The Blood Leachers,Blood Bank,<strong>On Recruit:</strong> Gain 1 damage token to your supply.,,,Brendan Head,43-3
+1,1,3,The Blood Leachers,Doctor Blood,<strong>On Recruit:</strong> Discard 2 damage tokens from your supply,,,Brendan Head,43-4
+1,1,1,The Blood Leachers,Max the Mad Bloodman,<strong>On Recruit:</strong> Gains two +1/+1 counters.<br><br><strong>End of Turn:</strong> Gain 1 damage token into your supply.,,,Brendan Head,43-5
+1,1,3,The Blood Leachers,O-Negative,<strong>End of Turn:</strong> Discard 1 damage token from your supply.,,,Brendan Head,43-6
+1,1,4,The Blood Leachers,Red Pool,<strong>End of Turn:</strong> Place a +1/+1 token on this.,,,Brendan Head,43-7
+2,2,2,The Blood Leachers,A Rush of Blood (to the Head),<strong>On Recruit:</strong> Attacks this turn.,,,Brendan Head,43-8
+2,2,1,The Blood Leachers,A-Plus,{attacksLast:Attacks Last.}<br> Also does 1 damage to both other Lanes.,,,Brendan Head,43-9
+2,2,3,The Blood Leachers,Cell Count,"Attacks based on the number of tokens on this. 1 - This Lane, 2 - This Lane + 1 adjacent Lanes, 3 - All Lanes",,,Brendan Head,43-10
+1,2,2,The Blood Leachers,White Cell,Attacks any Lane.,,,Brendan Head,43-11
+2,4,1,The Blood Leachers,Blood Dagger,{attacksLast:Attacks Last.}<br> <strong>On Recruit:</strong> Gain 2 damage tokens into your supply.,,,Brendan Head,43-12
+4,0,2,Darren,Loyal Follower of the Cult of Personality,Worth 1 Mini Battles share.,,Starting,Brendan Head,44-1
+1,0,0,Darren,Dublin Spire,<em>- Tall and Spiky -</em><br><strong>On Recruit:</strong> Gains four +1/+1 tokens.<br><br><strong>End of Turn:</strong> Remove a +1/+1 token.,,,Brendan Head,44-2
+1,0,1,Darren,Ego,<em>- Infinite Scaling -</em><br><strong>End of Turn:</strong> Gains a +1/+1 counter (no limit).,,,Brendan Head,44-3
+1,0,2,Darren,Ironclad,<em>- Strength Build -</em><br>All friendly units in this Lane have +1 Attack Power. <strong>End of Turn:</strong> Gain 1 HP.,,,Brendan Head,44-4
+1,0,0,Darren,Korfball,<em>- Long Pass -</em><br><strong>On Recruit:</strong> Gains three +1/+1 counters.<br><strong>Start of Combat:</strong> May move a +1/+1 counter from this to a friendly unit in a Lane that is attacking this turn.,,,Brendan Head,44-5
+1,0,0,Darren,Non-Simultaneous,"{action:Action}<br> This Lane attacks this turn.<br>This turn combat is not resolved simultaneously. Instead resolve combat for all your units, then for all enemy units. ",Action,,Brendan Head,44-6
+1,0,2,Darren,Pre-Vegan,<em>- Consume Meat -</em><br><strong>On Recruit:</strong> Discard an enemy unit in this Lane.,,,Brendan Head,44-7
+1,1,2,Darren,(Legally) Blind,<em>- Impair Enemy Vision -</em><br><strong>On Recruit:</strong> Enemy units in this Lane do not Attack this turn ,,,Brendan Head,44-8
+1,1,3,Darren,Airport Guinness,<em>- Check In -</em><br><strong>On Recruit:</strong> Gain 2 HP and heal all damage from friendly units in this Lane.,,,Brendan Head,44-9
+1,1,3,Darren,AWS,<em>- On Call -</em><br><strong>On Recruit:</strong> You may swap the Lanes of either any two friendly units or any two enemy units. ,,,Brendan Head,44-10
+1,1,3,Darren,Camberschlang,{attacksLast:Attacks Last.}<br><br><em>- Young Scot -</em><br>Attacks any Lane (for free).,,,Brendan Head,44-11
+1,1,1,Darren,Mint,<em>- Reduce Bitterness -</em><br>All enemy units in this Lane have their Attack Power reduced by 1.,,,Brendan Head,44-12
+1,1,1,Darren,Piston Gamer,"<em>- Defender of Gloves -</em><br><strong>On Recruit:</strong> If you have at least 1 other card in this Lane, put a +1/+1 token on any two friendly units in this Lane. ",,,Brendan Head,44-13
+1,1,2,Darren,Vegan,<em>- Banish Meat Eater -</em><br><strong>On Recruit:</strong> Put an enemy unit in this Lane back in your opponent's hand.,,,Brendan Head,44-14
+1,2,1,Darren,Caithe,<em>- Plant Growth -</em><br><strong>On Recruit:</strong> Spawns a Loyal Follower of the Cult of Personality in this Lane. ,,,Brendan Head,44-15
+1,2,2,Darren,Generic Woman,<em>- Finder of Paths -</em><br><strong>On Recruit:</strong> Search your deck for any card. You can now look at that card. Then shuffle your deck and put the card on top. Enjoy your new card next turn.,,,Brendan Head,44-16
+1,2,1,Darren,Morrisons,<em>- Staff Discount -</em><br><strong>On Recruit:</strong> Incoming damage is reduced by 1 this turn in each Lane in each Combat Phase.,,,Brendan Head,44-17
+1,2,2,Darren,Ryanair Flight,<em>- To Leeds -</em><br><strong>End of Turn:</strong> <strong>Must</strong> move this to a different Lane.,,,Brendan Head,44-18
+1,3,0,Darren,BMS 2 A.M.,<em>- Fight Me -</em><br>{action:Action}<br> All units (friendly and enemy) in all Lanes attack this turn,Action,,Brendan Head,44-19
+6,0,1,Oscar,Immovable Orb,<em>- Infinite Healing -</em><br><strong>End of Turn:</strong> Heals 1 damage on itself.<br><br><em>- Gain 1 HP -</em><br><strong>On Death:</strong> Gain 1 HP.,,Starting,Brendan Head,45-1
+1,0,0,Oscar,"""TURNS""","{action:Action}<br> Immediately end your turn, triggering ""End of Turn"" abilities. Then take another turn immediately.<br>This card starts outside your deck and can be played on your turn as if it was in your hand. If you do, do not draw a card start of next turn. ",Action,,Brendan Head,45-2
+1,0,0,Oscar,Chess,"<strong><em>- Bad Game -</em><br></strong><br><strong>On Recruit:</strong> This dies. Draw 1 card, then place a different, <strong>better</strong> card in this Lane. Literally <strong>any other card</strong> is better.<br><br><em>- Convolutedly Named Gambit -</em><br><strong>On Death:</strong> Opponent loses 2 HP.",,,Brendan Head,45-3
+1,0,2,Oscar,Cosmic Orb,<em>- Ponder -</em><br><strong>End of Turn:</strong> Deal 1 Attack damage in this Lane.<br><br><em>- Evoke -</em><br><strong>On Death:</strong> Deal 2 Attack damage in this Lane.,,,Brendan Head,45-4
+1,0,1,Oscar,Left Glove,"<em>- Right Glove -</em><br><strong>On Recruit:</strong> Search your deck for Right Glove and play it into a different Lane, then shuffle your deck.<br><br><em>- Left Glove -</em><br><strong>End of Turn:</strong> Place a +1/+1 counter on Right Glove.",,,Brendan Head,45-5
+1,0,0,Oscar,Popcorn,<em>- Big Bowl of Kernels -</em><br><strong>On Recruit:</strong> Gains three +1/+1 counters.<br><br><em>- Specialised Butter Salt -</em><br><strong>On Recruit:</strong> Prevents an enemy unit that would attack this turn from attacking. ,,,Brendan Head,45-6
+1,0,1,Oscar,Right Glove,"<em>- Left Glove -</em><br><strong>On Recruit:</strong> Search your deck for Left Glove and play it into a different Lane, then shuffle your deck.<br><br><em>- Right Glove -</em><br><strong>End of Turn:</strong> Place a +1/+1 counter on Left Glove.",,,Brendan Head,45-7
+1,1,1,Oscar,Bees,<em>- lil guy :) -</em><br><strong>Start of Combat:</strong> May move any friendly unit from any Lane to any other Lane.,,,Brendan Head,45-8
+1,1,2,Oscar,Generic Universal PathFinding System,<em>- Equip Goggles -</em><br><strong>On Recruit:</strong> Venture 1.<br><br><em>- Efficiency Puzzle -</em><br><strong>End of Turn:</strong> Venture 1.,,,Brendan Head,45-9
+1,1,2,Oscar,Homestuck Reference,<em>- Sacred Knowledge -</em><br><strong>On Recruit:</strong> Inform your opponent that the card they just played is a Homestuck reference. Friendly units gain +1 Attack Power this turn as a result.<br><br><em>- Timeline Loop -</em><br><strong>On Death:</strong> This returns to your hand then place an Immovable Orb in this Lane.,,,Brendan Head,45-10
+1,1,3,Oscar,Internet Wiki,"<em>- Research Tropes -</em><br><strong>On Recruit:</strong> Scry 1.<br><br><em>- Research Non-Tropes -</em><br><strong>Start of Turn:</strong> After you draw a card, Scry 1. ",,,Brendan Head,45-11
+1,1,1,Oscar,Neil Cicierega,"<em>- Ultimate Showdown -</em><br><strong>On Recruit:</strong> This Lane Attacks this turn.<br><br><em>- Wndrwll Volcano -</em><br><strong>On Recruit:</strong> Roll a d6 - If it's a 6, Venture 6.",,,Brendan Head,45-12
+1,2,1,Oscar,13p Cola,<em>- Oscar Juice -</em><br><strong>On Recruit:</strong> Set your HP to 13. Opponent gains HP equal to the amount of HP this heals you.<br><br><em>- Extra Fizzy -</em><br><strong>On Recruit:</strong> All units (friendly and enemy) deal double damage this turn.,,,Brendan Head,45-13
+1,2,1,Oscar,Citric Acid,<em>- Lemon Demon Attack -</em><br><strong>On Recruit:</strong> Attacks this turn.<br><br><em>- Consume -</em><br><strong>On Death:</strong> Venture 1.,,,Brendan Head,45-14
+1,2,2,Oscar,Critter Dungeon,<em>- Greater Good -</em><br><strong>On Recruit:</strong> Sacrifice a friendly unit in any Lane to Venture 3.,,,Brendan Head,45-15
+1,2,1,Oscar,East Oxford,"<em>- Shark Attack -</em><br>Attacks this Lane and the Lane to the left from Oscar's perspective (or owner's, if Oscar is not present). ",,,Brendan Head,45-16
+1,2,2,Oscar,Mound,"<em>- Mounds within Mounds -</em><br><strong>On Recruit:</strong> If it is currently 2AM in real life, start a nested subgame of Mini Battles.<br>The loser of the subgame loses half their HP, rounded up. The winner gets to search their deck for any card, play into any Lane, then shuffle their deck.",,,Brendan Head,45-17
+1,2,2,Oscar,Schwarma House,<em>- Blessed Food -</em><br><strong>On Recruit:</strong> Gain 2 HP and heal all damage from all friendly units in any Lane.,,,Brendan Head,45-18
+1,4,2,Oscar,Katz Cats (2019),<em>- Dundee United -</em><br><strong>On Recruit:</strong><br>Choose one - <br><ul><li>Sacrifice a friendly unit in any Lane and lose 2 HP.</li><li>Lose the Battle.</li></ul>,,,Brendan Head,45-19
+4,0,2,Tom,Black Basic Tile,,,"Black, Starting",Brendan Head,46-1
+4,0,2,Tom,Blue Basic Tile,,,"Blue, Starting",Brendan Head,46-2
+4,0,2,Tom,Yellow Basic Tile,,,"Yellow, Starting",Brendan Head,46-3
+1,0,0,Tom,Column Bonus,"<strong>On Recruit:</strong> Gains a +1/+1 counter.<br><br><strong>End of Turn:</strong> If this did not attack this turn, set the number of +1/+1 counters on this equal to number of units in this Lane.",,Black,Brendan Head,46-4
+1,0,4,Tom,Endgame Scoring,"Gain 1 HP.<br>Gain an additional HP for every 3 Black Tiles, every 3 Blue Tiles, every 3 Yellow Tiles and every set of 1 Black, 1 Blue and 1 Yellow tile.",,Blue,Brendan Head,46-5
+1,0,0,Tom,First Player Marker,"{action:Action}<br> This Lane attacks this turn. Put a +1/+1 counter on a unit in this Lane.<br><br>Lose up to 3 HP.<br>For each HP you lose, put a +1/+1 counter on a unit in this Lane.",Action,Yellow,Brendan Head,46-6
+1,0,0,Tom,Tile Rush!,"{action:Action}<br> Take 3 Basic Tiles, one in each colour. Put 1 in each Lane, then put a +1/+1 counter on each of them.",Action,Blue,Brendan Head,46-7
+1,0,0,Tom,Triple Combo,{action:Action}<br> Deal 3 targeted damage. This can be split how you choose among units in any Lanes.,Action,Black,Brendan Head,46-8
+1,1,2,Tom,Azul Attack,Attacks into any Lane where you have Black tiles.,,Black,Brendan Head,46-9
+1,1,3,Tom,Colour Switch,<strong>On Recruit:</strong> You may convert any unit in any Lane to a different colour. Indicate this by placing a Basic Wall Tile of the corresponding colour under it.,,Yellow,Brendan Head,46-10
+1,1,2,Tom,Eat Sleep Azul Repeat,{attacksFirst:Attacks First.}<br> <strong>On Recruit:</strong> Attacks this turn.<br><strong>End of Turn:</strong> Heals 1 damage on itself.,,Black,Brendan Head,46-11
+1,1,2,Tom,Floor Penalty Immunity,<strong>On Recruit:</strong> Blue cards die at -1 health not 0 for this turn.,,Blue,Brendan Head,46-12
+1,1,2,Tom,Points are Points,<strong>On Recruit:</strong> Gain 1 HP per Blue card in play.,,Blue,Brendan Head,46-13
+1,1,3,Tom,Rainbow Connector,This card also counts as Black and Blue.<br><strong>On Recruit:</strong> Look at one card in the Drafting Zone. You may move it to any other section of the zone.,,Yellow,Brendan Head,46-14
+1,1,2,Tom,Rearrangement,<strong>On Recruit:</strong> Move any unit (can be this) to a different Lane,,Yellow,Brendan Head,46-15
+1,1,3,Tom,Sliding Tile,<strong>End of Turn:</strong> Must move this to a different Lane,,Yellow,Brendan Head,46-16
+1,1,1,Tom,Wonder Walls,"<strong>On Recruit:</strong> Put a Basic Tile of any Colour in this Lane.<br><br>When you place a card into this Lane, put a Basic Tile of any colour in a different Lane.",,Blue,Brendan Head,46-17
+1,2,1,Tom,Paint Job,"<strong>On Recruit:</strong> Place a Yellow Basic Tile in any Lane.<br><br><strong>End of Turn:</strong> You may switch out any number of Basic Tiles for Basic Tiles of different colours, carrying over all counters.",,Yellow,Brendan Head,46-18
+1,2,2,Tom,Rigged Draft,<strong>On Death:</strong> You may return 1 card from your discard pile (including this) to the centre area of the Drafting Zone.,,Blue,Brendan Head,46-19
+1,2,1,Tom,Tile Snipe,<strong>On Recruit:</strong> Gains a +1/+1 counter.<br><br>Attacks any Lane but this one.,,Black,Brendan Head,46-20
+1,3,3,Tom,Middle Man,"<strong>Start of Combat:</strong> If you drew your card this turn from the centre area, this attacks. If not, lose 1 HP. This overrules normal attacking rules.",,Black,Brendan Head,46-21
+3,0,2,Hitmen,Bodyguard,,,Starting,Brendan Head,47-1
+1,0,2,Hitmen,Accident,<strong>On Recruit:</strong> Discard an enemy unit in this Lane.<br><br><strong>5 Mercs:</strong> Discard an enemy unit in this Lane.,,,Brendan Head,47-2
+2,0,0,Hitmen,Hired Assassin,<strong>On Recruit:</strong> Gains three +1/+1 counters.<br><br><strong>1 Merc:</strong> Remove a +1/+1 counte from this to put a damage counter on any unit.,,,Brendan Head,47-3
+1,0,0,Hitmen,Training Simulation,<strong>On Recruit:</strong> Gains a +1/+1 counter.<br><br><strong>1 Merc:</strong> Gains a +1/+1 counter.,,,Brendan Head,47-4
+2,1,3,Hitmen,Golden Bullets,<strong>On Recruit:</strong> Deal 1 targeted damage to any unit. Pay 1 Merc for each additional damage you want to do to that unit.,,,Brendan Head,47-5
+1,1,3,Hitmen,Health Pack,<strong>On Recruit:</strong> Heal 2 damage from units or your HP in any combination.<br><br><strong>1 Merc:</strong> Heal 1 damage from any unit or your HP.,,,Brendan Head,47-6
+1,1,4,Hitmen,Income,<strong>On Recruit:</strong> Gain 1 Merc.<br><br><strong>End of Turn:</strong> Gain 1 Merc.,,,Brendan Head,47-7
+1,1,2,Hitmen,Recruiter,"<strong>3 Mercs:</strong> Draw 2 cards, play 1 in this Lane and discard the other.",,,Brendan Head,47-8
+2,1,2,Hitmen,Sniper Rifle,{attacksFirst:Attacks First.}<br><br>Deals targeted damage.<br><br><strong>1 Merc:</strong> Attack any Lane this turn.,,,Brendan Head,47-9
+1,2,0,Hitmen,Bank Robbery,{action:Action}<br> Attacks this turn. Gain 3 Mercs. ,Action,,Brendan Head,47-10
+2,2,2,Hitmen,Shield,Deals targeted damage.<br><br>Must damage this before other units in this Lane.,,,Brendan Head,47-11
+2,2,1,Hitmen,Slow Poison,{attacksLast:Attacks Last.}<br><br>Deals targeted damage.<br><br><strong>On Recruit:</strong> Gains a +1/+1 counter.,,,Brendan Head,47-12
+1,3,2,Hitmen,Mercenary,<strong>On Recruit:</strong> Attacks this turn.<br><br>This doesn't attack normally.<br><br><strong>2 Mercs:</strong> Attacks this turn.,,,Brendan Head,47-13
+1,4,7,Hitmen,Agent 47,"<strong>On Recruit:</strong> Must pay 5 Mercs, or this dies. Then this takes 4 damage. ",,,Brendan Head,47-14
+6,0,2,Hive,HexBlock,"<strong>End of Turn:</strong> In any Empty Lanes, gain 1 HexBlock each.",,Starting,Brendan Head,48-1
+1,0,0,Hive,Break the Hive,{action:Action}<br> Remove all units from this Lane (friendly and enemy),,,Brendan Head,48-2
+1,0,0,Hive,Swarm of the Hive,{action:Action}<br> This Lane attacks this turn. Place a HexBlock with +1/+1 counter on it in every Lane.,,,Brendan Head,48-3
+2,1,3,Hive,Beetle,"<strong>End of Turn:</strong> If this is on top of an enemy unit, remove that unit and move this to any Lane. Otherwise, may place this on top of an enemy unit in this Lane. That unit can no longer attack or move. ",,,Brendan Head,48-4
+3,1,1,Hive,Grasshopper,"<strong>After Attacking:</strong> May move to a different Lane. If it does, gains a +1/+1 counter.",,,Brendan Head,48-5
+1,1,1,Hive,Ladybug,"<strong>On Recruit:</strong> In both other Lanes, place a +1/+1 counter on one unit.<br><br><strong>End of Turn:</strong> In both other Lanes, place a +1/+1 counter on one unit.",,,Brendan Head,48-6
+1,1,1,Hive,Mosquito,"<strong>On Recruit:</strong> May copy the ""On Recruit"" effect of any unit (friendly or enemy) in this Lane.<br><br><strong>End of Turn:</strong> May copy the ""End of Turn"" effect of any unit (friendly or enemy) in this Lane.",,,Brendan Head,48-7
+1,1,10,Hive,Hive Queen,"Starts in your hand. Must be placed by turn 4. Your units don't attack until you've placed your Queen Bee. If this dies, lose the Battle. Any damage that would go into your HP goes on your Queen.<br><strong>End of Turn:</strong> Heal 1 damage on itself.",,,Brendan Head,48-8
+3,2,1,Hive,Soldier Ant,"Attacks any Lane. After attacking, must move this into the Lane it attacked.",,,Brendan Head,48-9
+2,3,2,Hive,Spider,"When distributing damage in combat, all of the damage from the Spider must be placed on exactly one unit first, ignoring all excess damage.",,,Brendan Head,48-10
+1,1,2,Hive,Pillbug,<strong>On Recruit:</strong> May move another unit (friendly or enemy) to a different Lane. <strong>End of Turn:</strong> May move another unit (friendly or enemy) to a different Lane.,,,Brendan Head,48-11
+3,0,2,Hot Potatoes,Raw Potato,"<strong>On Death:</strong> If killed by an explosion, resummon unit that exploded from your discard pile.",,"Potato, Starting",Owain Elliot,49-1
+1,0,0,Hot Potatoes,Bomb or Potato?,<strong>On Recruit:</strong> Gains two +1/+1 counters.<br><br><strong>End of Turn:</strong> Remove a counter (damage or +1/+1).<br>br><strong>On Death:</strong> Remove every unit in this lane,,,Owain Elliot,49-2
+1,0,0,Hot Potatoes,Farming,{action:Action}<br> Summon a Raw Potato into every Lane.,,,Owain Elliot,49-3
+2,0,3,Hot Potatoes,Gloves,Explosions no longer deal damage to friendly units in this lane,,,Owain Elliot,49-4
+2,0,1,Hot Potatoes,Hot Potato,<strong>End of Turn:</strong> Explode - Deal 1 damage to every unit (friendly and enemy) in this Lane.<br><br><strong>On Death:</strong> Explode - Deal 1 damage to every unit (friendly and enemy) in this Lane.,,Potato,Owain Elliot,49-5
+2,0,1,Hot Potatoes,Lukewarm Potato,<strong>On Death:</strong> Explode - Deal 2 damage to 1 friendly unit in this Lane and 2 damage to 1 enemy unit in this Lane.,,Potato,Owain Elliot,49-6
+1,0,2,Hot Potatoes,Mega Hot Potato,<strong>End of Turn:</strong> Explode - Deal 1 damage to every unit (friendly and enemy) in <strong>every</strong> Lane.<br><br><strong>On Death:</strong> Explode - Deal 1 damage to every unit (friendly and enemy) in <strong>every</strong> Lane.,,Potato,Owain Elliot,49-7
+1,0,0,Hot Potatoes,Microwave,"{action:Action}<br> For this turn, explosions cause opponent to also lose 1 HP.",,,Owain Elliot,49-8
+1,0,0,Hot Potatoes,Throw,{action:Action}<br> Move a Potato into one of the enemies lanes and summon 2 Raw Potatoes in lanes of your choice,,,Owain Elliot,49-9
+1,1,3,Hot Potatoes,Boiling Potato,<strong>On Death:</strong> Explode - Deal 3 damage to every unit (friendly and enemy) in this Lane.,,Potato,Owain Elliot,49-10
+1,1,2,Hot Potatoes,Chips,"When this would attack, you can instead deal 1 damage to any friendly unit.",,Potato,Owain Elliot,49-11
+2,1,2,Hot Potatoes,Sweet Potato,<strong>On Death:</strong> Explode - All friendly units in this Lane gain a +1/+1 counter.,,Potato,Owain Elliot,49-12
+1,2,2,Hot Potatoes,Baked Potato,<strong>On Death:</strong> Explode - Remove 1 damage counter from all friendly units in this Lane.,,Potato,Owain Elliot,49-13
+1,2,1,Hot Potatoes,Fork,<strong>On Recruit:</strong> Discard a friendly unit that can explode. This gains +1/+1 counters equal to its base health.,,,Owain Elliot,49-14
+1,4,1,Hot Potatoes,Crisps,<strong>On Death:</strong> Deal 1 damage to unit that killed this.,,Potato,Owain Elliot,49-15
+3,0,2,Vitalators,Vitalator,,,Starting,Brendan Head,50-1
+1,0,1,Vitalators,Blood Buff,<strong>On Recruit:</strong> Gains a +1/+1 counter for every 4 HP you have.,,,Brendan Head,50-2
+1,0,1,Vitalators,Buff Brawler,"<strong>On Recruit:</strong> May place a +1/+1 counter on any friendly unit (can be this one)<br><strong>End of Turn:</strong> May place a +1/+1 counter on any friendly unit (can be this one). When you place a +1/+1 counter on a unit that already has at least one +1/+1 counter on it, lose 1 HP.",,,Brendan Head,50-3
+1,0,0,Vitalators,Chooser,{action:Action}<br> Deal 1 targeted damage in this Lane. Deal either deal 2 more targeted damage or gain 3 HP.,Action,,Brendan Head,50-4
+1,0,4,Vitalators,Sacrificial Stooge,<strong>End of Turn:</strong> May place any number of damage tokens on this to gain 1 HP for each damage token placed.,,,Brendan Head,50-5
+1,1,3,Vitalators,Enemy Grabber,"<strong>End of Turn:</strong> May discard this to gain 2 HP. If you do may then discard an enemy unit from this Lane, but if you do lose HP equal to equal to the health of that unit.",,,Brendan Head,50-6
+1,1,3,Vitalators,Inspirational Martyr,<strong>On Recruit:</strong> All units in this Lane (friendly and enemy) attack this turn.<br><strong>On Death:</strong> Gain 3 HP.,,,Brendan Head,50-7
+1,1,2,Vitalators,Little Guy,"If you have less than 10 HP, this attacks all Lanes.",,,Brendan Head,50-8
+1,1,3,Vitalators,Self-Stab,"<strong>On Recruit:</strong> Gain 2 HP. <strong>End of Turn:</strong> If this did not attack, it takes 1 damage and you gain 1 HP.",,,Brendan Head,50-9
+1,1,4,Vitalators,Vitality Distrubutor,<strong>On Recruit:</strong> Take two +1/+1 counters. The next unit you play gains both +1/+1 counters.<br><strong>End of Turn:</strong> May move a damage or +1/+1 counter from any unit to a different unit.,,,Brendan Head,50-10
+1,1,2,Vitalators,Wide-Area Wreckage,Attacks both other Lanes. May also sacrifice 1 HP to attack this Lane with +1 Attack Power.,,,Brendan Head,50-11
+1,2,4,Vitalators,Damage Digestor,<strong>On Recruit:</strong> Lose 2 HP.<br><strong>End of Turn:</strong> Gain HP equal to the number of damage counter on this.,,,Brendan Head,50-12
+1,2,0,Vitalators,Inspiring Survey,"{action:Action}<br> This Lane attacks this turn. Gain HP equal to half this Lane's Attack Power, rounded up.",Action,,Brendan Head,50-13
+1,2,2,Vitalators,Pacificist Priest,"If this would attack, you may instead gain 2 HP.",,,Brendan Head,50-14
+1,2,1,Vitalators,Paid Sniper,{attacksFirst:Attacks First.}<br> <strong>End of Turn:</strong> Lose 1 HP to attack again.,,,Brendan Head,50-15
+1,2,2,Vitalators,Pick and Choose,"Attacks into the other Lane that is attacking this turn, not this Lane. Lose 1 HP to attack this Lane too.",,,Brendan Head,50-16
+1,3,1,Vitalators,Time Shifter,Choose: Attacks First and lose 1 HP or {attacksLast:Attacks Last.}<br>,,,Brendan Head,50-17
+2,0,2,Team Fortress,Sentry Turret,,,Starting,Brendan Head,51-1
+1,0,3,Team Fortress,Blue Demoman,Choose when attacking: Attack this Lane for 3 or all Lanes for 1.,,Blue,Brendan Head,51-2
+1,0,2,Team Fortress,Blue Pyro,"Whenever a damage counter is placed on this, opponent also takes 1 damage in this Lane.",,Blue,Brendan Head,51-3
+1,1,1,Team Fortress,Blue Engineer,<strong>On Recruit:</strong> Gains two +1/+1 counters.<br><strong>End of Turn:</strong> May remove a +1/+1 counter from this to heal 1 damage from all units in this Lane.,,Blue,Brendan Head,51-4
+1,1,1,Team Fortress,Blue Heavy,"<strong>On Recruit:</strong> Gains four +1/+1 counters.<br><strong>End of Turn:</strong> If this attacked, loses a +1/+1 counter. Otherwise, gains a +1/+1 counter.",,Blue,Brendan Head,51-5
+1,1,1,Team Fortress,Blue Medic,<strong>On Recruit:</strong> Choose a Lane. All units in that Lane take no damage this turn.,,Blue,Brendan Head,51-6
+1,1,2,Team Fortress,Blue Scout,<strong>On Recruit:</strong> Attacks this turn.<br><strong>End of Turn:</strong> Attacks again. ,,Blue,Brendan Head,51-7
+1,3,1,Team Fortress,Blue Spy,<strong>On Recruit:</strong> Doesn't take damage this turn,,Blue,Brendan Head,51-8
+1,1,2,Team Fortress,Blue Sniper,"<strong>On Recruit:</strong> Choose a Lane. Enemy units in that Lane take double damage this turn (whenever you would place a damage counter on an enemy, place two)",,Blue,Brendan Head,51-9
+1,1,1,Team Fortress,Blue Soldier,<strong>On Recruit:</strong> Gains two +1/+1 counters. May attack into a different Lane by spending a +1/+1 counter. ,,Blue,Brendan Head,51-10
+1,1,3,Team Fortress,Red Demoman,<strong>Start of Combat:</strong> May destroy this unit to deal 3 attack damage in this lane,,Red,Brendan Head,51-11
+1,1,2,Team Fortress,Red Engineer,<strong>On Recruit:</strong> Place a Sentry Turret with two +1/+1 counters on it in any Lane.,,Red,Brendan Head,51-12
+1,1,6,Team Fortress,Red Heavy,Attacks every turn.,,Red,Brendan Head,51-13
+1,1,3,Team Fortress,Red Medic,<strong>End of Turn:</strong> Heal 1 damage from a unit in any lane.,,Red,Brendan Head,51-14
+1,1,1,Team Fortress,Red Pyro,Also does 2 damage to a different Lane.,,Red,Brendan Head,51-15
+1,1,1,Team Fortress,Red Scout,<strong>Start of Combat:</strong> Attacks before all other units.<br><strong>End of Turn:</strong> May move to a different Lane. ,,Red,Brendan Head,51-16
+1,1,2,Team Fortress,Red Spy,<strong>On Recruit:</strong> Takes no damage this turn.<br><strong>End of Turn:</strong> May sacrifice this to kill an enemy unit in this Lane. ,,Red,Brendan Head,51-17
+1,2,1,Team Fortress,Red Sniper,"<strong>On Recruit:</strong> Attacks this turn, dealing targeted damage. ",,Red,Brendan Head,51-18
+1,2,2,Team Fortress,Red Soldier,<strong>Start of Combat:</strong> May move this to a different Lane ,,Red,Brendan Head,51-19
+6,0,2,Solar System,Asteroid,,,Starting,Brendan Head,52-1
+1,0,0,Solar System,Asteroid Belt,{action:Action}<br> Gain 2 Asteroids and place them in any Lanes in any combination.,Action,,Brendan Head,52-2
+1,0,0,Solar System,Planet X,"<em>- Get Discovered -</em><br>When you draw this card to your hand: Immediately gain two +1/+1 counters, discard this and then draw a new card. <strong>End of Turn:</strong> Distribute the counters among your units.",,,Brendan Head,52-3
+1,0,3,Solar System,Pluto,"<em>- Degrade to Dwarf Status -</em><br><strong>End of Turn:</strong> Draw a card, then replace this card with a different card.",,,Brendan Head,52-4
+1,0,8,Solar System,Sagittarius B,"All damage in all Lanes is redirected to this unit.<br>After each phase of Combat, if this took damage then deal 1 Attack Damage in this Lane.",,,Brendan Head,52-5
+1,0,0,Solar System,The Moon,"<em>- Impact Formation -</em><br><strong>On Recruit:</strong> Damage any number of friendly units. For each point of friendly damage, this gains a +1+1 counter.",,,Brendan Head,52-6
+1,0,4,Solar System,The Sun,"<strong>On Recruit:</strong> Discard all friendly units in this Lane, adding their Attack Power as +1/+1 counters to this.<br><br>Whenever a card is placed in this Lane, discard it and add its Attack Power as +1/+1 counters to this.",,,Brendan Head,52-7
+1,1,2,Solar System,Europa,"<em>- Sub-Surface Ocean -</em><br>If your HP is 5 or less, all friendly units in this Lane (including this one) gain 1 Attack Power.",,,Brendan Head,52-8
+1,1,3,Solar System,Ganymede,<em>- Largest Moon<em>-  - <strong>On Recruit:</strong> Negates 1 point of incoming Attack damage in each Lane this turn.,,,Brendan Head,52-9
+1,1,2,Solar System,Mercury,"<em>- Hot and Cold Sides -</em><br><strong>End of Turn:</strong> Flip a coin. On Heads place two +1/+1 counters on this, on Tails lose 1 HP.",,,Brendan Head,52-10
+1,1,4,Solar System,Uranus,"<em>- Opposite Orbit -</em><br>This unit only attacks when it wouldn't attack normally (e.g. on Recruit, when a unit played to this Lane).<br><br><em>- Tilted Axis -</em><br>This unit attacks both other Lanes but not its own.",,,Brendan Head,52-11
+1,1,3,Solar System,Venus,"<em>- Godess of Love -</em><br>For each damage token you put on this unit, gain 1 HP.",,,Brendan Head,52-12
+1,2,4,Solar System,Andromeda,<em>- Gravitational Pull -</em><br><strong>End of Turn:</strong> All friendly units in other Lanes must be moved into this Lane and friendly units that were in this Lane must be moved to either other Lane (choose for each unit).,,,Brendan Head,52-13
+1,2,2,Solar System,Earth,"<em>- Intelligent Life -</em><br>When you would draw your card for the turn, instead draw 2 and discard 1. ",,,Brendan Head,52-14
+1,2,1,Solar System,Mars,<em>- God of War -</em><br><strong>On Recruit:</strong> Gains a +1/+1 counter and attacks this turn. <br><br><em>- Life? -</em><br><strong>End of Turn:</strong> Gain 1 HP.,,,Brendan Head,52-15
+1,2,2,Solar System,Neptune,<em>- Discovery by Maths -</em><br><strong>On Recruit:</strong> Look at the top 3 cards of your deck and rearange them into any order. You may swap any number of them with cards in your hand.,,,Brendan Head,52-16
+1,2,2,Solar System,Saturn,<em>-  Large Rings -</em><br>Deals 1 attack damage to both other Lanes.,,,Brendan Head,52-17
+1,3,3,Solar System,Jupiter,"<em>- Red Storm -</em><br>When this attacks, opponent gains 1 damage counter which they can either place on any of their units or spend to lose 1 HP.",,,Brendan Head,52-18
+1,6,6,Solar System,Milky Way,This unit counts as being in every Lane and must be damage after other units (<strong>On Recruit:</strong> No friendly Lanes will attack).,,,Brendan Head,52-19
+3,0,2,Dice Jesters,Blank Dice,,,Starting,Brendan Head,53-1
+1,0,0,Dice Jesters,Lane Marker A,"<strong>1-2:</strong> This Lane attacks this turn.
+<strong>End of Turn:</strong> May swap this with a Lane Marker in a different Lane.",,"Lane Marker, Starting",Brendan Head,53-2
+1,0,0,Dice Jesters,Lane Marker B,"<strong>3-4:</strong> This Lane attacks this turn.
+<strong>End of Turn:</strong> May swap this with a Lane Marker in a different Lane.",,"Lane Marker, Starting",Brendan Head,53-3
+1,0,0,Dice Jesters,Lane Marker C,"<strong>5-6:</strong> This Lane attacks this turn.
+<strong>End of Turn:</strong> May swap this with a Lane Marker in a different Lane.",,"Lane Marker, Starting",Brendan Head,53-4
+1,0,6,Dice Jesters,Dice Wall,May set dice to a specific value by dealing damage to this equal to value (excess goes to HP) ,,,Brendan Head,53-5
+1,0,0,Dice Jesters,Dots to Counters,"<strong>On Recruit:</strong> Gains +1/+1 counters equal to the die roll. For every counter after the 3rd placed on this, lose 1 HP.",,,Brendan Head,53-6
+1,1,2,Dice Jesters,Card Cutter,<strong>On Recruit:</strong> Enemy player looks at the top two cards of their deck. They must discard one of them and give the other to you.,,,Brendan Head,53-7
+1,1,1,Dice Jesters,Dice Scaling,<strong>1-3:</strong> Gains a +1/+1 counter,,,Brendan Head,53-8
+1,1,3,Dice Jesters,Half-Hearted Heal,<strong>1-3:</strong> Gain 1 HP,,,Brendan Head,53-9
+1,1,3,Dice Jesters,Investment Market,Add a damage counter to this to increase dice roll by 1,,,Brendan Head,53-10
+1,1,2,Dice Jesters,Shield of Unpredictable Protection,<strong>4-6:</strong> Negate 2 points of opponent's Attack Damage in the Attacking Lane this turn.,,,Brendan Head,53-11
+1,1,3,Dice Jesters,Short Stocks,Add a damage counter to this to decrease dice roll by 1,,,Brendan Head,53-12
+1,1,4,Dice Jesters,Tower of Rolls,Add a damage counter to reroll the dice.,,,Brendan Head,53-13
+1,2,2,Dice Jesters,Dice Draft,"<strong>On Recruit:</strong> Roll another dice and use both dice results this turn, choosing between where applicable. ",,,Brendan Head,53-14
+1,2,2,Dice Jesters,Even the Odds,"If the die roll is even, this gains a +1/+1 counter.",,,Brendan Head,53-15
+1,2,2,Dice Jesters,Gambling Sword,<strong>4:</strong> Does double damage this turn,,,Brendan Head,53-16
+1,2,1,Dice Jesters,Jester Volcano,<strong>6:</strong> Opponent loses 2 HP,,,Brendan Head,53-17
+1,2,2,Dice Jesters,Uneven Odds,"If the die roll is odd, this gains a +1/+1 counter.",,,Brendan Head,53-18
+1,3,1,Dice Jesters,Coin Slot Machine,<strong>On Recruit:</strong> Flip a coin instead of rolling a dice this turn.<br><strong>On Heads:</strong> The die result is set to any number you choose.<br><strong>On Tails:</strong> The die result is 0 for this turn.,,,Brendan Head,53-19
+1,X,1,Dice Jesters,Random Crit,Has Attack Power equal to the dice roll.,,,Brendan Head,53-20
+7,0,0,The Deckbuilding Dominion,Copper,1 Credit,,Starting,Brendan Head,54-1
+1,0,0,The Deckbuilding Dominion,Assault,Deal 3 Attack Damage in this Lane,,2 Credits,Brendan Head,54-2
+1,0,0,The Deckbuilding Dominion,Assemble,Place a Protective Deck in any Lane,,2 Credits,Brendan Head,54-3
+1,0,0,The Deckbuilding Dominion,Cathedral,Trash a card ,,3 Credits,Brendan Head,54-4
+1,0,0,The Deckbuilding Dominion,Cycle,Draw 2 Cards,,6 Credits,Brendan Head,54-5
+1,0,0,The Deckbuilding Dominion,Debuff,Opponent units in this Lane Attack Last this turn.,,2 Credits,Brendan Head,54-6
+1,0,0,The Deckbuilding Dominion,Drain,Opponent loses 1 HP,,3 Credits,Brendan Head,54-7
+1,0,0,The Deckbuilding Dominion,Drawer,Draw 1 card,,2 Credits,Brendan Head,54-8
+1,0,0,The Deckbuilding Dominion,Gold,3 Credits,,7 Credits,Brendan Head,54-9
+1,0,0,The Deckbuilding Dominion,Heal,Heal 1 damage from any unit.,,1 Credit,Brendan Head,54-10
+1,0,0,The Deckbuilding Dominion,Poke,Deal 1 Attack Damage in this Lane.,,1 Credit,Brendan Head,54-11
+3,0,2,The Deckbuilding Dominion,Protective Deck,,,,Brendan Head,54-12
+1,0,0,The Deckbuilding Dominion,Quicken,Units in a chosen Lane Attack First this turn and attack this turn,,3 Credits,Brendan Head,54-13
+1,0,0,The Deckbuilding Dominion,Rally,All Lanes attack this turn.,,2 Credits,Brendan Head,54-14
+1,0,0,The Deckbuilding Dominion,Restore,A unit in this Lane gains a +1/+1 counter,,1 Credit,Brendan Head,54-15
+3,0,0,The Deckbuilding Dominion,Reward,<strong>When trashed:</strong> Gain 1 HP.,,,Brendan Head,54-16
+2,0,0,The Deckbuilding Dominion,Silver,2 Credits,,4 Credits,Brendan Head,54-17
+1,0,0,The Deckbuilding Dominion,Snipe,Deal 2 targeted damage in this Lane.,,5 Credits,Brendan Head,54-18
+1,0,0,The Deckbuilding Dominion,Temple,Gain 1 HP,,1 Credit,Brendan Head,54-19
+1,2,3,The Deckbuilding Dominion,Warrior,Place a 2/3 Warrior in this Lane.,,3 Credits,Brendan Head,54-20
+3,0,2,Lucy,lil train,,,Starting,Brendan Head,55-1
+1,0,0,Lucy,Maths Skills,"{action:Action}<br> Deal unlimited targeted damage among enemy units. For each targeted damage you deal, you must either lose 1 HP or place a damage counter on a friendly unit.",Action,,Brendan Head,55-2
+1,0,1,Lucy,Til Death do us Blart,"<em>- Dark Side of the Mall -</em><br><strong>On Recruit:</strong> This gains +1/+1 counters equal to the number of times you have watched ""Paul Blart: Mall Cop 2"" this year. (Or three.)",,,Brendan Head,55-3
+1,0,2,Lucy,Transport Planner,<strong>On Recruit:</strong> Gains two +1/+1 counters.<br><br><em>- Add Trains -</em><br><strong>Start of Combat:</strong> Remove a +1/+1 counter from this to cause a Lane that wouldn't Attack this turn to Attack this turn.,,,Brendan Head,55-4
+1,1,2,Lucy,Allergy Card,<em>- Informational -</em><br>Your opponent must place their units first while this is alive.<br><br><em>- Reduced Risk of Death! -</em><br><strong>On Recruit:</strong> All incoming damage is reduced to 1 per Lane for this turn.,,,Brendan Head,55-5
+1,1,2,Lucy,Balfour 10,<em>- Distribute Tea -</em><br><strong>On Recruit:</strong> Move up to 3 damage counfters from friendly units to enemy units (any Lanes).,,,Brendan Head,55-6
+1,1,2,Lucy,Comic Con Cosplay,"<strong>On Recruit:</strong> This may copy the ""On Recruit"" effect of any unit (friendly or enemy).  Any time a friendly unit ability triggers, this may copy its ability.",,,Brendan Head,55-7
+1,1,3,Lucy,Event Organiser,"<strong>On Recruit:</strong> Draw the top 3 cards of your deck. Keep 2, putting the rest on your deck or discard pile in any combination.",,,Brendan Head,55-8
+1,1,3,Lucy,Funny Podcast,<em>- Funny Move -</em><br><strong>On Recruit:</strong> You may swap an opponent's unit with one of your own.,,,Brendan Head,55-9
+1,1,1,Lucy,K-Pop Formation,<em>- Move Sync -</em><br><strong>On Recruit:</strong> All friendly units in this Lane (including this) gain a +1/+1 counter. You may then re-distribute counters (damage and +1/+1) among friendly units in this Lane.,,,Brendan Head,55-10
+1,1,2,Lucy,Legumes et al.,"<em>- Secret Soy -</em><br><strong>End of Turn:</strong> Choose an enemy unit in this Lane to take 1 damage. If Lane is empty, opponent loses 1 HP instead.",,,Brendan Head,55-11
+1,1,4,Lucy,Reaper,<em>- Shroud -</em><br><strong>On Recruit:</strong> Negate all incoming damage this turn for one Lane.<br><em>- Necromancer -</em><br><strong>On Recruit:</strong> You may swap any cards in your hand with ones from your discard pile.,,,Brendan Head,55-12
+1,2,0,Lucy,Dance Class,"<em>- Epic Show -</em><br>{action:Action}<br> All Lanes attack this turn, with each Lane attacking with the total Attack Power of whichever Lane has the highest Attack Power.",Action,,Brendan Head,55-13
+1,2,2,Lucy,Homestuck,<em>- Infinite Recursion -</em><br><strong>On Recruit:</strong> Gain 2 HP. You may choose to kill this unit.<br><strong>On Death:</strong> Gain two +1/+1 counters on any unit. You may choose to place this card on top of your deck. ,,,Brendan Head,55-14
+1,2,2,Lucy,Knowledge Podcast,<em>- Knowledge Sharing -</em><br><strong>On Recruit:</strong> Tell your opponent a fun fact :) <br><br><em>- Strategic Wisdom -</em><br><strong>On Recruit:</strong> All your units Attack First this turn.,,,Brendan Head,55-15
+1,2,2,Lucy,Mera,<em>- Cannot Die -</em><br>Treat this unit as though it doesn't exist for the purposes of damage allocation in combat.,,,Brendan Head,55-16
+1,2,3,Lucy,Monster Factory,<em>- Distracting Aura -</em><br><strong>On Recruit:</strong> Choose an enemy unit. It does not attack this turn. ,,,Brendan Head,55-17
+1,2,2,Lucy,Monster of the Week,<em>- Kick Some Ass -</em><br><strong>On Recruit:</strong> Roll 2d6. Add the number of friendly units in this Lane (including this) to the roll.<br>On 7+: This Attacks this turn.<br>On 10+: This Lane attacks this turn.,,,Brendan Head,55-18
+1,3,2,Lucy,Judo Throw,<em>- Epic Slam -</em><br><strong>On Recruit:</strong> Move any unit (friendly or enemy) in this Lane to a different Lane. The unit takes 1 damage.,,,Brendan Head,55-19
+6,0,2,Connor,Baby Wolf,,,Starting,Brendan Head,56-1
+1,0,1,Connor,Red Wolf,<em>- Seeing Red -</em><br>This only attacks if it is a <strong>Blood Moon {MiniBattlesOld/Connor/BloodMoon.png}.</strong><br><br><em>- Blinded By Non-Blood Moonlight -</em><br><strong>Full Moon {MiniBattlesOld/Connor/FullMoon.png}:</strong> Loses a +1/+1 counter.<br><br><em>- Brooding -</em><br><strong>End of Turn:</strong> Gains a +1/+1 counter.,,"Full Moon {MiniBattlesOld/Connor/FullMoonTag.png}, Blood Moon {MiniBattlesOld/Connor/BloodMoonTag.png}",Brendan Head,56-2
+1,0,2,Connor,Space Wolf,"<strong>On Recruit:</strong> Non-Wolves in this Lane don't attack this turn.<br><br><em>- Furry Arc(s) -</em><br>For each Wolf in this Lane, choose to flip a coin or roll a d6. Consult chart for outgoing or incoming Attack damage (resolve simultaneously like combat).",,,Brendan Head,56-3
+1,0,0,Connor,Wolf Pack,"<em>- Pack Strength -</em><br><strong>On Recruit:</strong> Gain three +1/+1 counters in any combination on Wolves in this Lane.<br><br><em>- Wolves as One -</em><br>When you would lose HP, you may remove +1/+1 counters from Wolves instead.",,,Brendan Head,56-4
+1,1,3,Connor,Archer Wolf,<strong>Blood Moon {MiniBattlesOld/Connor/BloodMoon.png}:</strong> Attacks all Lanes.,,Blood Moon {MiniBattlesOld/Connor/BloodMoonTag.png},Brendan Head,56-5
+1,1,2,Connor,Buff Werewolf,<strong>Full Moon {MiniBattlesOld/Connor/FullMoon.png}:</strong> Gains a +1/+1 counter,,Full Moon {MiniBattlesOld/Connor/FullMoonTag.png},Brendan Head,56-6
+1,1,2,Connor,Fenrir,{attacksLast:Attacks Last.}<br><br><em>- God Killer -</em><br>Deals targeted damage.,,,Brendan Head,56-7
+1,1,4,Connor,Librarian Wolf,"<strong>On Recruit:</strong> Scry 2.<br><br><strong>Full Moon {MiniBattlesOld/Connor/FullMoon.png}:</strong> Draw up to 2 cards, then discard that same number of cards.",,Full Moon {MiniBattlesOld/Connor/FullMoonTag.png},Brendan Head,56-8
+1,1,0,Connor,Moon Wolf,{action:Action}<br> This Lane attacks this turn. Gain 1 HP. You may trigger any Moon immediately.,Action,,Brendan Head,56-9
+1,1,1,Connor,Sacrificial Wolf,"<strong>Start of Turn:</strong> May discard this Wolf to trigger a Moon without losing HP.<br><br>If you do, you may trigger the Moon effect of any Wolf twice.",,Full Moon {MiniBattlesOld/Connor/FullMoonTag.png},Brendan Head,56-10
+1,1,2,Connor,Shy Wolf,"<strong>Full Moon {MiniBattlesOld/Connor/FullMoon.png}:</strong> You may trigger or copy the ""On Recruit"" or ""Full Moon {MiniBattlesOld/Connor/FullMoon.png}"" effect of another Wolf.",,,Brendan Head,56-11
+1,1,3,Connor,Soothing Wolf,<strong>End of Turn:</strong> Gain 1 HP.<br><br><strong>Full Moon {MiniBattlesOld/Connor/FullMoon.png}:</strong> Also heal 1 damage from any Wolf.,,Full Moon {MiniBattlesOld/Connor/FullMoonTag.png},Brendan Head,56-12
+1,1,2,Connor,Wolf Mother,<strong>On Recruit:</strong> Place a Baby Wolf in any Lane.<br><br><strong>Full Moon {MiniBattlesOld/Connor/FullMoon.png}:</strong> Place a Baby Wolf in any Lane.,,Full Moon {MiniBattlesOld/Connor/FullMoonTag.png},Brendan Head,56-13
+1,2,1,Connor,Raging Wolf,"<strong>Full Moon {MiniBattlesOld/Connor/FullMoon.png}:</strong> Attacks twice this turn, with each attack into a different Lane.",,Full Moon {MiniBattlesOld/Connor/FullMoonTag.png},Brendan Head,56-14
+1,2,2,Connor,Rytlock,<em>- Sohothin -</em><br><strong>Full Moon {MiniBattlesOld/Connor/FullMoon.png}:</strong> Also deals 1 damage to both adjacent Lanes.,,Full Moon {MiniBattlesOld/Connor/FullMoonTag.png},Brendan Head,56-15
+1,2,1,Connor,Speed Wolf,<strong>On Recruit:</strong> Attacks this turn.<br><br><strong>Full Moon {MiniBattlesOld/Connor/FullMoon.png}:</strong> Attacks this turn. ,,Full Moon {MiniBattlesOld/Connor/FullMoonTag.png},Brendan Head,56-16
+1,2,2,Connor,Supportive Wolf,<strong>Blood Moon {MiniBattlesOld/Connor/BloodMoon.png}:</strong> Choose a Wolf (can be this one) to Attack First this turn.,,Blood Moon {MiniBattlesOld/Connor/BloodMoonTag.png},Brendan Head,56-17
+1,3,2,Connor,Vicious Wolf Who's Also Scared of Blood,<strong>Blood Moon {MiniBattlesOld/Connor/BloodMoon.png}:</strong> Does no damage.,,Blood Moon {MiniBattlesOld/Connor/BloodMoonTag.png},Brendan Head,56-18
+1,4,4,Connor,Big Bad Wolf,<strong>On Recruit:</strong> Lose 2 HP.<br><br><em>- Big Body Blocking -</em><br>You must damage this before other Wolves in this Lane.<br><br><strong>End of Turn:</strong> Lose 1 HP.,,,Brendan Head,56-19
+12,0,2,Christmas,Present,,,Starting,Brendan Head,57-1
+1,0,0,Christmas,Christmas Spirit,<strong>On Recruit:</strong> Give a card from your hand to your opponent and let them place a Present in any Lane. Then this gains three +1/+1 counters and every other unit in all Lanes gain a +1/+1 counter.,,,Brendan Head,57-2
+1,0,0,Christmas,Ghost of Christmas Present,{action:Action}<br> Gain 3 HP and heal all damage from friendly units in one Lane.,Action,,Brendan Head,57-3
+1,0,0,Christmas,Ghost of Christmas Yet to Come,"{action:Action}<br> Gain up to three Presents. For each Present you choose to give to your opponent, Scry 2.<br>You may both place these Presents in any Lanes.",,,Brendan Head,57-4
+1,0,1,Christmas,Unwrap,"Ignore this unit for damage allocation.<br><br>When a Present dies, gain 1 HP.",,,Brendan Head,57-5
+1,1,3,Christmas,Boxing Day,<strong>On Recruit:</strong> Your opponent gains a Present with a +1/+1 counter in this Lane.<br><em>- Epic Sales -</em><br>All enemy units in all Lanes have their Attack Power reduced to 1 (if possible) while this is alive.<br><em>- Festive -</em><br><strong>Start of Combat:</strong> May choose to negate this ability gain a Present with a +1/+1 counter in this Lane.,,,Brendan Head,57-6
+1,1,2,Christmas,Christmas Card,<em>- Label Gifts -</em><br><strong>On Recruit:</strong> All Presents in this Lane gain +1/+1 counters.,,,Brendan Head,57-7
+1,1,1,Christmas,Christmas Tree,<strong>On Recruit:</strong> May move any number of Presents to this Lane.<br><br>This gains +1 Attack Power for each Present in this Lane.,,,Brendan Head,57-8
+1,1,3,Christmas,Elf,<em>- Toy Crafter -</em><br><strong>On Recruit:</strong> Place a Present in any Lane.,,,Brendan Head,57-9
+1,1,3,Christmas,Fireplace,<em>- Warming Aura -</em><br><strong>End of Turn:</strong> All friendly units in this Lane heal 1 damage.,,,Brendan Head,57-10
+1,1,2,Christmas,Ghost of Christmas Past,<strong>On Recruit:</strong> Put a card from your discard pile back in your hand.,Action,,Brendan Head,57-11
+1,1,2,Christmas,Gifting Season,<strong>On Recruit:</strong> This gains +1/+1 counters equal to the number of Presents you have in other Lanes and Attacks this turn.,,,Brendan Head,57-12
+1,1,3,Christmas,Scrooge McGrinch,"<em>- Mischievous Maneuvers -</em><br><strong>On Recruit:</strong> Move an opponent's unit in any Lane to your side of the Lane.<br><br><em>- Enlightening Reformation -</em><br><strong>End of Turn:</strong> May return the opponent's unit to their side of the Lane. If you do, gain a Present in that Lane and 2 HP.",,,Brendan Head,57-13
+1,1,1,Christmas,Sleigh,<em>- Millions of Houses in one night! -</em><br>{attacksFirst:Attacks First.}<br><br><em>- Advanced Chimney Finding Technology -</em><br>Deals targeted damage.,,,Brendan Head,57-14
+1,1,1,Christmas,Wrapping,<em>- Accidental Scissors Cut -</em><br><strong>On Recruit:</strong> May lose 2 HP to place a Present in this Lane.<br><br><em>- Wrap Present -</em><br><strong>End of Turn:</strong> May discard a friendly unit to place a Christmas Present in any Lane.,,,Brendan Head,57-15
+1,2,2,Christmas,Reindeer,"<em>- Sleigh Ride -</em><br><strong>On Recruit:</strong> May move another unit in this Lane to a different Lane. If you do, this also moves with it. ",,,Brendan Head,57-16
+1,2,2,Christmas,Rudolph,<em>- Guiding Nose -</em><br>Friendly units in this Lane can attack any Lane.,,,Brendan Head,57-17
+1,2,2,Christmas,Snowball Fight,<em>- Create Snowball -</em><br>{attacksLast:Attacks Last.}<br><br><em>- Throw Snowball -</em><br>Attacks both other Lanes.,,,Brendan Head,57-18
+1,3,1,Christmas,Santa,<em>- Final Delivery</em> <strong>On Death:</strong> Place a Present in each Lane.,,,Brendan Head,57-19
+6,0,2,Lazybones,Bone Boy,,,Starting,Brendan Head,58-1
+1,0,1,Lazybones,Bone Strengthener,"<strong>End of Turn:</strong> If this was not placed this turn, gain three +1/+1 counters on any friendly units in any combination then discard this.",,,Brendan Head,58-2
+1,0,2,Lazybones,Boney Absorber,<strong>On Death:</strong> This does not die and it gains three +1/+1 counters.,,,Brendan Head,58-3
+1,0,4,Lazybones,Doctor Bones,This unit doesn't attack and +1/+1 counters are not removed when damaging it (place damage counters instead). <strong>End of Turn:</strong> Place a +1/+1 counter on this. Then you may remove all +1/+1 counters from this to heal 2 damage for each counter removed (healing can be from friendly units or your HP in any combination).,,,Brendan Head,58-4
+1,0,3,Lazybones,Fast Bones,"{attacksFirst:Attacks First.}<br> <strong>On Recruit:</strong> Place a Bone Boy in this Lane. When a unit in this Lane dies, gain a +1/+1 counter on this.",,,Brendan Head,58-5
+1,0,0,Lazybones,Full Skeleton,"{action:Action}<br> No friendly units attack this turn. Next turn, all Lanes attack for you, with an addtional 2 Attack Power in each Lane.",Action,,Brendan Head,58-6
+1,0,4,Lazybones,Rib Cage,"Whenever you would damage this unit, place a damage counter and a +1/+1 counter. +1/+1 counters on this cannot be removed via combat damage.",,,Brendan Head,58-7
+1,1,4,Lazybones,Bone Juicer,<strong>On Recruit:</strong> Takes 2 damage. <strong>End of Turn:</strong> Converts 2 damage tokens on this to a +1/+1 counter on any unit.,,,Brendan Head,58-8
+1,1,4,Lazybones,Bone Structure,<strong>Start of Turn:</strong> All other friendly units in this Lane gain +1 Attack Power this turn.,,,Brendan Head,58-9
+1,1,3,Lazybones,Funny Bone,<strong>On Recruit:</strong> The top card your opponent's deck is played to this Lane face down.<br><strong>Start of Turn:</strong> Flip the card face-up as if you had recruited it (this does not affect Lane attacks).,,,Brendan Head,58-10
+1,1,4,Lazybones,Healing Bones,<strong>On Recruit:</strong> Lose 2 HP. Gain 1 HP for every 2 damage counters you put on units this turn,,,Brendan Head,58-11
+1,1,6,Lazybones,Jimbones,"<strong>Start of Turn:</strong> Roll a d6. If the result is less than or equal to the number of damage counters on this, gain 1 HP and a +1/+1 counter on any unit.",,,Brendan Head,58-12
+1,1,3,Lazybones,Kneebones,"<strong>Start of Turn:</strong> You may play your card this turn face down. If you do, ignore it for damage allocation this turn.<br><br><strong>End of Turn:</strong> Flip the card and give it a +1/+1 counter.",,,Brendan Head,58-13
+1,1,2,Lazybones,Shin Bone Guard,<strong>Start of Turn:</strong> Your opponent does cannot play into this Lane. This Lane takes no damage this turn. This ability can only trigger once.,,,Brendan Head,58-14
+1,2,2,Lazybones,Achille's Anke Bone,<strong>On Recruit:</strong> Move all your units to this Lane. <strong>End of Turn:</strong> Any other units in this Lane move to different Lanes.,,,Brendan Head,58-15
+1,2,2,Lazybones,Bone Scryer,"<strong>On Recruit:</strong> Look at the top 2 cards of your deck and set them aside face-down. When you draw a card at the start of your turn, you may draw either of the 2 set-down cards or the top card of your deck.",,,Brendan Head,58-16
+1,2,2,Lazybones,Elbownes,"<strong>Start of Combat:</strong> You may choose a friendly unit that would be attacking this turn. If you do, it doesn't attack this turn.<br><br><strong>End of Turn:</strong> The chosen unit gains a +1/+1 counter.",,,Brendan Head,58-17
+1,2,2,Lazybones,Wide-Bones,"{attacksLast:Attacks Last.}<br> Attacks after every other unit, even other units that attack last. Attacks both other Lanes, but not this one.",,,Brendan Head,58-18
+1,4,4,Lazybones,Wakey-Bones,This unit never attacks normally.<br><strong>On Death:</strong> Attacks,,,Brendan Head,58-19
+10,0,2,Poker Players,Playing Card,,,Starting,Brendan Head,59-1
+1,0,3,Poker Players,Ace of Spades,"<em>- Death Card -</em><br><strong>On Recruit:</strong> Discard an opponent's unit, losing HP equal to the amount of damage that would be required to kill it.<br><em>- High or Low -</em><br>You may choose this card to enter with either two damage counters and one +1/+1 counter or with no counters.",,,Brendan Head,59-2
+1,0,0,Poker Players,Pair,"<strong>On Recruit:</strong> This becomes a copy of another friendly unit in this Lane. This has the same Attack Power, Defence and Abilities as the copied card.",,,Brendan Head,59-3
+1,0,0,Poker Players,Raise,"{action:Action}<br> Choose a Lane. Your opponent must choose to Call or Fold. If they Call, friendly units in your chosen Lane attack this turn with double Attack Power. Your opponent also chooses a Lane that their units will attack this turn with double Attack Power in. If they Fold, you gain one of their units in your chosen Lane.",Action,,Brendan Head,59-4
+1,0,0,Poker Players,Royal Flush,{action:Action}<br> <em>- 10 -</em><br>Gain 2 HP.<br><em>- Royals -</em><br>Gain a playing Card in each Lane.<br><em>- Ace -</em><br>One of the playing cards gains a +1/+1 counter.,Action,,Brendan Head,59-5
+1,0,0,Poker Players,Straight Flush,<strong>On Recruit:</strong> Gains five +1/+1 counters.<br><strong>End of Turn:</strong> This takes 1 damage.,,,Brendan Head,59-6
+1,1,3,Poker Players,Burn Card,"<strong>On Recruit:</strong> Scry 2. You may then discard this unit to play the top card of your deck into this Lane. If you do, lose 1 HP.",,,Brendan Head,59-7
+1,1,2,Poker Players,Community Cards,"<em>- Flop -</em><br><strong>On Recruit:</strong> Gain 3 HP.<br><em>- Turn -</em><br><strong>End of Turn:</strong> If played this turn, gains a +1/+1 counter.<br><em>- River -</em><br><strong>Start of Turn:</strong> Heal 1 damage on any unit.",,,Brendan Head,59-8
+1,1,5,Poker Players,Five of a Kind,<em>- Nobody likes a cheater -</em><br>{attacksLast:Attacks Last.}<br> You must damage this first in this lane.<br><br><em>- Extra Card Smuggled In -</em><br><strong>On Recruit:</strong> place a Playing Card in this Lane.,,,Brendan Head,59-9
+1,1,2,Poker Players,Flush,"<strong>On Recruit:</strong> A unit in each Lane gains a +1/+1 counter. If a Lane is empty, place a token 0/0 unit with a +1/+1 counter on it instead.",,,Brendan Head,59-10
+1,1,4,Poker Players,Four of a Kind,"<strong>On Recruit:</strong> Move this to a 4th Lane. While this Alive, both players can use this Lane.<br><strong>On Death:</strong> Move all units in this Lane into different Lanes of your choice.",,,Brendan Head,59-11
+1,1,2,Poker Players,"Small Blind, Big Blind","<strong>On Recruit:</strong> Opponent deals 1 targeted damage in this Lane, then you deal up to 2 targeted damage in any combination in any Lane(s).",,,Brendan Head,59-12
+1,1,2,Poker Players,Straight,<em>- Sequential -</em><br><em>- 1 -</em><br>Place a +1/+1 counter on a unit in a Lane<br><em>- 2 -</em><br>Place a Playing Card in the next Lane.<br><em>- 3 -</em><br>Place a Playing Card with a +1/+1 counter in the next Lane after that.,,,Brendan Head,59-13
+1,2,2,Poker Players,Ante,"<strong>On Recruit:</strong> Both you and opponent lose 2 HP. If an opponent's unit dies in this combat, gain 4 HP.",,,Brendan Head,59-14
+1,2,3,Poker Players,Bluff,"After selecting this card to play, play it face-down in a Lane and a put a face-down Playing Card in the other two Lanes.<br><strong>On Recruit:</strong> Your opponent must decide which Lane they think this card is in. Then discard the face-down Playing Cards and flip this. If opponent correctly guessed, they gain 2 HP. Otherwise, this Attacks this turn.",,,Brendan Head,59-15
+1,2,3,Poker Players,Full House,"<strong>Start of Combat:</strong> If you have at least 2 other units in this Lane, this unit swaps stats for this combat.",,,Brendan Head,59-16
+1,2,2,Poker Players,Two Pair,"<strong>On Recruit:</strong> Choose another friendly unit in any Lane.<br>For this turn, choose - its Attack Power becomes equal to its Defence or its Defence becomes equal to its Attack Power.",,,Brendan Head,59-17
+1,3,1,Poker Players,Three of a Kind,<strong>On Recruit:</strong> Place a Playing Card with 2 damage counters and three +1/+1 counters on it in another Lane.,,,Brendan Head,59-18
+1,4,1,Poker Players,High Card Kicker,{attacksLast:Attacks Last.}<br> This unit can only Attack if there is at least one other friendly unit in this Lane.,,,Brendan Head,59-19
+5,0,2,Superheroes,Innocent Civilian,,,Starting,Brendan Head,60-1
+1,0,0,Superheroes,Death Pool,<em>- Meta Knowledge -</em><br>You can play this card as a copy of any card that exists in Mini Battles.,,,Brendan Head,60-2
+1,0,2,Superheroes,Eagle-Eye,{attacksLast:Attacks Last.}<br><em>- Choose Arrow -</em><br><strong>Start of Combat:</strong> Choose - Either when this attacks it this deals 2 damage on any 1 unit of your choice in any Lane or it deals 1 damage to each Lane.,,,Brendan Head,60-3
+1,0,4,Superheroes,The Big Green,"When you damage this unit, do not remove +1/+1 counters but instead place damage counters.<br><em>- Get Angry -</em><br>When you place damage counters on this, also place a +1/+1 counter as well.",,,Brendan Head,60-4
+1,0,0,Superheroes,Zach Snyder,<em>- Justice Is Grey -</em><br>{action:Action}<br> All damage counters on all units in all Lanes are replaced with +1/+1 counters.,Action,,Brendan Head,60-5
+1,1,1,Superheroes,Ants! Ant Guy!,"<em>- Enlarge -</em><br><strong>Start of Combat:</strong> May choose this to gain 3 Attack Power this combat. If you do, this takes 1 damage at end of turn.",,,Brendan Head,60-6
+1,1,1,Superheroes,Bat Guy,"<em>- Tragic Backstory -</em><br><strong>On Recruit:</strong> Place two Innocent Civilians in this Lane. Then both take 2 damage.<br><em>- Study for Contingency -</em><br>Whenever a friendly unit is placed in this Lane, this gains a +1/+1 counter. ",,,Brendan Head,60-7
+1,1,2,Superheroes,Colonel America,<em>- Shield of Vibratinium -</em><br>The first point of Attack damage you receive in this Lane each turn is redirected back to your opponent.,,,Brendan Head,60-8
+1,1,2,Superheroes,Dare Demon,"Attacks First, Attacks normally and Attacks Last each Combat.<br><em>- Blind Fighting -</em><br>When this attacks, roll a dice to determine which Lane it attacks into.",,,Brendan Head,60-9
+1,1,2,Superheroes,Iron Guy,<em>- Fire Missiles -</em><br><strong>On Recruit:</strong> Deal 1 Attack damage in both other Lanes.,,,Brendan Head,60-10
+1,1,2,Superheroes,Jean Slightly-Off Stone Colour,"<em>- Mind Wipe -</em><br><strong>On Recruit:</strong> Choose a unit in any Lane. While Jean is alive, treat that unit as if it has no text on its card.",,,Brendan Head,60-11
+1,1,4,Superheroes,Professor-Z,<strong>On Recruit:</strong> Choose a Lane. Your opponent must play into that Lane next turn.,,,Brendan Head,60-12
+1,1,2,Superheroes,Spy Da Man,<em>- Web Swinging -</em><br>You may move this unit to a different Lane at any time except during Combat.<br><em>- Photo Shoot -</em><br><strong>After Attacking:</strong> If this unit was not damaged during this combat stage it gains a +1/+1 counter.,,,Brendan Head,60-13
+1,1,1,Superheroes,The Fast and The Flash,{attacksFirst:Attacks First.}<br> <strong>On Recruit:</strong> Attacks this turn.<br><em>- Super Reflexes -</em><br>This unit can only be damaged in combat by other units that Attack First.,,,Brendan Head,60-14
+1,1,1,Superheroes,Waterman,"<strong>On Recruit:</strong> Place a 0/2 Water token unit in this Lane. While this is in the same Lane as the Water token unit, Waterman gains +2 Attack Power.",,,Brendan Head,60-15
+1,0,2,Superheroes,Water Token Unit,,,Starting,Brendan Head,60-16
+1,1,3,Superheroes,Yellow Lamp,<em>- Mind Construct -</em><br><strong>On Recruit:</strong> Place a Innocent Civilian in this Lane with a +1/+1 counter on it that attacks this turn.,,,Brendan Head,60-17
+1,2,2,Superheroes,Fore,"<em>- Gift Hammer -</em><br><strong>Start of Combat:</strong> If this would attack, may choose to not have it attack to prevent an enemy in this Lane from attacking this turn.",,,Brendan Head,60-18
+1,2,2,Superheroes,Souperman,"<em>- V-Ray Vision -</em><br>You may look at the top card of your deck at any time. Once per turn, you may move it to the bottom. <em>- Flight -</em><br><strong>After Attacking:</strong> Must move to a different Lane. ",,,Brendan Head,60-19
+1,2,3,Superheroes,Wolf Marine,<em>- Mutant Healing -</em><br>Ignore this unit for the purposes of combat damage allocation.<br><em>- Adamantis Poison -</em><br><strong>End of Turn:</strong> Put a damage counter on this unit.,,,Brendan Head,60-20
+5,0,2,Poisoners,Poison Vial,,,Starting,Brendan Head,61-1
+1,0,0,Poisoners,Fast-Acting Poison,"{action:Action}<br> Enemy loses HP equal to their Poison counters, then discards all Poison counters.",Action,,Brendan Head,61-2
+1,0,4,Poisoners,Poison Healer,<strong>On Recruit:</strong> Gain 2 HP. <strong>End of Turn:</strong> Heal 1 HP damage on any unit.,,,Brendan Head,61-3
+1,0,0,Poisoners,Poisoneer,"<strong>On Recruit:</strong> Gains three +1/+1 counters,<br><strong>Start of Turn:</strong> You must remove a counter, then opponent gains 1 Poison counter.",,,Brendan Head,61-4
+1,0,0,Poisoners,Tactical Self-Poison Sabotage,"{action:Action}<br> All enemy Lanes attack this turn. For each HP you lose or have already lost this turn, opponent gains 1 Poison counter.",Action,,Brendan Head,61-5
+1,1,3,Poisoners,Poison Balancer,<strong>End of Turn:</strong> May choose for both you and opponent to gain 1 Poison counter each.,,,Brendan Head,61-6
+1,1,2,Poisoners,Poison Cobra,Attacks both Other Lanes. May choose to Opponent to lose 1 Poison counter to also attack this Lane.,,,Brendan Head,61-7
+1,1,2,Poisoners,Poison Concocter,"<strong>On Recruit:</strong> Enemy loses 1 HP if they have any Poison counters. This turn, the enemy loses 2 HP for their Poison damage instead of 1.",,,Brendan Head,61-8
+1,1,2,Poisoners,Poison Dagger,When this attacks into HP it does damage in the form of Poison counters.,,,Brendan Head,61-9
+1,1,1,Poisoners,Poison Death Renewal,"<strong>On Death:</strong> May choose this to not die but instead gain 1 damage counter and two +1/+1 counters. If you choose to, you gain 2 Poison counters.",,,Brendan Head,61-10
+1,1,2,Poisoners,Poison Executioner,<strong>Start of Turn:</strong> Sacrifice a friendly unit to cause opponent to gain 3 Poison Counters.,,,Brendan Head,61-11
+1,1,2,Poisoners,Poison Glassmaker,"<strong>On Recruit:</strong> Take 2 Poison Vials, place them in any Lane(s) in any combination. Opponent gains 1 Poison counter.",,,Brendan Head,61-12
+1,1,2,Poisoners,Poison Siphoner,<strong>On Recruit:</strong> Opponent gains 1 Poison counter. May choose Opponent to lose 1 Poison counter for you to deal 1 damage to any unit (friendly or enemy) in this Lane.,,,Brendan Head,61-13
+1,1,3,Poisoners,Poison Stalling Device,<strong>On Recruit:</strong> Opponent gains 1 Poison counter. Enemy units in this Lane don't attack this turn.,,,Brendan Head,61-14
+1,1,4,Poisoners,Poison Supplier,<strong>On Recruit:</strong> Opponent gains 1 Poison counter.,,,Brendan Head,61-15
+1,2,2,Poisoners,Poison Mercenary,"Opponent may choose to negate the damage this unit would do, but if they do they gain 2 Poison counters.",,,Brendan Head,61-16
+1,2,2,Poisoners,Poison Soldier,"If this Attacked this turn, takes 1 damage and opponent gains a Poison counter.",,,Brendan Head,61-17
+1,2,2,Poisoners,Posion Addict,{attacksLast:Attacks Last.}<br> If opponent has 2 or more Poison counters this Attacks First instead.,,,Brendan Head,61-18
+1,3,1,Poisoners,Poison Distractor,"{attacksLast:Attacks Last.}<br> This cannot do damage to HP, only to units.",,,Brendan Head,61-19
+1,0,2,Masters of the Playing Cards,Face-Down Card,,,Starting,Brendan Head,62-1
+1,1,3,Masters of the Playing Cards,Clubs,,,,Brendan Head,62-2
+1,1,4,Masters of the Playing Cards,Diamonds,,,,Brendan Head,62-3
+1,2,2,Masters of the Playing Cards,Hearts,,,,Brendan Head,62-4
+1,3,1,Masters of the Playing Cards,Spades,,,,Brendan Head,62-5
+1,,,Masters of the Playing Cards,2,<strong>On Recruit:</strong> Place a Face-Down Card in this Lane,,,Brendan Head,62-6
+1,,,Masters of the Playing Cards,3,<strong>End of Turn:</strong> Heals 1 damage on itself or another unit.,,,Brendan Head,62-7
+1,,,Masters of the Playing Cards,4,<strong>End of Turn:</strong> Can move this to a different Lane.,,,Brendan Head,62-8
+1,,,Masters of the Playing Cards,5,<strong>On Recruit:</strong> Can move this to a different Lane.,,,Brendan Head,62-9
+1,,,Masters of the Playing Cards,6,Attacks into any Lane except this Lane.,,,Brendan Head,62-10
+1,,,Masters of the Playing Cards,7,{action:Action}<br> This Lane attacks this turn.,Action,,Brendan Head,62-11
+1,,,Masters of the Playing Cards,8,{attacksLast:Attacks Last.}<br> This deals targeted damage.,,,Brendan Head,62-12
+1,,,Masters of the Playing Cards,9,<strong>On Recruit:</strong> Gain 2 HP,,,Brendan Head,62-13
+1,,,Masters of the Playing Cards,10,{attacksLast:Attacks Last.}<br> Attacks any Lane.,,,Brendan Head,62-14
+1,,,Masters of the Playing Cards,Ace,<em>- Trump -</em><br><strong>On Recruit:</strong> Attacks this turn.,,,Brendan Head,62-15
+1,,,Masters of the Playing Cards,Jack,<em>- Royal Status -</em><br><strong>On Recruit:</strong> Gains a +1/+1 counter,,,Brendan Head,62-16
+1,,,Masters of the Playing Cards,Joker,Any combination of 1 card Suit stats and 1 card Rank ability.,,,Brendan Head,62-17
+1,,,Masters of the Playing Cards,King,<em>- Leader -</em><br><strong>On Recruit:</strong> A unit of your choice gains a +1/+1 counter.,,,Brendan Head,62-18
+1,,,Masters of the Playing Cards,Queen,<em>- Chess Gambit -</em><br>Attacks First,,,Brendan Head,62-19
+12,0,0,Insects,Bug,<strong>On Recruit:</strong> Gains a +1/+1 counter.,,Starting,Brendan Head,63-1
+1,0,0,Insects,Ant Queen,<strong>On Recruit:</strong> Place two Bugs in this Lane.<br><br><strong>End of Turn:</strong> Place a Bug in this Lane.,,,Brendan Head,63-2
+1,0,1,Insects,Butterfly,"<strong>On Recruit:</strong> Gain 2 HP <em>- Metamorphosis -</em><br><strong>End of Turn:</strong> If this was played this turn, gains two +1/+1 counters.",,,Brendan Head,63-3
+1,0,1,Insects,Dragonfly,<em>- I want a Milky Way -</em><br><strong>On Recruit:</strong> Place a Bug in this Lane whenever this or another unit is placed or moved here.,,,Brendan Head,63-4
+1,0,1,Insects,Dragonfly II,<em>- I want to Eat the Sun -</em><br><strong>End of Turn:</strong> Discard a Bug in this Lane to gain two +1/+1 counters on this.,,,Brendan Head,63-5
+1,0,2,Insects,Horsefly,Bugs in this Lane Attack First. <strong>On Recruit:</strong> Place a Bug in this Lane.,,,Brendan Head,63-6
+1,0,1,Insects,Infestation,"<strong>On Recruit:</strong> Place a Bug in this Lane, then all Bugs in this Lane gain a +1/+1 counter.<br><br><strong>On Death:</strong> Place a Bug in this Lane.",,,Brendan Head,63-7
+1,0,2,Insects,Ladybug Bug,<strong>On Recruit:</strong> Place two Bugs in this Lane. Bugs can Attack any Lane this turn.,,,Brendan Head,63-8
+1,0,0,Insects,Larvae,<strong>On Recruit:</strong> Gains +1/+1 counters equal to number of +1/+1 counters on friendly units in this Lane.,,,Brendan Head,63-9
+1,0,0,Insects,Midge,{action:Action}<br> Gain 3 Bugs in this Lane that attack this turn and 1 Bug in each other Lane.,Action,,Brendan Head,63-10
+1,0,0,Insects,Mosquito Bug,"{action:Action}<br> Move a +1/+1 counter from by friendly unit in a different Lane I to this Lane as a Bug, then place another abug here. Then copy On Recruit of any friendly unit.",Action,,Brendan Head,63-11
+1,0,1,Insects,Scarab Beetle,"<strong>On Recruit:</strong> Place a Bug in this Lane, then double the number of Bugs in this Lane.",,,Brendan Head,63-12
+1,0,3,Insects,Swarm of Bugs,<strong>On Death:</strong> Place two Bugs in any Lanes.,,,Brendan Head,63-13
+1,1,1,Insects,Cricket,"<strong>Start of Combat:</strong> If this Lane is attacking, place a Bug in this Lane.",,,Brendan Head,63-14
+1,1,1,Insects,Fly,<strong>End of Turn:</strong> Move a Bug out of this Lane to place a new Bug in this Lane.,,,Brendan Head,63-15
+1,1,3,Insects,Grasshopper Bug,<strong>On Recruit:</strong> Bugs in this Lane can move to other Lanes.,,,Brendan Head,63-16
+1,1,1,Insects,Moth,"<strong>On Recruit:</strong> Place a Bug in this Lane. The first Bug to die in both other Lanes, is instead moved to this Lane.",,,Brendan Head,63-17
+1,1,1,Insects,Wasp,"Sting - <strong>On Recruit:</strong> Deal 2 targeted damage to units in this Lane, then you may deal more targeted damage but for each extra you must sacrifice a Bug in any Lane.",,,Brendan Head,63-18
+1,1,3,Insects,Worm,<strong>On Recruit:</strong> You may remove a Bug from another Lane to place two Bugs in this Lane.,,,Brendan Head,63-19
+1,2,1,Insects,Termite,"After attacking, place a Bug in this Lane.",,,Brendan Head,63-20
+3,0,2,CyberRunners,Server Rack,,,Starting,Brendan Head,64-1
+1,0,0,CyberRunners,Conversion Rate Limiter,{action:Action}<br> You can spend 1 Credit each to put a +1/+1 counters on a unit in this Lane.,Action,0 Credits,Brendan Head,64-2
+1,0,1,CyberRunners,CyberGladiator,<strong>End of Turn:</strong> Gains a +1/+1 counter or remove a +1/+1 counter to gain 1 Credit to use next turn.,,1 Credit,Brendan Head,64-3
+1,0,2,CyberRunners,Data Archiver,<strong>1 Credit:</strong> Scry 2.,,0 Credits,Brendan Head,64-4
+1,1,1,CyberRunners,Bank Transfer,<strong>On Recruit:</strong> Attacks this turn.<br><strong>0 Credits:</strong> Discard a card then gain 1 Credit.,,1 Credit,Brendan Head,64-5
+1,1,1,CyberRunners,Code Reclaimer,"<strong>On Death:</strong> Gain 2 Credits, that can carry over to next turn.",,1 Credit,Brendan Head,64-6
+1,1,3,CyberRunners,Edge Runner,<strong>1 Credit:</strong> Move this to another Lane.,,1 Credit,Brendan Head,64-7
+1,1,2,CyberRunners,Pirate Download,<strong>2 Credits:</strong> Move a enemy unit in this Lane to this side of the Lane.,,1 Credit,Brendan Head,64-8
+1,1,2,CyberRunners,Satellite Administrator,<strong>1 Credit:</strong> Gain a Server Rack in any Lane.,,1 Credit,Brendan Head,64-9
+1,1,1,CyberRunners,Sentry Operator,<strong>1 Credit:</strong> Units in this Lane can target other Lanes.,,1 Credit,Brendan Head,64-10
+1,1,1,CyberRunners,Upload Link,<strong>1 Credit:</strong> Add a +1/+1 counter to this.,,1 Credit,Brendan Head,64-11
+1,2,2,CyberRunners,Digital Sapper,<strong>1 Credit:</strong> Opponent loses 1 HP.,,2 Credits,Brendan Head,64-12
+1,2,3,CyberRunners,Distributed Network,{attacksLast:Attacks Last.}<br> Attacks all Lanes.,,3 Credits,Brendan Head,64-13
+1,2,1,CyberRunners,Download Speed,<strong>1 Credit:</strong> Attacks First if this is attacking this turn.<br><br><strong>1 Credit:</strong> Attacks this turn.,,1 Credit,Brendan Head,64-14
+1,2,3,CyberRunners,IP Trace,<strong>2 Credits:</strong> Does targeted damage this turn.,,2 Credits,Brendan Head,64-15
+1,2,2,CyberRunners,Utility Belt,"<strong>1 Credit:</strong> Attacks this turn.<br><br><strong>1 Credit:</strong> Move any unit (friendly or enemy, can be this) to a different Lane.",,2 Credits,Brendan Head,64-16
+1,3,1,CyberRunners,Marcher,<strong>1 Credit:</strong> Attacks any Lane.,,1 Credit,Brendan Head,64-17
+1,4,1,CyberRunners,Frame,{attacksLast:Attacks Last.}<br>,,2 Credits,Brendan Head,64-18
+1,4,5,CyberRunners,Hack,<strong>1 Credit:</strong> Heal 1 damage on this.,,3 Credits,Brendan Head,64-19
+6,1,2,Eclipsers,Fighter,{attacksLast:Attacks Last.}<br>,,"Ship, Starting",Brendan Head,65-1
+1,0,1,Eclipsers,Armour Plating,All Ships in this Lane have +1 Defence.<br><strong>On Recruit:</strong> Heal 1 damage from all Ships in this Lane.,,,Brendan Head,65-2
+1,0,1,Eclipsers,Boosters,Ships placed in this Lane Attack the same turn they are played.,,,Brendan Head,65-3
+1,0,1,Eclipsers,Double Barrel,"When Ships in this Lane attack, they attack twice.",,,Brendan Head,65-4
+1,0,1,Eclipsers,Energy Batteries,"Whenever a +1/+1 counter is placed on Ships in this Lane, place an additional counter.",,,Brendan Head,65-5
+1,0,1,Eclipsers,Extra Ammunition,All Ships in this Lane gain a +1/+1 counter.,,,Brendan Head,65-6
+1,0,1,Eclipsers,Fleet Summon,{action:Action}<br> Place a Ship in each Lane.,Action,,Brendan Head,65-7
+1,0,1,Eclipsers,Light-Speed Engine,All Ships in this Lane Attack First.,,,Brendan Head,65-8
+1,0,1,Eclipsers,Nanobot Repairs,<strong>End of Turn:</strong> All Ships in this Lane heal 1 damage. ,,,Brendan Head,65-9
+1,0,1,Eclipsers,Plasma Cannons,All Ships in this Lane have +1 Attack Power.,,,Brendan Head,65-10
+1,0,1,Eclipsers,Range Extender,All Ships in this Lane can attack any Lane.,,,Brendan Head,65-11
+1,0,1,Eclipsers,Scrap Retriever,"All Ships in this Lane gain the ability ""<strong>On Death:</strong> Gain 1 HP"". ",,,Brendan Head,65-12
+1,0,1,Eclipsers,Self-Replicator,<strong>End of Turn:</strong> Place a Ship in this Lane if there are less than two Ships in this Lane.,,,Brendan Head,65-13
+1,0,1,Eclipsers,Squad Blast,{action:Action}<br> All Ships in this Lane attack this turn.,Action,,Brendan Head,65-14
+1,0,1,Eclipsers,Targeting Computer,All Ships in this Lane deal targeted damage to units.,,,Brendan Head,65-15
+1,0,1,Eclipsers,Teleporter Module,<strong>End of Turn:</strong> All Ships in this Lane can move into different Lanes.,,,Brendan Head,65-16
+1,0,1,Eclipsers,Weapon Steal,"All Ships in this Lane gain the ability ""<strong>On Death:</strong> Another Ship in any Lane gains a +1/+1 counter"".",,,Brendan Head,65-17
+6,0,2,Renowners,Renown Through Shield,,,Starting,Brendan Head,66-1
+1,0,2,Renowners,Intelligence Through Plots,"<strong>On Recruit:</strong> Gain a +1/+1 counter on any unit. Once per turn when you place a +1/+1 counter on a unit, place one more +1/+1 on that unit.",,,Brendan Head,66-2
+1,0,3,Renowners,Observe Through Cowardice,"<strong>End of Turn:</strong> If this was played this turn, put a +1/+1 counter on all friendly units that attacked this turn.",,,Brendan Head,66-3
+1,0,2,Renowners,Reconstitution Through Recruitment,<strong>On Recruit:</strong> Remove a damage counter on any friendly unit and then place a +1/+1 counter on that unit.,,,Brendan Head,66-4
+1,0,2,Renowners,Respect Through Rites,<strong>On Death:</strong> Another unit in this Lane gains two +1/+1 counters.,,,Brendan Head,66-5
+1,0,0,Renowners,Sharing Through Gift,"<strong>On Recruit:</strong> Gains two +1/+1 counters. After attacking, this loses a +1/+1 counter then place a +1/+1 counter on another unit.",,,Brendan Head,66-6
+1,0,2,Renowners,Speed Through Armour,"<strong>On Recruit:</strong> Gains a +1/+1 counter. While friendly units in this Lane have +1/+1 counters on them, they Attack First.",,,Brendan Head,66-7
+1,0,0,Renowners,Squad Through Army,{action:Action}<br> Every friendly unit in every Lane gains a +1/+1 counter.,Action,,Brendan Head,66-8
+1,0,2,Renowners,Unite Through One,"When a friendly unit in this Lane gains a +1/+1 counter, this does too.",,,Brendan Head,66-9
+1,0,2,Renowners,Vitality Through Inspiration,"<strong>On Recruit:</strong> Lose 2 HP and this gains a +1/+1 counter. When friendly units in this Lane take damage, gain 1 HP for each +1/+1 counter removed.",,,Brendan Head,66-10
+1,1,2,Renowners,Accuracy Through Victory,"After each time the enemy loses HP from damage in this Lane, this gains a +1/+1 counter. While this has +1/+1 counters on it, it can target any Lane.",,,Brendan Head,66-11
+1,1,2,Renowners,Command Through Maneuvers,"<strong>On Recruit:</strong> May move 1 friendly unit into or from this Lane. <br>When this attacks, if it is the only friendly unit in this Lane and has no +1/+1 counter, it gains two +1/+1 counters.",,,Brendan Head,66-12
+1,1,2,Renowners,Courage Through Damage,"<strong>On Recruit:</strong> Gains a +1/+1 counter. When you remove +1/+1 counters from this, another unit gains the counter instead.",,,Brendan Head,66-13
+1,1,2,Renowners,Defence Through Area,"When you recruit a friendly unit in a Lane other than this one, it gains a +1/+1 counter. ",,,Brendan Head,66-14
+1,1,1,Renowners,Honour Through Battle,"<strong>End of Turn:</strong> If this attacked this turn, it gains a +1/+1 counter.",,,Brendan Head,66-15
+1,1,2,Renowners,Revenge Through Vigour,"When a friendly unit in this Lane gains a +1/+1 counter, deal 1 Attack damage in this Lane.",,,Brendan Head,66-16
+1,1,1,Renowners,Strength Through Death,"After an enemy unit in this Lane dies, this gains a +1/+1 counter.",,,Brendan Head,66-17
+7,0,2,Sam,Welsh Wall,<em>- Keeps The English Out -</em><br>,,Starting,Brendan Head,67-1
+1,0,0,Sam,Plant Grower,{action:Action}<br> Place a +1/+1 counter on any two friendly units in this Lane.<br><br><em>- Plant Proliferation -</em><br>All friendly units in all Lanes with +1/+1 counters gain one more counter.,Action,,Brendan Head,67-2
+1,0,2,Sam,Blogging,"<em>- Captive Audience -</em><br>Whenever an enemy unit is placed in or moved into this Lane, this unit gains a +1/+1 counter.",,,Brendan Head,67-3
+1,1,2,Sam,Corvid Plot,"<em>- Plot Reveal -</em><br><strong>On Recruit:</strong> Either copy the ""On Recruit"" effect of any friendly unit or deal 1 Attack damage in this Lane.",,,Brendan Head,67-4
+1,1,1,Sam,Dungeon World,<strong>On Recruit:</strong> Roll two d6s and compare the result. You may place up to 2 damage counters on friendly units to add +1 to the result for each counter.<br><strong>10+:</strong> This gains three +1/+1 counters and attacks this turn.<br><strong>7-9:</strong> This gains two +1/+1 counters.<br><strong>6 or less:</strong> This gains a +1/+1 counter.,,,Brendan Head,67-5
+1,1,3,Sam,Logo Designer,"<em>- Admire the Back Logo -</em><br><strong>On Recruit:</strong> Flip any unit in any Lane face-down. It loses all counters and cannot be targeted, damaged or given more counters.<br><strong>End of Turn:</strong> Flip any unit in any Lane over face-down or unflip all face-down cards (must unflip if at least three cards are already face-down). When flipped face up, units gain a +1/+1 counter.",,,Brendan Head,67-6
+1,1,1,Sam,Recursive Recursion,"Whenever this returns to your hand, move all +1/+1 counters on it to Paradox Space then gain a +1/+1 counter to Paradox Space.<br><strong>On Recruit:</strong> Either return this to your hand or place all +1/+1 counters in Paradox Space on this.<br><strong>End of Turn:</strong> If this is in your hand, you may play it again. Otherwise, you may return it to your hand.",,,Brendan Head,67-7
+1,1,2,Sam,Witch,<em>- Curse -</em><br><strong>On Recruit:</strong> Your opponent must discard a card from either the battlefield or their hand and replace it with one of their basic starting units.,,,Brendan Head,67-8
+1,1,2,Sam,Homestuck Homestuck,"<em>- Homestuck Homestuck -</em><br>Any time you would trigger a card effect, you may trigger it twice.<br>If you do, lose 2 HP.",,,Brendan Head,67-9
+1,1,1,Sam,Communism,<strong>On Recruit:</strong> Place two Welsh Walls in this Lane. This gains three +1/+1 counters.<br>Then equally redistribute all +1/+1 counters in this Lane among friendly and enemy units as evenly as possible.,,,Brendan Head,67-10
+1,1,3,Sam,AI BAN,"<strong>On Recruit:</strong> Gain 2 HP.<br><em>- Do It Manually -</em><br>Units don't automatically attack for either player anymore. After playing cards, both players may lose 1 HP per Lane they want to attack instead.",,,Brendan Head,67-11
+1,1,2,Sam,Tarot Reading,"You may look at the top card of your deck at any time. Whenever you would draw a card, you may first discard the top card of your deck (this only triggers once per draw).",,,Brendan Head,67-12
+1,1,4,Sam,House Purchase,"<strong>On Recruit:</strong> Gain a money counter to your LISA supply.<br><strong>End of Turn:</strong> Gain a money counter to your LISA Supply. You may then purchase Welsh Walls for 2 money counters each, placed in any Lane.",,,Brendan Head,67-13
+1,1,3,Sam,Pint Savings,"<em>- Money Gains -</em><br>Whenever you would gain a +1/+1 counter, money counter or HP, gain 1 more.",,,Brendan Head,67-14
+1,2,5,Sam,Welsh Dragon,{attacksLast:Attacks Last.}<br><em>- Fire Breath -</em><br><strong>On Recruit:</strong> A friendly unit in this Lane (can be this) gains a damage counter.,,,Brendan Head,67-15
+1,2,3,Sam,Typescript,"For the purposes of card effects, all units can now be considered friendly or enemy (you choose per unit per effect).",,,Brendan Head,67-16
+1,2,2,Sam,Veggie,"<em>- Prevent Harm -</em><br>When a friendly unit would attack, you may instead have it not attack to gain 1 HP for each Attack Power it has.",,,Brendan Head,67-17
+1,1,3,Sam,Home Server,"<em>- Hacking Program -</em><br><strong>End of Turn:</strong> Look at the top 2 cards of your deck. You may spend either 1 HP, one money counter or one +1/+1 counter from any friendly unit to discard the top card.",,,Brendan Head,67-18
+1,2,2,Sam,Aspiring Carpenter,"<em>- Erect Fence -</em><br>Whenever you place a friendly unit, you may place a Welsh Wall with 1 damage counter on it in the same Lane.",,,Brendan Head,67-19
+6,0,2,Discard Delvers,Corpse,,,Starting,Brendan Head,68-1
+1,1,3,Discard Delvers,Redirection Machine,"When this unit would be damaged, may damage another friendly unit instead. Other Friendly units in this Lane gain ""<strong>On Death:</strong> Gain 1 HP"".",,,Brendan Head,68-2
+1,1,1,Discard Delvers,Last Breath,"<strong>On Recruit:</strong> Place top card from deck in your discard pile. If it has an On Recruit ability, you may trigger it on this instead.",,,Brendan Head,68-3
+1,0,2,Discard Delvers,Ghost-Powered Sword,Gains 1 Attack Power for every 2 cards in your discard pile.,,,Brendan Head,68-4
+1,0,1,Discard Delvers,Luck of the Death,"<strong>On Recruit:</strong> Look at the top card of your deck and the top card of your discard pile. If either has 2 or more Attack Power, put one of them in this Lane. Otherwise a unit in this Lane gains two +1/+1 counters.",,,Brendan Head,68-5
+1,1,3,Discard Delvers,Resurrection Amulet,<strong>Start of Turn:</strong> You may draw the top card of your discard pile instead of from the deck.,,,Brendan Head,68-6
+1,1,2,Discard Delvers,Death Avenger,<strong>On Death:</strong> Put another card from your discard pile into this Lane.,,,Brendan Head,68-7
+1,1,2,Discard Delvers,Skeleton Surveiller,<strong>On Recruit:</strong> Look at top 2 cards of deck and put one in your discard pile.,,,Brendan Head,68-8
+1,0,2,Discard Delvers,Wheel of Death,"<strong>On Recruit:</strong> Discard any number of cards from hand. For every card you choose to keep in hand, this gains a +1/+1 counter. Next turn, draw back up to 3 cards.",,,Brendan Head,68-9
+1,2,2,Discard Delvers,Speed of a Thousand Souls,Attacks First if there are 4 or more cards in your discard pile.,,,Brendan Head,68-10
+1,1,2,Discard Delvers,Return to the Forge,"<strong>On Recruit:</strong> Move up to 3 cards from your discard pile to the bottom of your deck in any order. For each card you move, this gains the next ability in this list: Attacks First, Attacks this turn, Gains a +1/+1 counter.",,,Brendan Head,68-11
+1,2,2,Discard Delvers,Final Shot,"When this is placed in your discard pile, deal 1 targeted damage to any unit.",,,Brendan Head,68-12
+1,1,1,Discard Delvers,Death Life Bringer,<strong>On Recruit:</strong> Gain 1 HP for every 2 cards in your discard pile,,,Brendan Head,68-13
+1,0,1,Discard Delvers,Bone Pile,"When this is placed in your discard pile: Set aside a +1/+1 counter to your supply, then may return this to your hand. If you leave this in your discard pile, the next card that would die gains ""<strong>On Death:</strong> Do not die and gain all +1/+1 counters from the supply""",,,Brendan Head,68-14
+1,2,2,Discard Delvers,Corpse Stealer,<strong>On Recruit:</strong> Move the top card from your opponent's discard pile to your discard pile.,,,Brendan Head,68-15
+1,0,3,Discard Delvers,Feed on Me,When this is placed in your discard pile: Opponent loses 2 HP and any unit gains a +1/+1 counter.,,,Brendan Head,68-16
+1,1,2,Discard Delvers,Gladiator of Death,"<strong>End of Turn:</strong> If at least two friendly units in the same Lane died this turn, this gains a +1/+1 counter.",,,Brendan Head,68-17
+9,0,2,Quadball Scotland,Scotland Supporter,,,Starting,Brendan Head,69-1
+1,2,2,Quadball Scotland,Chaser,<em>- Tactical Formation -</em><br><strong>Start of Combat:</strong> May move this to any Lane.,,,Brendan Head,69-2
+1,2,2,Quadball Scotland,Chaser,<em>- Tactical Formation -</em><br><strong>Start of Combat:</strong> May move this to any Lane.,,,Brendan Head,69-3
+1,2,2,Quadball Scotland,Chaser,<em>- Tactical Formation -</em><br><strong>Start of Combat:</strong> May move this to any Lane.,,,Brendan Head,69-4
+1,1,3,Quadball Scotland,Keeper (Keith),"<em>- Immunity -</em><br>The first time you place a damage counter on this each turn, that damage counter is deleted. ",,,Brendan Head,69-5
+1,1,3,Quadball Scotland,Beater,"<em>- Throw Dodgeball -</em><br><strong>Start of Turn:</strong> Remove a +1/+1 counter from this, then put a damage counter on any enemy unit in this Lane.<br><em>- Gain Possession -</em><br><strong>End of Turn:</strong> This gains a +1/+1 counter if it doesn't have one.",,,Brendan Head,69-6
+1,1,3,Quadball Scotland,Beater,"<em>- Throw Dodgeball -</em><br><strong>Start of Turn:</strong> Remove a +1/+1 counter from this, then put a damage counter on any enemy unit in this Lane.<br><em>- Gain Possession -</em><br><strong>End of Turn:</strong> This gains a +1/+1 counter if it doesn't have one.",,,Brendan Head,69-7
+1,2,2,Quadball Scotland,Flag Runner,"<strong>On Recruit:</strong> Gains two +1/+1 counters.<br><br><em>- Next Handicap -</em><br><strong>End of Turn:</strong> If this was not played this turn, it takes 2 damage.",,,Brendan Head,69-8
+1,0,4,Quadball Scotland,Seeker,"<em>- Window! -</em><br><strong>Start of Combat:</strong> Can move this to any Lane. Roll a d6 dice. On a 5-6, opponent loses 3 HP, all enemy units in this Lane take 1 damage and this is discarded.<br><em>- Bubble -</em><br>Gain a +1 bonus on the dice roll for each Beater in this Lane.",,,Brendan Head,69-9
+1,1,3,Quadball Scotland,Trading Cards,"<strong>On Recruit:</strong> Both you and Opponent draw 1 card, then they show you their hand. May swap any 1 card from your hand from with one from their hand.",,,Brendan Head,69-10
+1,0,1,Quadball Scotland,Trojan Horse,<em>- Scotland Together Strong! -</em><br><strong>On Recruit:</strong> Place a Scotland Supporter in this Lane.<br>Then this gains a +1/+1 counter for each friendly unit in this Lane (including itself). ,,,Brendan Head,69-11
+1,1,2,Quadball Scotland,Irn Bru Kit,"<em>- Awestruck by the Beauty of the Kit -</em><br><strong>On Recruit:</strong> Choose an enemy unit in any Lane that would attack this turn, it does not attack this turn.",,,Brendan Head,69-12
+1,1,2,Quadball Scotland,Timeout,<em>- Giant Ice Water Box -</em><br><strong>On Recruit:</strong> Return a card from your discard pile to the top of your deck.,,,Brendan Head,69-13
+2,1,2,Quadball Scotland,Sub Rotation,"<strong>On Recruit:</strong> Search your deck for any card.<br>Draw that card, discard any card, then shuffle your deck.",,,Brendan Head,69-14
+1,2,1,Quadball Scotland,Memes,<em>- Create Reel -</em><br><strong>On Recruit:</strong> Gain a Scotland Supporter in any Lane.<br><br><em>- It Goes Viral! -</em><br><strong>End of Turn:</strong> Gain a Scotland Supporter in any Lane.,,,Brendan Head,69-15
+1,2,1,Quadball Scotland,Boat Race,<em>- Winning the Social -</em><br><strong>On Recruit:</strong> Attacks this turn and every turn.<br><br><em>- Drunk -</em><br><strong>End of Turn:</strong> Either lose 1 HP or discard this unit.,,,Brendan Head,69-16
+1,0,0,Quadball Scotland,Red Card,{action:Action}<br> Choose an enemy unit in this Lane. It gets discarded.<br><br><em>- Counter-Attack -</em><br>Gain a +1/+1 counter on any friendly unit in any Lane.,Action,,Brendan Head,69-17
+1,0,0,Quadball Scotland,Sticks Up!,{action:Action}<br> All Lanes attack this turn. Gain 1 Attack Power in each Lane.,Action,,Brendan Head,69-18
+6,0,1,Halloween,Grave,<strong>On Death:</strong> Flip this to a Reanimated Corpse,,Starting,Brendan Head,70-1
+6,1,1,Halloween,Reanimated Corpse,,,Starting,Brendan Head,70-2
+1,1,3,Halloween,Spooky Skeleton Reversal,<strong>On Recruit:</strong> Discard your hand and the top 2 cards of your deck. Then swap your discard pile and deck. Draw a new hand of 3 cards.,,,Brendan Head,70-3
+1,1,5,Halloween,Pumpkin Capture,<strong>On Recruit:</strong> Put an enemy unit from this Lane onto this. It no longer attacks or has abilities or card text.<br><strong>On Death:</strong> Return the card to your opponent's side of the Lane.,,,Brendan Head,70-4
+2,0,4,Halloween,Vampire II: Revenge of the Revenge,<strong>On Recruit:</strong> Attacks this turn. Move any number of damage counters from other units onto this.<br>This gains +1 Attack Power per damage counter on it.,,,Brendan Head,70-5
+1,2,2,Halloween,Slasher: Slasher Returns,<strong>On Death:</strong> Returns to your hand.<br><strong>Start of Turn:</strong> May put a damage counter on this to gain a +1/+1 counter on another unit.,,,Brendan Head,70-6
+2,0,2,Halloween,Scary Witch,<strong>On Recruit:</strong> Gains three +1/1 counters.<br><strong>End of Turn:</strong> Remove a +1/+1 counter from this or put one on it if it has no +1/+1 counter on it.,,,Brendan Head,70-7
+1,1,3,Halloween,Ritualist of Revival,<em>- Spooky Ritual -</em><br>This doesn't attack normally but instead immediately attacks whenever you gain HP.<br><strong>On Recruit:</strong> Gain 1 HP.<br><strong>Start of Turn:</strong> Gain 1 HP.,,,Brendan Head,70-8
+1,1,1,Halloween,Ghostly Presence,"<strong>On Recruit:</strong> Opponent must discard a card of your choice and draw a new one.<br><strong>On Death:</strong> Look at top card of your deck, then either draw a card from deck or discard pile.",,,Brendan Head,70-9
+2,2,1,Halloween,Super Werewolf,"<strong>On Recruit:</strong> Attacks this turn. {attacksLast:Attacks Last.}<br> After attacking, gain a Grave in any Lane.",,,Brendan Head,70-10
+1,1,4,Halloween,Rejuicer,"<strong>On Recruit:</strong> Gain a Grave in any Lane, then flip any friendly unit. Flipped non-Grave units are invulnerable but do not attack.<br><strong>End of Turn:</strong> Flip any friendly unit.",,,Brendan Head,70-11
+2,2,2,Halloween,Spectral Spirit,<strong>On Recruit:</strong> May search your deck or discard pile for any card then draw it.<br><strong>When Flipped (either up or down):</strong> Gain 1 HP and a +1/+1 counter on another unit.,,,Brendan Head,70-12
+1,1,2,Halloween,Grimmest Reaper,"<strong>On Death:</strong> An opponent's unit of their choice in any Lane dies, or they lose 2 HP if no units remain.",,,Brendan Head,70-13
+1,3,3,Halloween,The Pumpking,<strong>On Recruit:</strong> This Lane attacks this turn. All enemy units in this Lane move to another Lane of opponent's choice.,,,Brendan Head,70-14
